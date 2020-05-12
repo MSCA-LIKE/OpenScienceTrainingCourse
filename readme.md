@@ -18,7 +18,7 @@ What are open science and data management? A discussion using COVID-19 experienc
 
 | venue | date  | contact hours | self-study hours | instructor |
 |-----|---|---|---|---|
-| online | May 25, June 2  | 1 | 1 | A. Clifton |
+| online |  | 1 | 1 | A. Clifton |
 
 ### Self study 1: Background reading
 
@@ -34,7 +34,7 @@ How you can implement FAIR and R5? Based on [this presentation](https://zenodo.o
 
 | venue | date  | contact hours | self-study hours | instructor |
 |-----|---|---|---|---|
-| online | June 16 | 1 | 1 | AC / NV |
+| online |  | 1 | 1 | AC / NV |
 
 ### Self study 2: Is your group's work FAIR?
 
@@ -50,7 +50,7 @@ Sharing experience versus sharing data; NDAs; patents; licensing; strategies for
 
 | venue | date  | contact hours | self-study hours | instructor |
 |-----|---|---|---|---|
-| online | July 1 | 1 | 1 | AC / NV |
+| online |  | 1 | 1 | AC / NV |
 
 ### Self study 3: Implementing Open Science
 
@@ -62,6 +62,12 @@ Working with your group, implement at least two of the ideas you identified in s
 
 ### Deliverable 1: a document summarizing the work done in Self study 3 and Self study 4.
 
+Prepare a report describing what was done to make your work FAIR and implement the R5 concepts.
+
+| venue | date  | contact hours | self-study hours | instructor |
+|-----|---|---|---|---|
+| - | TBD | - | 8 | - |
+
 ### Seminar 4: If a tree falls in a forest...
 
 [... and no one is around to hear it, does it make a sound?](https://en.wikipedia.org/wiki/If_a_tree_falls_in_a_forest)
@@ -70,7 +76,7 @@ Opportunities for communicating research through social media, professional netw
 
 | venue | date  | contact hours | self-study hours | instructor |
 |-----|---|---|---|---|
-| online | July 1 | 1 | 1 | AC / NV |
+| online |  | 1 | 1 | AC / NV |
 
 ### Self study 4: Communications strategies
 
@@ -78,7 +84,7 @@ Using the same paper you reviewed in Self study 2 and Self study 3, create a com
 
 | venue | date  | contact hours | self-study hours | instructor |
 |-----|---|---|---|---|
-| online | July 1 | - | 1 | AC / NV |
+| online |  | - | 1 | AC / NV |
 
 ### Seminar 5: what are data management plans, and why do they matter?
 
@@ -104,11 +110,19 @@ Will take place immediately before the DTU Remote Sensing Summer School
 
 ### Self study: revise data management plan
 
+Based on feedback from your colleagues, revise your data management plan.
+
 | venue | date  | contact hours | self-study hours | instructor |
 |-----|---|---|---|---|
 | - | December 2020 | 4 | 4 | NV/AC |
 
 ### Deliverable 2: data management plan
+
+Submit the revised data management plan.
+
+| venue | date  | contact hours | self-study hours | instructor |
+|-----|---|---|---|---|
+|  | TBD |  |  |  |
 
 
 ## Grading
