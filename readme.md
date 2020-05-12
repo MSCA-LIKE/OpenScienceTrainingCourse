@@ -18,15 +18,15 @@ What are open science and data management? A discussion using COVID-19 experienc
 |-----|---|---|---|---|
 | online | May 25, June 2  | 1 | 1 | A. Clifton |
 
-### Self study 1: background reading
+### Self study 1: Background reading
 
-Choose one of the introductory papers from [this list](./selfstudy1.md]).
+Read at least one of the introductory papers from [this list](./selfstudy1.md]).
 
 | venue | date  | contact hours | self-study hours | instructor |
 |-----|---|---|---|---|
 | - | - | - | 4 | - |
 
-### Seminar 2: how many ways are there to be open?
+### Seminar 2: How many ways are there to be open?
 
 Review and discussion of results from self study period. Discussion of implications for LIKE ESRs.
 
@@ -37,8 +37,6 @@ Review and discussion of results from self study period. Discussion of implicati
 ### Self study 2: Is your group's work FAIR?
 
 Identify how Open Science and other data management principles were implemented in a recent paper from your group. 
-
-Deliverable: a document summarizing the FAIR and R5 characteristics of the paper.
 
 | venue | date  | contact hours | self-study hours | instructor |
 |-----|---|---|---|---|
@@ -56,6 +54,8 @@ Sharing experience versus sharing data; NDAs; patents; licensing; strategies for
 
 Working with your group, implement at least two of the ideas you identified in self-study task 2 above.
 
+Deliverable: a document summarizing the work done in Self study 3 and Self study 4.
+
 | venue | date  | contact hours | self-study hours | instructor |
 |-----|---|---|---|---|
 | online | - | - | 6 | - |
@@ -72,18 +72,21 @@ Communicating science. Opportunities for communicating research through social m
 
 ### Self study 4: Communications strategies
 
-Choose two different stakeholders and create a communications strategy around them.
+Using the same paper you reviewed in Self study 2 and Self study 3, create a communications strategy for two of your stakeholders. Review your activities from Self study 3 against this strategy.
+
+| venue | date  | contact hours | self-study hours | instructor |
+|-----|---|---|---|---|
+| online | July 1 | - | 1 | AC / NV |
 
 ### Seminar 5: what are data management plans, and why do they matter?
 
 ### Self study 5: Draft your data management plan
-3. Prepare a draft of a data management plan (6 hours).
-4. Obtain feedback from one other ESR on your data management plan and revise your data management plan (6 hours)
+
+Prepare a draft of a data management plan. Obtain feedback from one other ESR on your data management plan and revise your data management plan accordingly.
 
 | venue | date  | contact hours | self-study hours | instructor |
 |-----|---|---|---|---|
 | online | - | - | 12 | - |
-
 
 ### Workshop: Open Science in LIKE
 
