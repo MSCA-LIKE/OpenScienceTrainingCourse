@@ -4,9 +4,11 @@
 |---|---|---|
 | - | 4 | - |
 
-Identify how Open Science and other data management principles were implemented in a recent paper from your group. See also [Self study 3] and [Deliverable 1]
+Identify how Open Science and other data management principles were implemented in a recent paper from your group. 
+
+See also [Self study 3](selfstudy3.md) and [Deliverable 1](deliverable1.md).
 
 ## Course progress
 Previous event: [Seminar 2: "Guiding Principles"](seminar2.md)
 
-Next event: [Seminar 2: "Open Science and Intellectual Property"](seminar3.md)
+Next event: [Seminar 3: "Open Science and Intellectual Property"](seminar3.md)
