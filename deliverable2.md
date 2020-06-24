@@ -10,6 +10,5 @@ Submit the revised data management plan to the course instructors.
 - 
 
 ## Course progress
-Previous event: [Self study 6: "Revise your data management plan"](selfstudy6.md)
-
-This is the last event in the course.
+| Previous: [Self study 6: "Revise your data management plan"](selfstudy6.md) | [Course outline](OpenScienceTrainingCourse#course-outline) | Next: This is the last event in the course |
+|---|---|---|
