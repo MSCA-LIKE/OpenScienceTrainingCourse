@@ -9,4 +9,4 @@ Prepare a draft of your LIKE data management plan and publish it through an appr
 ## Course progress
 Previous event: [Seminar 5: "what are data management plans, and why do they matter?"](seminar5.md)
 
-Next event: [Workshop 1: "Open Science in LIKE"](Workshop1.md)
+Next event: [Workshop 1: "Open Science in LIKE"](workshop1.md)
