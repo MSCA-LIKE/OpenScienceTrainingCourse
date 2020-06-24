@@ -39,19 +39,19 @@ Either a `Pass` or a `fail` grade will be awarded.
 
 Weeks given are calendar weeks in 2020 and 2021. See e.g. http://www.whatweekisit.org/ for details.
 
-| Week | Seminar                                                | Self study                           | Deliverable          |
-|------|--------------------------------------------------------|--------------------------------------|----------------------|
-| 40   | [Introducing open science](seminar1.md)                |                                      |                      |
-|      |                                                        | [Background reading](selfstudy1.md)  |                      |
-| 42   | [Guiding principles](seminar2.md)                      |                                      |                      |
-|      |                                                        | [Is your group’s work FAIR?](selfstudy2.md) |               |
-| 44   | [Open science and intellectual property](seminar3.md)  |                                      |                      |
-|      |                                                        | [Implementing Open Science](selfstudy3.md)            |     |
-| 46   | [If a tree falls in the forest... Communicating your science](seminar4.md) |                  |                      |
-|      |                                                        | [Communications strategies](selfstudy4.md) |                |
-|      |                                                        |                                      | [Implementation case study](deliverable1.md) |
-| 48   | [What are data management plans and why do they matter?](seminar5.md) |                       |                      |
-|      |                                                        | [Draft your LIKE data management plan](selfstudy5.md) |     |
-| 50   | [Workshop: Open Science in LIKE](workshop1.md)         |                                      |                      |
-|      |                                                        | [Revise data management plan](selfstudy6.md)          |     |
-| 52   |                                                        |                                      | [Data management plan](deliverable2.md) |
+| Week | Seminar | Self study | Deliverable | Contact Hours | Self-study hours |
+|---|---|---|---|---|---|
+| 40 | [Introducing open science](seminar1.md) | | | 1 | 1 |
+| | | [Background reading](selfstudy1.md) | | | 4 |
+| 42 | [Guiding principles](seminar2.md) | | | 1 | 1 |
+| | | [Is your group’s work FAIR?](selfstudy2.md) | | | 4 |
+| 44 | [Open science and intellectual property](seminar3.md) | | | 1 | 1 |
+| | | [Implementing Open Science](selfstudy3.md) | | | 4 |
+| 46 | [If a tree falls in the forest... Communicating your science](seminar4.md) | | | 1 | 1 |
+| | | [Communications strategies](selfstudy4.md) | | | 4 |
+| | | | [Implementation case study](deliverable1.md) | | 8 |
+| 48 | [What are data management plans and why do they matter?](seminar5.md) | | | 2 | 1 |
+| | | [Draft your LIKE data management plan](selfstudy5.md) | | 1 | 12 |
+| 50 | [Workshop: Open Science in LIKE](workshop1.md) | | | 4 | 4 |
+| | | [Revise data management plan](selfstudy6.md) | | | 4 |
+| 52 | | | [Data management plan](deliverable2.md) | | 1 |
