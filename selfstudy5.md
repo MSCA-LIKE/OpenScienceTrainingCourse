@@ -7,6 +7,6 @@
 Prepare a draft of your LIKE data management plan and publish it through an appropriate platform (e.g., google docs, BW Sync and share, etc.). Obtain feedback from another ESR through that platform, and revise your data management plan accordingly.
 
 ## Course progress
-Previous event: [Seminar 5: "what are data management plans, and why do they matter?"](seminar5.md)
-
-Next event: [Workshop 1: "Open Science in LIKE"](workshop1.md)
+| Previous: [Seminar 5: "what are data management plans, and why do they matter?"](seminar5.md) | [Course outline](OpenScienceTrainingCourse#course-outline) |
+ Next: [Workshop 1: "Open Science in LIKE"](workshop1.md) |
+|--|--|--|
