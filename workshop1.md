@@ -12,6 +12,5 @@ This workshop will take place immediately before the DTU Remote Sensing Summer S
 - See https://www.vindenergi.dtu.dk/english/Education/PhD/PhD-Summer-School/Remote-Sensing-for-Wind-Energy for details of the Summer School
 
 ## Course progress
-Previous event: [Self study 5: "Draft your LIKE data management plan"](selfstudy5.md)
-
-Next event: [Self study 6: "Revise your data management plan"](selfstudy6.md)
+| Previous : [Self study 5: "Draft your LIKE data management plan"](selfstudy5.md) | [Course outline](OpenScienceTrainingCourse#course-outline) |Next: [Self study 6: "Revise your data management plan"](selfstudy6.md) |
+|---|---|---|
