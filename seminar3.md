@@ -16,6 +16,5 @@ Resources:
 ](https://doi.org/10.5194/wes-5-199-2020)
 
 ## Course progress
-Previous event: [Self study 2: "Is your Group's Work FAIR?"](selfstudy2.md)
-
-Next event: [Self study 3: "Implementing Open Science"](selfstudy3.md)
+| Previous: [Self study 2: "Is your Group's Work FAIR?"](selfstudy2.md) | [Course outline](OpenScienceTrainingCourse#course-outline) | Next: [Self study 3: "Implementing Open Science"](selfstudy3.md) |
+| -- | -- | -- |
