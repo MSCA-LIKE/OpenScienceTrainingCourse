@@ -12,5 +12,5 @@ Examples of suitable case studies include:
 
 
 ## Course progress
-| Previous: [Self study 4: "Communications Strategies"](selfstudy4.md) | [Course outline](OpenScienceTrainingCourse#course-outline) | Next: [Seminar5: "What are data management plans, and why do they matter?"](seminar5.md) |
+| Previous: [Self study 4: "Communications Strategies"](selfstudy4.md) | [Course outline](readme.md#course-outline) | Next: [Seminar5: "What are data management plans, and why do they matter?"](seminar5.md) |
 |---|---|---|
