@@ -9,5 +9,5 @@ Identify how Open Science and other data management principles were implemented 
 See also [Self study 3](selfstudy3.md) and [Deliverable 1](deliverable1.md).
 
 ## Course progress
-| Previous: [Seminar 2: "Guiding Principles"](seminar2.md) | [Course outline](OpenScienceTrainingCourse#course-outline) |Next: [Seminar 3: "Open Science and Intellectual Property"](seminar3.md) |
+| Previous: [Seminar 2: "Guiding Principles"](seminar2.md) | [Course outline](readme.md#course-outline) |Next: [Seminar 3: "Open Science and Intellectual Property"](seminar3.md) |
 |---|---|---|
