@@ -7,6 +7,8 @@
 **Theme:** What is open science? A discussion using COVID-19 experience as an example.
 
 ## Course progress
-This is the first event in the course.
+| Previous: This is the first event in the course. | [Course outline](OpenScienceTrainingCourse#course-outline) | Next: [Self study 1: "Background reading"](selfstudy1.md)
+|---|---|---|
 
-Next event: [Self study 1: "Background reading"](selfstudy1.md)
+
+
