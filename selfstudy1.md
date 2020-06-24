@@ -12,6 +12,5 @@ Read at least one of the introductory documents from the list of [introductory d
 
 
 ## Course progress
-Previous event: [Seminar 1: "Introducing open science"](seminar1.md)
-
-Next event: [Seminar 2: "Guiding Principles"](seminar2.md)
+| Previous: [Seminar 1: "Introducing open science"](seminar1.md) | [Course outline](readme.md#course-outline) | Next: [Seminar 2: "Guiding Principles"](seminar2.md) |
+|---|---|---|
