@@ -7,12 +7,15 @@ Outline for ITN LIKE Early Stage Researcher (ESR) remote study course
 - To enable and motivate ESRs to implement these approaches in their projects
 
 ## Scope:
-60 hours of study time (10 contact hours and 50 hours self study). 
+Total of 61 hours of study time (11 contact hours and 50 hours self study). Of these 8 hours are in-person hours at a Workshop.
 
 ## ECTS points:
-This course is designed for ITN LIKE ESRs. It has a total of 60 hours of study time (10 contact hours and 50 hours self study). Of these, 14 hours are specific to preparing the ESR's LIKE data management plan.
+This course is designed for ITN LIKE ESRs and is not affiliated to a University. It is offered as continuing education.
 
-A study certificate will be provided. It is your responsibility to determine if 1. this course can be used as part of your degree requirements and 2. how many ECTS points you will obtain.
+A study certificate will be provided. It is your responsibility to determine if:
+
+1. This course can be used as part of your degree requirements and 
+2. How many ECTS points you will obtain.
 
 ## Audience
 Initially: ESR students in LIKE. Supervisors are strongly recommended to accompany the course.
@@ -55,3 +58,4 @@ Weeks given are calendar weeks in 2020 and 2021. See e.g. http://www.whatweekisi
 | 50 | [Workshop: Open Science in LIKE](workshop1.md) | | | 4 | 4 |
 | | | [Revise data management plan](selfstudy6.md) | | | 4 |
 | 52 | | | [Data management plan](deliverable2.md) | | 1 |
+| | | | **TOTAL** | **11** | **50** |
