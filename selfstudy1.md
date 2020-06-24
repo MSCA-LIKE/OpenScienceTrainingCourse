@@ -1,8 +1,8 @@
 # Self study 1: Background reading
 
-| venue | date  | contact hours | self-study hours | instructor |
-|-----|---|---|---|---|
-| - | - | - | 4 | - |
+| contact hours | self-study hours | instructor |
+|---|---|---|
+| - | 4 | - |
 
 Read at least one of the introductory documents from the list of [introductory documents](#introductory-documents).
 
