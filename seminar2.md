@@ -10,5 +10,6 @@
 - Clifton, Andrew. (2020, February). Open Science:How do we make it more than just a buzzword? (Version pre-print). Zenodo. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3670410.svg)](https://doi.org/10.5281/zenodo.3670410)
 
 ## Course progress
+
 | Previous: [Self study 1: "Background reading"](selfstudy1.md) | [Course outline](OpenScienceTrainingCourse#course-outline) | Next: [Self study 2: "Is your Group's work FAIR?"](selfstudy2.md) |
-|---|---|
+|---|---|---|
