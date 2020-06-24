@@ -11,5 +11,5 @@
 
 ## Course progress
 
-| Previous: [Self study 1: "Background reading"](selfstudy1.md) | [Course outline](OpenScienceTrainingCourse#course-outline) | Next: [Self study 2: "Is your Group's work FAIR?"](selfstudy2.md) |
+| Previous: [Self study 1: "Background reading"](selfstudy1.md) | [Course outline](readme.md#course-outline) | Next: [Self study 2: "Is your Group's work FAIR?"](selfstudy2.md) |
 |---|---|---|
