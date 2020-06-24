@@ -10,5 +10,5 @@ Based on feedback from your colleagues, revise your data management plan.
 - 
 
 ## Course progress
-| Previous: [Workshop 1: "Open Science in LIKE"](workshop1.md) | [Course outline](OpenScienceTrainingCourse#course-outline) | Next: [Deliverable 2: "Your Data Management Plan"](deliverable2.md) |
+| Previous: [Workshop 1: "Open Science in LIKE"](workshop1.md) | [Course outline](readme.md#course-outline) | Next: [Deliverable 2: "Your Data Management Plan"](deliverable2.md) |
 |---|---|---|
