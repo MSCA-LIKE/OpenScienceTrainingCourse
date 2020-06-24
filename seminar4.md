@@ -9,6 +9,5 @@
 In this seminar we'll explore selling your brand and research through social media, professional networks, etc., and other strategies to make people aware of your work.
 
 ## Course progress
-Previous event: [Self study 3: "Implementing Open Science"](selfstudy3.md)
-
-Next event: [Self study 4: "Communications Strategies"](selfstudy4.md)
+| Previous: [Self study 3: "Implementing Open Science"](selfstudy3.md) | [Course outline](OpenScienceTrainingCourse#course-outline) | Next: [Self study 4: "Communications Strategies"](selfstudy4.md) |
+| -- | -- | -- |
