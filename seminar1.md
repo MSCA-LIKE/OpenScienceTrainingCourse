@@ -7,6 +7,7 @@
 **Theme:** What is open science? A discussion using COVID-19 experience as an example.
 
 ## Resources
+- https://like-itn-digitalization.readthedocs.io/en/latest/
 - https://home.cern/news/news/computing/open-science-against-covid-19-how-zenodo-and-openaire-support-scientists
 - https://en.unesco.org/covid19/sciencesresponse
 - https://sparceurope.org/covid-19-and-open-science/
