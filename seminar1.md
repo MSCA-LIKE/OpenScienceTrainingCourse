@@ -11,6 +11,7 @@
 - https://home.cern/news/news/computing/open-science-against-covid-19-how-zenodo-and-openaire-support-scientists
 - https://en.unesco.org/covid19/sciencesresponse
 - https://sparceurope.org/covid-19-and-open-science/
+- https://github.com/dw-data/covid19-trend
 
 
 ## Course progress
