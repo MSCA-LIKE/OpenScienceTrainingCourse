@@ -17,5 +17,5 @@ jobs:
           args: -t beamer --output=${{env.FILELIST}}.pdf ${{env.FILELIST}}
       - uses: actions/upload-artifact@v2
         with:
-          name: ${{env.FILELIST}}.pdf
-          path: output
+          name: seminar-slides
+          path: seminar*/*.md.pdf
