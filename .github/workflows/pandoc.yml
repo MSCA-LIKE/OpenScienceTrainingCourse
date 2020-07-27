@@ -9,10 +9,13 @@ jobs:
       - uses: actions/checkout@v2
         with:
           ref: slides
-      - name: set environment variables
-        uses: allenevans/set-env@v1.0.0
-        with:
-          FILELIST: printf '"%s"' seminar*/*.md
+      - run: |
+          mkdir output  # create output dir
+          echo "::set-env name=FILELIST::$(printf '"%s"' seminar*/*.md)"
       - uses: docker://pandoc/latex:2.9
         with:
-          args: -t beamer --output=${{FILELIST}}.pdf ${{FILELIST}}
+          args: -t beamer --output=output/${{env.FILELIST}}.pdf ${{env.FILELIST}}
+      - uses: actions/upload-artifact@master
+        with:
+          name: output
+          path: output
