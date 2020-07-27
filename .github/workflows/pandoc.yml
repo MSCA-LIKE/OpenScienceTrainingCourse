@@ -7,6 +7,8 @@ jobs:
     runs-on: ubuntu-18.04
     steps:
       - uses: actions/checkout@v2
+        with:
+          ref: slides
       - run: |
           echo "::set-env name=FILELIST::$(printf '"%s" ' seminar*/*.md| cut -f 1 -d '.')"
       - uses: docker://pandoc/latex:2.9
