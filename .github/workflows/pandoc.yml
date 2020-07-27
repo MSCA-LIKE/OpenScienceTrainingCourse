@@ -8,7 +8,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - run: |
-          echo "::set-env name=FILELIST::$(printf '"%s" '/seminar*/slides.md)"
+          echo "::set-env name=FILELIST::$(printf '"%s" ' seminar*/*.md)"
       - uses: docker://pandoc/latex:2.9
         with:
           args: -t beamer --output=${{ env.FILELIST }}.pdf ${{ env.FILELIST }}
