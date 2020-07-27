@@ -32,7 +32,7 @@ Left column:
 - 
 :::
 ::: {.column width="50%"}
-![](bench.jpg)
+![](seminar1/bench.jpg)
 :::
 ::::::::::::::
 
@@ -60,7 +60,7 @@ Speaker notes go here
 
 ## An image
 
-![Alt text looks like this](bench.jpg){width=25%}
+![Alt text looks like this](seminar1/bench.jpg){width=25%}
 
 ::: notes
 
