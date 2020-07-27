@@ -8,7 +8,7 @@ jobs:
     steps:
       - name: run loop
       - env:
-        FILES: /seminar1/slides.md
+         FILES: /seminar1/slides.md
       - uses: docker://pandoc/core:2.9
       - run: for f in $FILES; do pandoc -t beamer $f -o $f.pdf; done
         
