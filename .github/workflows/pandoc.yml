@@ -6,9 +6,9 @@ jobs:
   convert_via_pandoc:
     runs-on: ubuntu-18.04
     steps:
-      - name: run loop
-        env:
-         FILES: /seminar1/slides.md
-        uses: docker://pandoc/core:2.9
-        run: for f in $FILES; do pandoc -t beamer $f -o $f.pdf; done
-        
+      - uses: actions/checkout@v2
+      - run: |
+          echo "::set-env name=FILELIST::$(printf '"%s" ' *.md)"
+      - uses: docker://pandoc/latex:2.9
+        with:
+          args: -t beamer --output=output/result.pdf ${{ env.FILELIST }}
