@@ -10,7 +10,6 @@ jobs:
         with:
           ref: slides
       - run: |
-          mkdir output  # create output dir
           echo "::set-env name=FILELIST::$(printf '"%s"' seminar*/*.md)"
       - uses: docker://pandoc/latex:2.9
         with:
