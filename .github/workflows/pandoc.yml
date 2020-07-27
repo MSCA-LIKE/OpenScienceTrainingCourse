@@ -15,4 +15,4 @@ jobs:
           FILELIST: printf '"%s"' seminar*/*.md
       - uses: docker://pandoc/latex:2.9
         with:
-          args: -t beamer --output=${{env.FILELIST}}.pdf ${{env.FILELIST}}
+          args: -t beamer --output=${{FILELIST}}.pdf ${{FILELIST}}
