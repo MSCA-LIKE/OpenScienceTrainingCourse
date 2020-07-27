@@ -10,9 +10,5 @@ jobs:
       - env:
         FILES: /seminar1/slides.md
       - uses: docker://pandoc/core:2.9
-      - run: for f in $FILES
-        with:
-          args: |>  # allows you to break string into multiple lines
-            --standalone
-            --output=$f.pptx
-            $f
+      - run: for f in $FILES; do pandoc -t beamer $f -o $f.pdf; done
+        
