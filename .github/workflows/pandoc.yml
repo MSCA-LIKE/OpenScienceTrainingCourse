@@ -15,7 +15,7 @@ jobs:
       - uses: docker://pandoc/latex:2.9
         with:
           args: -t beamer --output=output/${{env.FILELIST}}.pdf ${{env.FILELIST}}
-      - uses: actions/upload-artifact@slides
+      - uses: actions/upload-artifact@v2
         with:
           name: output
           path: output
