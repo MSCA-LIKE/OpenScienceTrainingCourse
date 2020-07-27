@@ -13,4 +13,4 @@ jobs:
           echo "::set-env name=FILELIST::$(printf '"%s" ' seminar*/*.md)"
       - uses: docker://pandoc/latex:2.9
         with:
-          args: -t beamer --output=${{env.FILELIST}}.pdf ${{env.FILELIST}}.md
+          args: -t beamer --output=${{env.FILELIST}}.pdf ${{env.FILELIST}}
