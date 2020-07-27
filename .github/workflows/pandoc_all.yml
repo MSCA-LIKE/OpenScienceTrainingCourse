@@ -1,0 +1,15 @@
+name: Make multiple slides
+
+on: push
+
+jobs:
+  convert_via_pandoc:
+    runs-on: ubuntu-18.04
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          ref: slides
+      - run: cd seminar1/
+      - uses: docker://pandoc/latex:2.9
+        with:
+          args: -t beamer --output=slides.pdf slides.md
