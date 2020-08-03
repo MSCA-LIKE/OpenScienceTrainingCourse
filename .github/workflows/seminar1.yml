@@ -1,4 +1,4 @@
-name: Make slides
+name: Make seminar 1 slides
 
 on: push
 
@@ -9,12 +9,10 @@ jobs:
       - uses: actions/checkout@v2
         with:
           ref: slides
-      - run: |
-          echo "::set-env name=FILELIST::$(printf '"%s "' seminar*/*.md)"
       - uses: docker://pandoc/latex:2.9
         with:
-          args: -t beamer --output=${{env.FILELIST}}.pdf ${{env.FILELIST}}
+          args: -t beamer --output=seminar1/slides.md.pdf seminar1/slides.md
       - uses: actions/upload-artifact@v2
         with:
           name: seminar-slides
-          path: seminar*/*.md.pdf
+          path: seminar1/slides.md.pdf
