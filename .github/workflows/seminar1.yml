@@ -17,7 +17,7 @@ jobs:
       - name: Load pandoc
         uses: docker://pandoc/latex:2.9
         with:
-          args: --from=slides.md --to=beamer --output=slides.md.pdf 
+          args: --from=gfm --to=beamer --output=slides.md.pdf slides.md
           
       - name: Upload files
         uses: actions/upload-artifact@v2
