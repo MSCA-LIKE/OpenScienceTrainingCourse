@@ -3,7 +3,7 @@ name: Make seminar slides from markdown
 on: push
 defaults:
   run:
-    working-directory: ./seminar1
+    working-directory: seminar1
 
 jobs:
   make_seminar1_slides:
@@ -17,7 +17,7 @@ jobs:
       - name: Load pandoc
         uses: docker://pandoc/latex:2.9
         with:
-          args: -t beamer --output=slides.md.pdf slides.md --data-dir=./seminar1 --resource-path=./seminar1
+          args: --from=slides.md --to=beamer --output=slides.md.pdf 
           
       - name: Upload files
         uses: actions/upload-artifact@v2
