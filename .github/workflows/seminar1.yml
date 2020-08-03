@@ -1,0 +1,26 @@
+name: Make seminar slides from markdown
+
+on: push
+defaults:
+  run:
+    working-directory: seminar1
+
+jobs:
+  make_seminar1_slides:
+    runs-on: ubuntu-18.04
+    steps:
+      - name: Get files
+        uses: actions/checkout@v2
+        with:
+          ref: slides
+          
+      - name: Load pandoc
+        uses: docker://pandoc/latex:2.9
+        with:
+          args: --from=markdown --to=beamer --resource-path=seminar1 --output=seminar1/slides.md.pdf seminar1/slides.md
+          
+      - name: Upload files
+        uses: actions/upload-artifact@v2
+        with:
+          name: seminar-slides
+          path: seminar1/slides.md.pdf
