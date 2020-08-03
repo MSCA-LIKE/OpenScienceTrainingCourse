@@ -23,4 +23,4 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: seminar-slides
-          path: slides.md.pdf
+          path: seminar1/slides.md.pdf
