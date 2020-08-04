@@ -26,7 +26,6 @@ jobs:
           path: seminar1/slides.md.pdf
       
       - name: Commit
-        uses: actions/checkout@v2
         run: |
           git config AndyClifton github-actions
           git config clifton@ifb.uni-stuttgart.de github-actions@github.com
