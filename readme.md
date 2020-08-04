@@ -14,7 +14,7 @@ This course is designed for ITN LIKE ESRs and is not affiliated to a University.
 
 A study certificate will be provided. It is your responsibility to determine if:
 
-1. This course can be used as part of your degree requirements and 
+1. This course can be used as part of your degree requirements and
 2. How many ECTS points you will obtain.
 
 ## Audience

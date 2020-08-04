@@ -11,6 +11,11 @@ Who's on the call?
 
 ## About this course
 
+Our goals:
+- To educate ESRs about modern approaches to open science data management
+- To enable and motivate ESRs to implement these approaches in their projects
+
+For more information, see the [LIKE-ITN GitHub repository](https://github.com/LIKE-ITN/OpenScienceTrainingCourse).
 
 # Open Science in LIKE
 
