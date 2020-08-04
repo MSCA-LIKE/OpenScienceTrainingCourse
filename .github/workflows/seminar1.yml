@@ -17,7 +17,7 @@ jobs:
       - name: Load pandoc
         uses: docker://pandoc/latex:2.9
         with:
-          args: --from=markdown --to=beamer --resource-path=seminar1 --output=seminar1/slides.md.pdf seminar1/slides.md
+          args: --from=markdown --to=beamer -V theme:Pittsburgh colortheme:beaver fonttheme:structurebold --resource-path=seminar1 --output=seminar1/slides.md.pdf seminar1/slides.md
           
       - name: Upload files as artifacts
         uses: actions/upload-artifact@v2

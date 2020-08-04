@@ -72,18 +72,30 @@ For more information, see the [LIKE-ITN GitHub repository](https://github.com/LI
 
 ---
 
-# Acknowledgments
-
-+ These slides were created from markdown and processed on GitHub using Pandoc.
-+ The slides are based on an example by Peter Conrad, available at http://www.peterconrad.com/markdown/slide-templates/.
-
----
-
 # Next events
 
 + **Self study 1:** Background reading (https://github.com/LIKE-ITN/OpenScienceTrainingCourse/blob/master/selfstudy1.md)
 + **Seminar 2:** Guiding principles (https://github.com/LIKE-ITN/OpenScienceTrainingCourse/blob/master/seminar2.md)
 
+---
+
 ## Self study 1: Background reading
 
-See resources in the LIKE Open Science Training Course GitHub repository
+Read at least one of the introductory documents from the list in the [LIKE Open Science Training Course GitHub repository](https://github.com/LIKE-ITN/OpenScienceTrainingCourse/blob/master/selfstudy1.md)
+
+
+
+---
+
+# Appendices
+
+---
+
+## About these slides
+
++ These slides were created from markdown and processed on GitHub using Pandoc.
++ The slides are based on an example by Peter Conrad, available at http://www.peterconrad.com/markdown/slide-templates/.
++ For more information about Pandoc slides, see https://pandoc.org/MANUAL.html#producing-slide-shows-with-pandoc.
+
+---
+
