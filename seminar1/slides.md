@@ -4,9 +4,13 @@
 
 # Welcome!
 
+---
+
 ## Introductions
 
 Who's on the call?
+
+---
 
 
 ## About this course
@@ -17,24 +21,63 @@ Our goals:
 
 For more information, see the [LIKE-ITN GitHub repository](https://github.com/LIKE-ITN/OpenScienceTrainingCourse).
 
+---
+
 # Open Science in LIKE
+
+---
 
 ## What is Open Science?
 
+---
+
 # Let's talk about COVID-19
+
+---
 
 ## How did we learn about COVID-19?
 
+:::::::::::::: {.columns}
+::: {.column width="50%"}
+
+![](bench.jpg){width=100% height=100%}
+
+:::
+::: {.column width="50%"}
+
+- Bullet
+- Bullet
+- Bullet
+
+
+<!-- 100% of this column, that is -->
+
+:::
+::::::::::::::
+
+
++ is there a lesson learned for scientific information?
+
+---
+
 ## How was information shared?
+
+---
 
 ## How was information published?
 
+---
+
 ## Does openness have disadvantages?
+
+---
 
 # Acknowledgments
 
 + These slides were created from markdown and processed on GitHub using Pandoc.
 + The slides are based on an example by Peter Conrad, available at http://www.peterconrad.com/markdown/slide-templates/.
+
+---
 
 # Next events
 
