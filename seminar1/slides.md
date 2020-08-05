@@ -25,9 +25,20 @@ For more information, see the [LIKE-ITN GitHub repository](https://github.com/LI
 
 # Open Science in LIKE
 
+LIKE-ITN:Lidar Knowledge Europe, Innovative Training Network
+
+
 ---
 
 ## What is Open Science?
+
+Google says
+
+...
+
+> Open science is the movement to make scientific research and its dissemination accessible to all levels of an inquiring society, amateur or professional. Open science is transparent and accessible knowledge that is shared and developed through collaborative networks.
+
+[Wikipedia](https://en.wikipedia.org/wiki/Open_science)
 
 ---
 
@@ -40,35 +51,46 @@ For more information, see the [LIKE-ITN GitHub repository](https://github.com/LI
 :::::::::::::: {.columns}
 ::: {.column width="50%"}
 
-![](bench.jpg){width=100% height=100%}
+- news
+- social networks
+- personal experience
+- rumour and gossip
+
 
 :::
 ::: {.column width="50%"}
 
-- Bullet
-- Bullet
-- Bullet
-
+What makes a source of news trustworthy or believable?
+-
 
 <!-- 100% of this column, that is -->
 
 :::
 ::::::::::::::
 
+---
 
-+ is there a lesson learned for scientific information?
+## Are there lessons learned for scientific information?
 
 ---
 
-## How was information shared?
+## The advantages and disadvantages
 
----
+:::::::::::::: {.columns}
+::: {.column width="50%"}
+### Advantages
 
-## How was information published?
+...
 
----
+:::
+::: {.column width="50%"}
+### Disadvantages
 
-## Does openness have disadvantages?
+- Low barriers to publication
+- Hard to assess the quality of information
+
+:::
+::::::::::::::
 
 ---
 
