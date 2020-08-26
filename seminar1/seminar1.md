@@ -31,5 +31,5 @@ Slides for this discussion can be found in [the `seminar 1` directory](./seminar
 - https://github.com/dw-data/covid19-trend
 
 
-| Previous: This is the first event in the course. | [Course outline](readme.md#course-outline) | Next: [Self study 1: "Background reading"](selfstudy1.md) |
+| Previous: This is the first event in the course. | [Course outline](../readme.md#course-outline) | Next: [Self study 1: "Background reading"](../selfstudy1/selfstudy1.md) |
 |---|---|---|
