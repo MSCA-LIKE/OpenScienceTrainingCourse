@@ -6,7 +6,9 @@ _*What is open science? A discussion using COVID-19 experience as an example.*_
 | 1 | 1 | Andy Clifton |
 
 ## Format
-A 55-minute online discussion:
+A 55-minute online discussion
+
+## Content
 - Introductions
 - What is open science?
 - What COVID-19 told us about open science
@@ -29,9 +31,5 @@ Slides for this discussion can be found in [the `seminar 1` directory](./seminar
 - https://github.com/dw-data/covid19-trend
 
 
-## Course progress
 | Previous: This is the first event in the course. | [Course outline](readme.md#course-outline) | Next: [Self study 1: "Background reading"](selfstudy1.md) |
 |---|---|---|
-
-
-
