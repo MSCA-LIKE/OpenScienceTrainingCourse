@@ -44,7 +44,7 @@ Weeks given are calendar weeks in 2020 and 2021. See e.g. http://www.whatweekisi
 
 | Week | Seminar | Self study | Deliverable | Contact Hours | Self-study hours |
 |---|---|---|---|---|---|
-| 40 | [Introducing open science](seminar1.md) | | | 1 | 1 |
+| 40 | [Introducing open science](seminar1/seminar1.md) | | | 1 | 1 |
 | | | [Background reading](selfstudy1.md) | | | 4 |
 | 42 | [Guiding principles](seminar2.md) | | | 1 | 1 |
 | | | [Is your group’s work FAIR?](selfstudy2.md) | | | 4 |
