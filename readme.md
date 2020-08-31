@@ -52,10 +52,10 @@ Weeks given are calendar weeks in 2020 and 2021. See e.g. http://www.whatweekisi
 | | | [Implementing Open Science](selfstudy3.md) | | | 4 |
 | 46 | [If a tree falls in the forest... Communicating your science](seminar4.md) | | | 1 | 1 |
 | | | [Communications strategies](selfstudy4.md) | | | 4 |
-| | | | [Implementation case study](deliverable1.md) | | 8 |
-| 48 | [What are data management plans and why do they matter?](seminar5.md) | | | 2 | 1 |
+| | | | [Implementation case study](assignment1.md) | | 8 |
+| 48 | [What are data management plans and why do they matter?](seminar5/seminar5.md) | | | 2 | 1 |
 | | | [Draft your LIKE data management plan](selfstudy5.md) | | 1 | 12 |
 | 50 | [Workshop: Open Science in LIKE](workshop1.md) | | | 4 | 4 |
 | | | [Revise data management plan](selfstudy6.md) | | | 4 |
-| 52 | | | [Data management plan](deliverable2.md) | | 1 |
+| 52 | | | [Data management plan](assignment2.md) | | 1 |
 | | | | **TOTAL** | **11** | **50** |

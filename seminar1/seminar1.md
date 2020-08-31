@@ -6,30 +6,26 @@ _*What is open science? A discussion using COVID-19 experience as an example.*_
 | 1 | 1 | Andy Clifton |
 
 ## Format
-A 55-minute online discussion
-
-## Content
+A 55-minute online discussion based around [this PDF](./LIKE_seminar1.pdf), covering:
 - Introductions
 - What is open science?
 - What COVID-19 told us about open science
 - Next steps
 
-## Slides
-Slides for this discussion can be found in [the `seminar 1` directory](./seminar1)
-
 ## Further reading
+See the PDF for context.
 
 ### What is Open Science?
-- https://like-itn-digitalization.readthedocs.io/en/latest/
+- [_Digitalization and Open Science in LIKE_](https://like-itn-digitalization.readthedocs.io/en/latest/). Read The Docs, 2020.
 
 ### How open science principles are being used in the SARS-Cov-2 response
-- https://home.cern/news/news/computing/open-science-against-covid-19-how-zenodo-and-openaire-support-scientists
-- https://sparceurope.org/covid-19-and-open-science/
-- https://www.rd-alliance.org/data-sharing-time-pandemic-patterns-preview-rda-covid-19-group-results
+- [_Open science takes on the coronavirus pandemic_](https://www.nature.com/articles/d41586-020-01246-3) Nature, 2020.
+- [_Data Sharing in a Time of Pandemic_](https://www.rd-alliance.org/data-sharing-time-pandemic-patterns-preview-rda-covid-19-group-results) Patterns, 2020.
+- [_Open Science against COVID-19: how Zenodo and OpenAIRE support the scientists_](https://home.cern/news/news/computing/open-science-against-covid-19-how-zenodo-and-openaire-support-scientists) CERN, 2020.
 
-### Some examples of open science in action
+### Some examples of open science in action during COVID-19
 - https://github.com/dw-data/covid19-trend
 
-
+## Course Progress
 | Previous: This is the first event in the course. | [Course outline](../readme.md#course-outline) | Next: [Self study 1: "Background reading"](../selfstudy1/selfstudy1.md) |
 |---|---|---|

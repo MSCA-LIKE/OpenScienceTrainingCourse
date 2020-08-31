@@ -1,5 +1,4 @@
 \section[Closing]{Closing thoughts}
-\stepcounter{subsection} %We don't use subsection titles, only frametitles
 \label{sec:closing}
 
 %---------------------------------------------------------------
@@ -7,22 +6,26 @@
 %---------------------------------------------------------------
 \begin{frame}{Seminar summary}
 
-	\begin{columns}
+	\begin{columns}[c]
 		% lessons
-		\column{.45\textwidth}
-		You've learned:
-		\begin{itemize}
-			\item About the course
-			\item A first definition for ``open science''
-			\item How openness helps fight COVID-19
-			\item Some challenges with being open
-		\end{itemize}
+		\begin{column}{.45\textwidth}
+		    You've learned:
+		    \begin{itemize}
+			    \item About the course
+			    \item A first definition for ``open science''
+			    \item How openness helps fight COVID-19
+			    \item Some challenges with being open
+		    \end{itemize}
+		\end{column}
 
-		\column{.45\textwidth}
+		\begin{column}{.45\textwidth}
 		
 		    \includegraphics[width=0.85\textwidth]{images/mathew-schwartz-8rj4sz9YLCI-unsplash-crop.jpg}
 		    
-		    \givecredit{Photo by \textlink{https://unsplash.com/@cadop}{Mathew Schwartz} on \textlink{https://unsplash.com/s/photos/thinking}{Unsplash}}
+		    \givecredit{%
+		        \centering
+		        Photo by \textlink{https://unsplash.com/@cadop}{Mathew Schwartz} on \textlink{https://unsplash.com/s/photos/thinking}{Unsplash}}
+		\end{column}
 		
 	\end{columns}
 
@@ -63,43 +66,44 @@
 \begin{frame}{Let's make this presentation open}
 
 	\begin{columns}[t]
-		\column{.45\textwidth}
-		\centering
-		\includegraphics[height=1.5cm]{images/1280px-FAIR_data_principles.jpg}
+		\begin{column}{.45\textwidth}
+		    \centering
+		    \includegraphics[height=1.5cm]{images/1280px-FAIR_data_principles.jpg}
 
-		\givecredit{\centering Image source: \textlink{https://en.wikipedia.org/wiki/FAIR_data#/media/File:FAIR_data_principles.jpg}{Wikimedia}. Credit: \textlink{https://commons.wikimedia.org/w/index.php?title=User:SangyaPundi}{SangyaPundir}. \\
-		Reused under the \textlink{https://creativecommons.org/licenses/by-sa/4.0}{CC BY-SA 4.0 license}}
+		    \givecredit{\centering Image source: \textlink{https://en.wikipedia.org/wiki/FAIR_data#/media/File:FAIR_data_principles.jpg}{Wikimedia}. Credit: \textlink{https://commons.wikimedia.org/w/index.php?title=User:SangyaPundi}{SangyaPundir}. \\
+		    Reused under the \textlink{https://creativecommons.org/licenses/by-sa/4.0}{CC BY-SA 4.0 license}}
+		\end{column}
 
-		\column{.45\textwidth}
-		\centering
-		\includegraphics[height=1.5cm]{images/cc-by-sa.png}
-
+		\begin{column}{.45\textwidth}
+		    \centering
+		    \includegraphics[height=1.5cm]{images/cc-by-sa.png}
+        \end{column}
 	\end{columns}
 
 	\begin{columns}[t]
-		\column{.45\textwidth}
-		\centering
+		\begin{column}{.45\textwidth}
+		    \centering
 		% Findable
-		\begin{block}{Findable}
-			This presentation has a DOI:
-		\end{block}
+		    \begin{block}{Findable}
+			    This presentation has a DOI:
+		    \end{block}
 
-		% accessible
-		\begin{block}{Accessible}
-			This presentation is archived at Zenodo.org. \\
-			The source code is available through GitHub.
-		\end{block}
+		    % accessible
+		    \begin{block}{Accessible}
+			    This presentation is archived at Zenodo.org. \\
+			    The source code is available through GitHub.
+		    \end{block}
+        \end{column}
 
+		\begin{column}{.45\textwidth}
+		    \centering
+		    \begin{block}{Interoperable}
+			    This material is produced using the \LaTeX\space `Beamer' package.
+		    \end{block}
 
-		\column{.45\textwidth}
-		\centering
-		\begin{block}{Interoperable}
-			This material is produced using the \LaTeX\space `Beamer' package.
-		\end{block}
-
-		\begin{block}{Reusable}
-			This material is reusable under the \textlink{https://creativecommons.org/licenses/by/4.0/}{CC-BY-4.0 license}.
-		\end{block}
-
+		    \begin{block}{Reusable}
+			    This material is reusable under the \textlink{https://creativecommons.org/licenses/by/4.0/}{CC-BY-4.0 license}.
+		    \end{block}
+        \end{column}
 	\end{columns}
 \end{frame}

@@ -16,7 +16,7 @@ Open science is transparent and accessible knowledge that is shared and develope
 \end{quotation}
 
 \begin{columns}
-    \column{.45\textwidth}
+    \begin{column}{.45\textwidth}
     % it is...
         \begin{block}<2->{It is...}
             \begin{itemize}
@@ -25,8 +25,9 @@ Open science is transparent and accessible knowledge that is shared and develope
                 \item An old idea
             \end{itemize}
         \end{block}
+    \end{column}
     
-    \column{.45\textwidth}
+    \begin{column}{.45\textwidth}
     % it is not...
         \begin{block}<2->{It is not...}
             \begin{itemize}
@@ -35,6 +36,7 @@ Open science is transparent and accessible knowledge that is shared and develope
                 \item Rewarded directly
             \end{itemize}
         \end{block}
+    \end{column}
     
 \end{columns}
 
@@ -50,7 +52,7 @@ Open science is transparent and accessible knowledge that is shared and develope
 
 \begin{columns}[t]
     % LHS text
-    \column{.45\textwidth}
+    \begin{column}{.45\textwidth}
 
     \textbf{We want you to be successful.}
     \vspace{3ex}
@@ -62,16 +64,18 @@ Open science is transparent and accessible knowledge that is shared and develope
         \item Give you a toolbox
         \item Help you use these tools
     \end{itemize}
+    
+    \end{column}
 
     % RHS image
-    \column{.45\textwidth}
+    \begin{column}{.45\textwidth}
 
-    \begin{figure}
         \centering
-        \includegraphics[width=0.8\textwidth]{milan-popovic-BmyXTxyDL-I-unsplash.jpg}
-        \label{fig:tools}\\
+        \includegraphics[width=0.8\textwidth]{images/milan-popovic-BmyXTxyDL-I-unsplash.jpg}
+    
         \givecredit{\centering Photo by \textlink{https://unsplash.com/@itsmiki5?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText}{Milan Popovic} on \textlink{https://unsplash.com/s/photos/tools?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText}{Unsplash}}
-    \end{figure}
+    
+    \end{column}
 
 \end{columns}
 
@@ -84,13 +88,14 @@ Open science is transparent and accessible knowledge that is shared and develope
 
 \begin{frame}{Course outline}
 
-\setlength\tabcolsep{3pt}  % default value: 6pt
-\footnotesize  %%  command to change the font size
+\begingroup
+\renewcommand{\arraystretch}{0.9} % Default value: 1
+\setlength\tabcolsep{0pt}  % default value: 6pt
 % Table based on https://github.com/LIKE-ITN/OpenScienceTrainingCourse/blob/master/readme.md#course-outline
-\begingroup\setlength{\fboxsep}{3pt}
-\colorbox{MyBlockBG}{%
+\setlength{\fboxsep}{3pt}
+\colorbox{uniSgray!10}{%
 
-    \begin{tabular}{@{}p{0.35\textwidth}p{0.35\textwidth}p{0.25\textwidth}@{}}
+    \begin{tabular}{@{}p{0.35\textwidth}p{0.35\textwidth}p{0.3\textwidth}@{}}
         Seminar & Self study & Deliverable \\ 
         \midrule
         1. \textlink{https://github.com/LIKE-ITN/OpenScienceTrainingCourse/blob/master/seminar1/seminar1.md}{Introducing open science} &  &  \\ 
@@ -103,7 +108,7 @@ Open science is transparent and accessible knowledge that is shared and develope
          & 4. \textlink{https://github.com/LIKE-ITN/OpenScienceTrainingCourse/blob/master/selfstudy4.md}{Communications strategies} &  \\ 
          &  & 1. \textlink{https://github.com/LIKE-ITN/OpenScienceTrainingCourse/blob/master/deliverable1.md}{Implementation case study} \\ 
          5. \textlink{https://github.com/LIKE-ITN/OpenScienceTrainingCourse/blob/master/seminar5.md}{What are data management plans and why do they matter?} &  &   \\ 
-         & 5. \textlink{https://github.com/LIKE-ITN/OpenScienceTrainingCourse/blob/master/selfstudy5.md}{Draft your data management plan} &  \\ 
+         & 5. \textlink{https://github.com/LIKE-ITN/OpenScienceTrainingCourse/blob/master/selfstudy5.md}{Draft a data management plan} &  \\ 
         Workshop: \textlink{https://github.com/LIKE-ITN/OpenScienceTrainingCourse/blob/master/workshop1.md}{Open science in LIKE} &  & \\ 
          & 6. \textlink{https://github.com/LIKE-ITN/OpenScienceTrainingCourse/blob/master/selfstudy6.md}{Revise data management plan} &  \\ 
          &  & 2. \textlink{https://github.com/LIKE-ITN/OpenScienceTrainingCourse/blob/master/deliverable2.md}{Data management plan} \\ 

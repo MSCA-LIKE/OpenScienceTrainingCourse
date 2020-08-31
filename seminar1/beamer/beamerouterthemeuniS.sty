@@ -1,0 +1,33 @@
+% Copyright 2017 by Christian Senger <senger@inue.uni-stuttgart.de>
+%
+% This file may be distributed and/or modified
+%
+% 1. under the LaTeX Project Public License and/or
+% 2. under the GNU Public License.
+%
+% See the file doc/licenses/LICENSE for more details.
+
+\mode<presentation>
+
+\setbeamercolor{title in head/foot}{parent=palette quaternary}
+\setbeamercolor{framenumber in head/foot}{parent=palette quaternary}
+
+\usesectionheadtemplate
+  {\hfill\insertsectionhead}
+  {\hfill\color{fg!50!bg}\insertsectionhead}
+
+\defbeamertemplate*{footline}{altsplit theme}
+{%
+  \leavevmode%
+  \hbox{\begin{beamercolorbox}[wd=.9\paperwidth,ht=2.5ex,dp=1.125ex,leftskip=2ex, rightskip=10ex]{title in head/foot}%
+    \usebeamerfont{title in head/foot}\insertshortauthor, \insertinstitute: \insertshorttitle
+  \end{beamercolorbox}%
+  \begin{beamercolorbox}[wd=.1\paperwidth,ht=2.5ex,dp=1.125ex,leftskip=2ex,rightskip=2ex]{framenumber in head/foot}%
+    \usebeamerfont{title in head/foot}\hfill\insertframenumber
+  \end{beamercolorbox}
+  }%
+  \vskip0pt%
+}
+
+\mode
+<all>
