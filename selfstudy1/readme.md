@@ -1,7 +1,7 @@
 | Previous: [Seminar 1: "Introducing open science"](seminar1.md) | [Course outline](readme.md#course-outline) | Next: [Seminar 2: "Guiding Principles"](seminar2.md) |
 |---|---|---|
 
-# Self study 1: Background reading
+# Self-study 1: Background reading
 
 | contact hours | self-study hours | instructor |
 |---|---|---|

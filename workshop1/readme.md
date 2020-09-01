@@ -23,5 +23,5 @@ Describe what you did for [Deliverable 1](deliverable1.md):
 - See https://www.vindenergi.dtu.dk/english/Education/PhD/PhD-Summer-School/Remote-Sensing-for-Wind-Energy for details of the Summer School
 
 ## Course progress
-| Previous : [Self study 5: "Draft your LIKE data management plan"](selfstudy5.md) | [Course outline](readme.md#course-outline) |Next: [Self study 6: "Revise your data management plan"](selfstudy6.md) |
+| Previous : [Self-study 5: "Draft your LIKE data management plan"](../selfstudy5/readme.md) | [Course outline](../readme.md#course-outline) |Next: [Self-study 6: "Revise your data management plan"](../selfstudy6/readme.md) |
 |---|---|---|

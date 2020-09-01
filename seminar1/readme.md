@@ -27,5 +27,5 @@ See the PDF for context.
 - https://github.com/dw-data/covid19-trend
 
 ## Course Progress
-| Previous: This is the first event in the course. | [Course outline](../readme.md#course-outline) | Next: [Self study 1: "Background reading"](../selfstudy1/selfstudy1.md) |
+| Previous: This is the first event in the course. | [Course outline](../readme.md#course-outline) | Next: [Self-study 1: "Background reading"](../selfstudy1/readme.md) |
 |---|---|---|

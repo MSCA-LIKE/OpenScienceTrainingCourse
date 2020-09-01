@@ -1,4 +1,4 @@
-# Self study 5: Draft your LIKE data management plan
+# Self-study 5: Draft your LIKE data management plan
 
 | contact hours | self-study hours | instructor |
 |---|---|---|
@@ -8,5 +8,5 @@ Prepare a draft of your LIKE data management plan and publish it through an appr
 
 ## Course progress
 
-| Previous: [Seminar 5: "what are data management plans, and why do they matter?"](seminar5.md) | [Course outline](readme.md#course-outline) | Next: [Workshop 1: "Open Science in LIKE"](workshop1.md) |
+| Previous: [Seminar 5: "what are data management plans, and why do they matter?"](../seminar5/readme.md) | [Course outline](../readme.md#course-outline) | Next: [Workshop 1: "Open Science in LIKE"](../workshop1/readme.md) |
 |---|---|---|

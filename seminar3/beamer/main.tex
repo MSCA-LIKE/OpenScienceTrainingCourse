@@ -1,0 +1,91 @@
+\documentclass[10pt,
+t,
+aspectratio=169]{beamer}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% mode options %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\mode<presentation>{\usetheme{uniS}}
+
+% define a few pictures used throughout the slides
+\pgfdeclareimage[height=1.1\paperheight]{background}{images/alex-holyoake-R-HXWCbCBGU-unsplash-1000W.jpg}  % background picture for title slide
+\pgfdeclareimage[height=1cm]{unilogo}{unilogo.pdf} % UniS logo for title slide
+\pgfdeclareimage[height=1cm]{unilogow}{unilogo_w.pdf} % (white) UniS logo for final slide
+\pgfdeclareimage[width=2.5cm]{speaker}{images/Clifton_Headshot.jpg} % speaker photo for final slide
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% misc stuff %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% automatically display \sectionpage at beginning of every \section{}
+\AtBeginSection[]{%
+\begin{frame}[plain]
+  \sectionpage
+\end{frame}
+}
+
+% set up an image credit
+
+\newcommand{\simplecaption}[1]{\parbox{\textwidth}{\scriptsize\color{darkgray} #1}}
+\newcommand{\givecredit}[1]{\parbox{\textwidth}{\tiny\color{gray} #1}}
+% underline links
+\usepackage{ulem}
+\renewcommand{\ULdepth}{1.8pt}
+\newcommand{\textlink}[2]{\href{#1}{\uline{#2}}}
+% ORCID logo
+\newcommand{\orcid}[1]{\href{https://orcid.org/#1}{\includegraphics[height=10pt]{images/ORCIDiD_icon128x128.png}}}
+% LinkedIn logo
+\newcommand{\linkedin}[1]{\href{#1}{\includegraphics[height=10pt]{images/LI-In-Bug.png}}}
+
+%---------------------------------------------------------------
+% Packages
+%---------------------------------------------------------------
+\usepackage{booktabs}
+\usepackage{fontawesome}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% setup %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\title[Intellectual Property]{
+    LIKE\\
+    Open Science Course\\
+    Seminar 3:\\
+    Intellectual Property}
+\author[Andy Clifton]{Dr.-Sc.\\ Andrew Clifton}
+\institute{Institute of Aircraft Design (IFB), University of Stuttgart}
+\date{27 October 2020}
+
+%---------------------------------------------------------------
+% DOCUMENT STARTS HERE
+%---------------------------------------------------------------
+
+\begin{document}
+
+\begin{frame}[plain]
+  \titlepage
+\end{frame}
+
+
+% Table of contents
+\begin{frame}
+  \frametitle{Today's discussion}
+    \tableofcontents
+    \vfill
+    \givecredit{Cover page photo by \textlink{ https://unsplash.com/@stairhopper}{Alex Holyoake} on \textlink{https://unsplash.com/s/photos/open-science}{Unsplash}}
+\end{frame}
+
+% content
+\include{section/introductions}
+\include{section/course-details}
+\include{section/covid-19}
+\include{section/closing}
+
+% corporate identity
+\finalslide{clifton@ifb.uni-stuttgart.de}{+49 711 685 683 25}{www.uni-stuttgart.de/windenergie}
+
+\end{document}
+
+
+
+
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:
