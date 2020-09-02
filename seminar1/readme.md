@@ -6,14 +6,30 @@ _*What is open science? A discussion using COVID-19 experience as an example.*_
 | 1 | 1 | Andy Clifton |
 
 ## Format
-A 55-minute online discussion based around [this PDF](./LIKE_seminar1.pdf), covering:
+A 55-minute online discussion based around [this PDF](./beamer/main.pdf), covering:
 - Introductions
 - What is open science?
 - What COVID-19 told us about open science
 - Next steps
 
+## Learning
+
+### Goals
+- Introduce the series speakers
+- Provide students with some information about course logistics
+- Provide a first introduction to open science using the shared example of the global response to COVID-19
+
+### Outcomes
+- Students know where to find course materials
+- Students have a first definition of open science
+- Students understand some of the goals of open science
+- Students have discussed some of the challenges with open science
+- Students have identified some of the tools that are available to help them implement open science in their own work
+
+These themes will be explored in more detail in future seminars.
+
 ## Further reading
-See the PDF for context.
+See [the seminar presentation](./beamer/main.pdf) for context.
 
 ### What is Open Science?
 - [_Digitalization and Open Science in LIKE_](https://like-itn-digitalization.readthedocs.io/en/latest/). Read The Docs, 2020.
@@ -25,6 +41,12 @@ See the PDF for context.
 
 ### Some examples of open science in action during COVID-19
 - https://github.com/dw-data/covid19-trend
+- https://www.n95decon.org/
+
+## Questions and feedback
+- General questions? Please use slack to ask.
+- Personal questions? Get in contact directly.
+- Feedback about the course materials? Please [raise an issue](https://github.com/LIKE-ITN/OpenScienceTrainingCourse/issues).
 
 ## Course Progress
 | Previous: This is the first event in the course. | [Course outline](../readme.md#course-outline) | Next: [Self-study 1: "Background reading"](../selfstudy1/readme.md) |
