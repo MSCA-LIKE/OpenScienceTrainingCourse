@@ -1,5 +1,5 @@
 # Workshop 1: Open Science in LIKE
-
+_*Share your experience of implementing open science*_
 | contact hours | self-study hours | instructor |
 |---|---|---|
 | 4 | 4 | Andy Clifton, Nikola Vasiljevic |
@@ -10,9 +10,9 @@ This workshop will take place immediately before the DTU Remote Sensing Summer S
 ## Format
 - Each student will have 10 minutes to present their case study and obtain feedback from their colleagues.
 
-## Guidance
+### Presentation guidance
 
-Describe what you did for [Deliverable 1](deliverable1.md):
+Describe what you did for [Assignment 1](../assignment1/readme.md):
 - what was done to make your work FAIR and implement the R5 concepts?
 - How did you communicate your work to your stakeholders.
 - What worked well?

@@ -33,6 +33,7 @@ See [the seminar presentation](./beamer/main.pdf) for context.
 
 ### What is Open Science?
 - [_Digitalization and Open Science in LIKE_](https://like-itn-digitalization.readthedocs.io/en/latest/). Read The Docs, 2020.
+- [_The FOSTER Open Science Training Handbook_](https://github.com/Open-Science-Training-Handbook)
 
 ### How open science principles are being used in the SARS-Cov-2 response
 - [_Open science takes on the coronavirus pandemic_](https://www.nature.com/articles/d41586-020-01246-3) Nature, 2020.
