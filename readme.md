@@ -53,31 +53,6 @@ The following dates are specific to the ITN LIKE Autumn 2020 course.
 
 **Note:** Weeks given are calendar weeks in 2020 and 2021. See e.g. http://www.whatweekisit.org/ for details.
 
-## Grading and Recognition
-
-### Grading
-Either a `Pass` or a `fail` grade will be awarded.
-
-### Conditions for passing for the _basic course_.
-- Participation in at least 2 of the seminars in the list above
-- Submission of the two assignments
-- Participation in the workshop
-
-### Conditions for passing for the _extended course_.
-As for the _basic course_, and:
-- Commitment to take part in the _extended course_ by the end of the week of the second seminar.
-- Sharing a publicly-accessible link to the student portfolio described under  _for extra credit_ in the self-study sessions.
-
-### ECTS points
-This course is a voluntary study course and is not affiliated to a University. It is offered as continuing education.
-
-A study certificate and course outline will be provided. It is your responsibility to determine if:
-
-1. This course can be used as part of your degree requirements and
-2. How many ECTS points you will obtain.
-
-**Note:** You can increase the number of study hours by completing the _for extra credit_ activities identified in the self-study exercises.
-
 ## Licensing, reuse, and remixing
 You are welcome to reuse or remix the material in this repository under the terms of the license(s) applied to that material.
 

@@ -9,23 +9,40 @@ Contents:
 
 
 ## Introduction
-This course was set up for new students in the EU-funded Innovation Training Network, "Lidar Knowledge Europe" or ITN-LIKE that started in 2020.
+This course was set up for new students in the EU-funded Innovation Training Network, "Lidar Knowledge Europe" (ITN-LIKE) that started in 2020.
 
-The open science course was set up to provide those students with a foundation in the philosophy of open science. It's based on discussion seminars and a set of self-study exercises that help students to try open science out.
+The course provides students with a foundation in the philosophy of open science. It's based on discussion seminars, self-study exercises, and assignments that help students try out open science.
+- Find out more about [the goals of the course](#learning-goals-and-outcomes).
 - Find out more about [the course content](#course-content).
 
-We've also tried to structure the exercises so that students who want to invest more time in the course can create a portfolio.
-- Find out more about [the student portfolio](#student-portfolios)
+The exercises are structured so that students who want to invest more time in the course (possibly for ECTS requirements) can create a portfolio.
+- Find out more about [the extended course](#extended_course)
 
-ITN LIKE brings together 15 PhD students across Europe. These students are based at companies and universities, and all have different requirements to complete their PhDs. Because of this, we have tried to set up a course that can be delivered completely online, and independent of any one University.
+ITN LIKE brings together 15 PhD students across Europe. These students are based at companies and universities, and all have different requirements to complete their PhDs. Because of this, we have tried to set up a course that can be delivered completely online, and independent of any one university.
 - [Using the course as part of a PhD study program](#Using-the-course-as-part-of-a-PhD-study-program)
 
 And, because the course is about open science, we wanted to make the course materials open as well.
 - Find out more about [reusing or remixing this material](#reuse-and-remixing).
 
+There's also an [FAQ](#frequently-asked).
 
+## Learning goals and outcomes
+
+### Goals
+- To educate students about modern approaches to open science data management
+- To enable and motivate students to implement these approaches in their projects
+
+### Outcomes
+
+1. Students are able to recognize “open” and “closed” science and communicate the advantages of open science
+2. Students can identify the main steps in the FOSTER diagram
+3. Students are able to publish interconnected data objects, boosting their visibility and impact to the scientific community
+4. Students are able to list the main tools for Open Science that enable them to achieve the FAIR and R5 goals. (e.g. F - DOIs, A - GitHub, I - modular software, R - ...)
+5. Students create a data management plan for their projects
 
 ## Course Content
+
+See [the course outline](../readme.md#course-outline) for an overview of the seminars, self-study, and assignments in this course.
 
 ### The seminars
 The course uses seminars to introduce the open science concepts.
@@ -39,8 +56,11 @@ Most seminars will include a quick recap of previous material. This may be prese
 ### Self-study
 Each seminar is followed by self-study sessions. These are described in detail elsewhere (e.g., [here](02_selfstudy1/readme.md)). The goal of each self-study session is to try out the concepts introduced in the seminar on something that is more directly related to the students' own work.
 
-## Student portfolios
-In the _extended course_ a student can choose to develop a portfolio of work.
+### Extended course
+In the _extended course_ a student can choose to develop a portfolio of work. This adds around 30 hours to the _basic course_. Many students may have already been developing a portfolio anyway through other courses, and so the content they develop here can be added to that.
+
+The portfolio can be developed on any platform that the student likes. We anticipate anything from Twitter to YouTube, Instagram, or LinkedIn. The important thing is that the students apply what they have learned during the course to that portfolio.
+- The choice of platform(s) should be driven by the communications strategy that they develop in [self-study 4](../08_selfstudy4/readme.md)
 
 
 ## Using the course as part of a PhD study program
@@ -49,21 +69,48 @@ In the _extended course_ a student can choose to develop a portfolio of work.
 The course material assumes that the students have already had some experience in self-directed research. Because of this, it is probably unsuitable for use at the Master's level.
 
 ### When to use the course
-The course is designed to help students adopt open science in their activities, so is best used before students get too far in to their studies. The course is probably therefore best in the first 6-12 months of a doctoral study program.
+The course is designed to help doctoral students adopt open science in their activities, so is best used before students get too far in to their studies. The course is probably therefore best in the first 6-12 months of a doctoral study program.
 
 ### Course duration
 The course is structured so that students can choose between 60 hours and 90 hours commitment. This recognises that the lack of university affiliation may make it difficult for students to be rewarded for their participation in the course and so they may wish to limit their effort.
 - The _basic course_ is around 60 hours (see [the course outline](../readme.md#course-outline)).
 - The _extended course_ adds 30 hours to the _basic course_ (see [the course outline](../readme.md#course-outline)).
 
-### Getting credit
-**The information presented here is specific to LIKE students**
-The course is not affiliated with a university directly and therefore students will not receive direct credit for this course.
 
-Participants in the course will receive a letter confirming their participation in the course and a copy of the course outline.
+
+## Grading and Recognition
+**The information presented in this section is specific to LIKE students**
+
+### Grading
+Either a `Pass` or a `fail` grade will be awarded.
+
+### Conditions for passing for the _basic course_.
+- Participation in at least 2 of the seminars in the list above
+- Submission of the two assignments
+- Participation in the workshop
+
+### Conditions for passing for the _extended course_.
+As for the _basic course_, and:
+- Commitment to take part in the _extended course_ by the end of the week of the second seminar.
+- Sharing a publicly-accessible link to the student portfolio described under  _for extra credit_ in the self-study sessions.
+
+### Getting credit
+The course is not affiliated with a university directly and therefore students will not receive direct credit for this course. It is offered as continuing education.
+
+Participants passing the course will receive
+1. A letter confirming their participation in the course and
+2. A copy of the course outline.
+
+It is the student's responsibility to determine if:
+
+1. This course can be used towards degree requirements and
+2. How many ECTS points they obtain.
+
+**Note:** You can increase the number of study hours by completing the _for extra credit_ activities identified in the self-study exercises. This is the _extended course_.
+
 
 ## Student portfolios
-Students following the _extended course_ will develop a portfolio of open science-related material that will be publically available.
+Students following the _extended course_ will develop a portfolio of open science-related material that will be publicly available.
 
 ## Reuse and remixing
 You are welcome to reuse or remix the material in this repository under the terms of the license(s) applied to that material.
@@ -72,7 +119,42 @@ You are welcome to reuse or remix the material in this repository under the term
 - The GitHub repository including e.g. `README.md` files is licensed under the MIT license (see the [license file](LICENSE) for details).
 - Presentations for each seminar may be separately licensed by their contributors. Please check those documents for license terms. Note that the license for the presentations should be considered to extend to the source material for compiled documents (i.e. LaTeX source code is covered under the license for the PDF). Please also contact the author(s) directly to discuss reuse of their materials.
 
-### Use of LaTeX Beamer materials
-- Some of the materials in this repository have been created using the LaTeX beamer package. This was used because beamer-based presentations can be adapted and reused quite easily by changing the underlying theme. Some basic information about beamer is given on [overleaf](https://www.overleaf.com/learn/latex/beamer). We advise contacting your Communications or IT groups to obtain beamer templates that meet your corporate identity guidelines.
+If you would like to check if you can use the materials, please [raise an issue](https://github.com/LIKE-ITN/OpenScienceTrainingCourse/issues).
 
-If you need help reusing the materials, or would like to check if you can use it, please [raise an issue](https://github.com/LIKE-ITN/OpenScienceTrainingCourse/issues).
+### Use of LaTeX Beamer materials
+Some of the materials in this repository have been created using the LaTeX beamer package. This was used because beamer-based presentations can be adapted and reused quite easily by changing the underlying theme.
+- Some basic information about beamer is given on [overleaf](https://www.overleaf.com/learn/latex/beamer).
+- Contact your Communications or IT groups to ask about beamer templates that meet your corporate identity guidelines.
+
+## Frequently-Asked Questions (FAQ)
+
+### Is the course suitable for Master's students?
+The course is designed for doctoral students in the first 6-12 months of study.
+
+It depends on the students and how the course fits in with the rest of their studies. The course can be challenging as it is designed for 1. self-directed study and 2. it raises questions without answers.
+
+At the Master's level it's probably a good idea to drop the portfolio-building exercises in the _extended course_ and instead add group study sessions to work through the results from the self-study exercises. We'd welcome ideas for how to structure the course
+
+### How do I use my university's graphical identity for the presentations?
+Presentations made with the LaTeX `beamer` package can be changed to use a new theme.
+
+Please note that you should then
+1. Change the author and affiliation information
+2. Update the date
+3. Remove or update any DOIs.
+4. Acknowledge the original authors as per the license terms.
+
+### How do I change the graphics used for the presentations?
+Some of the slides are made using LaTeX with the `beamer` package. You can swap out the graphics for your own.
+
+Please note that you should then
+1. Change the author and affiliation information
+2. Update the date
+3. Remove or update any DOIs.
+4. Acknowledge the original authors as per the license terms.
+
+### I found a mistake!
+You are not the first! Please [raise an issue](https://github.com/LIKE-ITN/OpenScienceTrainingCourse/issues).
+
+### I want to make a suggestion!
+Thank you! Please [raise an issue](https://github.com/LIKE-ITN/OpenScienceTrainingCourse/issues).
