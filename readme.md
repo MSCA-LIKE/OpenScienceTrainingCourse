@@ -1,6 +1,8 @@
 # LIKE Open Science and Research Data Management Course
 This repository contains the materials for the ITN LIKE Early Stage Researcher (ESR) remote study course on `Open Science and Research Data Management`.
 
+This file provides a basic overview. For more details, see [the course handbook](00_handbook/readme.md).
+
 ## Audience
 This course is initially intended for ESR students in LIKE. Supervisors are strongly recommended to accompany the course.
 
@@ -26,13 +28,11 @@ The _basic_ course requires 61 hours of study time:
 - 11 contact hours
 - 50 self-study hours.
 
-The _extended course_ adds 30 hours of self-study to the _basic course_. These activities are described in each self-study `readme.md` under the heading, `For extra credit`.
+The _extended course_ adds 30 hours of self-study to the _basic course_. These activities are described in each self-study `readme.md` under the heading, `For extra credit`. This 90-hour course is known as the _extended course_.
 
 The course lasts approximately 12 weeks.
 
 ### Course outline
-The following dates are specific to the ITN LIKE Autumn 2020 course.
-
 | Week | Seminar | Self-study | Assignment | Contact Hours | Self-study hours |
 |---|---|---|---|---|---|
 | 40 | [Introducing open science](01_seminar1/readme.md) | | | 1 | 1 |
@@ -51,7 +51,7 @@ The following dates are specific to the ITN LIKE Autumn 2020 course.
 | 52 | | | [Data management plan](14_assignment2/readme.md) | | 1 |
 | | | | **TOTAL** | **11** | **50** |
 
-**Note:** Weeks given are calendar weeks in 2020 and 2021. See e.g. http://www.whatweekisit.org/ for details.
+**Note:** Weeks given are calendar weeks in 2020 and 2021 and are specific to ITN LIKE. See e.g. http://www.whatweekisit.org/ for details.
 
 ## Licensing, reuse, and remixing
 You are welcome to reuse or remix the material in this repository under the terms of the license(s) applied to that material.

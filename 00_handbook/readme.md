@@ -2,17 +2,19 @@
 
 Contents:
 - [Introduction](#Introduction)
+- [Learning goals and outcomes](#learning-goals-and-outcomes)
+- [Course format](#Course-format)
 - [Course content](#Course-content)
-- [Student portfolios](#student-portfolios)
 - [Using the course as part of a PhD study program](#Using-the-course-as-part-of-a-PhD-study-program)
+- [Grading and recognition](#grading-and-recognition)
 - [Reusing or remixing this material](#reuse-and-remixing)
-
 
 ## Introduction
 This course was set up for new students in the EU-funded Innovation Training Network, "Lidar Knowledge Europe" (ITN-LIKE) that started in 2020.
 
 The course provides students with a foundation in the philosophy of open science. It's based on discussion seminars, self-study exercises, and assignments that help students try out open science.
 - Find out more about [the goals of the course](#learning-goals-and-outcomes).
+- Find out more about [the course format](#course-format).
 - Find out more about [the course content](#course-content).
 
 The exercises are structured so that students who want to invest more time in the course (possibly for ECTS requirements) can create a portfolio.
@@ -20,6 +22,7 @@ The exercises are structured so that students who want to invest more time in th
 
 ITN LIKE brings together 15 PhD students across Europe. These students are based at companies and universities, and all have different requirements to complete their PhDs. Because of this, we have tried to set up a course that can be delivered completely online, and independent of any one university.
 - [Using the course as part of a PhD study program](#Using-the-course-as-part-of-a-PhD-study-program)
+- Find out about [grading and recognition](#grading-and-recognition)
 
 And, because the course is about open science, we wanted to make the course materials open as well.
 - Find out more about [reusing or remixing this material](#reuse-and-remixing).
@@ -40,27 +43,44 @@ There's also an [FAQ](#frequently-asked).
 4. Students are able to list the main tools for Open Science that enable them to achieve the FAIR and R5 goals. (e.g. F - DOIs, A - GitHub, I - modular software, R - ...)
 5. Students create a data management plan for their projects
 
-## Course Content
+## Course format
 
 See [the course outline](../readme.md#course-outline) for an overview of the seminars, self-study, and assignments in this course.
 
-### The seminars
-The course uses seminars to introduce the open science concepts.
+### Seminars
+The course uses seminars to introduce the open science concepts (e.g., [here](01_seminar1/readme.md)). These are designed as an online interactive discussion for up to 10 students and one leader.
 
-The seminars are designed as an online interactive discussion for up to 10 students and one leader.
+Seminars will include a quick recap of previous material. This may be presented as a flash test.
 
-After the seminars we expect students to spend at least an hour on related reading. This reading is described in each seminar.
-
-Most seminars will include a quick recap of previous material. This may be presented as a flash test.
+After the seminars we expect students to spend at least an hour on related reading and self-directed research. This reading is described in each seminar.
 
 ### Self-study
-Each seminar is followed by self-study sessions. These are described in detail elsewhere (e.g., [here](02_selfstudy1/readme.md)). The goal of each self-study session is to try out the concepts introduced in the seminar on something that is more directly related to the students' own work.
+Each seminar is followed by self-study sessions. These are described in detail elsewhere (e.g., [here](02_selfstudy1/readme.md)). The self-study sessions allow students to try out concepts introduced in seminars on something that is  directly related to their own work.
+
+### Assignments
+The course includes two assignments that require the students to use what they have learned in a real-world situation. The assignments build on the seminars and self-study sessions:
+1. A case study of making something "open".
+2. A data management plan for their PhDs.
+
+### Workshop
+The course finishes with a workshop where students share their case studies and provide each other with feedback.
+
+## Course content
+
+### The basic course
+The _basic course_ achieves all of the learning goals and outcomes identified above. It includes 60 hours of study in
+- 5 seminars,
+- 6 self-study tasks,
+- 2 assignments, and
+- 1 workshop,
+
+as described in the [the course outline](../readme.md#course-outline).
 
 ### Extended course
-In the _extended course_ a student can choose to develop a portfolio of work. This adds around 30 hours to the _basic course_. Many students may have already been developing a portfolio anyway through other courses, and so the content they develop here can be added to that.
+In the _extended course_ a student can choose to develop a portfolio of work. This is identified in each self study under the heading, **"For extra credit"**. The _extended course_ adds around 30 hours to the _basic course_. Many students may have already been developing a portfolio anyway through other courses, and so the content they develop here can be added to that.
 
 The portfolio can be developed on any platform that the student likes. We anticipate anything from Twitter to YouTube, Instagram, or LinkedIn. The important thing is that the students apply what they have learned during the course to that portfolio.
-- The choice of platform(s) should be driven by the communications strategy that they develop in [self-study 4](../08_selfstudy4/readme.md)
+- The choice of platform(s) should be driven by the communications strategy that students develop in [self-study 4](../08_selfstudy4/readme.md)
 
 
 ## Using the course as part of a PhD study program
@@ -75,8 +95,6 @@ The course is designed to help doctoral students adopt open science in their act
 The course is structured so that students can choose between 60 hours and 90 hours commitment. This recognises that the lack of university affiliation may make it difficult for students to be rewarded for their participation in the course and so they may wish to limit their effort.
 - The _basic course_ is around 60 hours (see [the course outline](../readme.md#course-outline)).
 - The _extended course_ adds 30 hours to the _basic course_ (see [the course outline](../readme.md#course-outline)).
-
-
 
 ## Grading and Recognition
 **The information presented in this section is specific to LIKE students**
@@ -107,10 +125,6 @@ It is the student's responsibility to determine if:
 2. How many ECTS points they obtain.
 
 **Note:** You can increase the number of study hours by completing the _for extra credit_ activities identified in the self-study exercises. This is the _extended course_.
-
-
-## Student portfolios
-Students following the _extended course_ will develop a portfolio of open science-related material that will be publicly available.
 
 ## Reuse and remixing
 You are welcome to reuse or remix the material in this repository under the terms of the license(s) applied to that material.
