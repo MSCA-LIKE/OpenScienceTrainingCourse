@@ -22,5 +22,5 @@ Draft a short article about this. You'll use this later as part of your portfoli
 
 
 ## Course progress
-| Previous: [Seminar 3: "Open Science and Intellectual Property"](../05_seminar3/readme.md) | [Course outline](../readme.md#course-outline) | Next: [Seminar 4: "If a tree falls in the forest... Communicating your science"](../seminar4/readme.md) |
+| Previous: [Seminar 3: "Open Science and Intellectual Property"](../05_seminar3/readme.md) | [Course outline](../readme.md#course-outline) | Next: [Seminar 4: "If a tree falls in the forest... Communicating your science"](../07_seminar4/readme.md) |
 |---|---|---|
