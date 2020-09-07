@@ -11,6 +11,9 @@ Based on feedback from your colleagues, revise your PhD data management plan.
 ### For extra credit
 Publish your data management plan to your portfolio (see [self-study 4](../08_selfstudy4/readme.md) for details).
 
+_2 hours of extra credit are available for this work_
+
+
 ## Resources
 -
 

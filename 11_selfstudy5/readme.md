@@ -3,7 +3,7 @@ _*How do I write a data management plan?*_
 
 | contact hours | self-study hours | optional hours |
 |---|---|---|
-| 1 | 12 | 4 |
+| 1 | 12 | 6 |
 
 ## Task
 1. Prepare a draft of your LIKE data management plan
@@ -13,6 +13,8 @@ _*How do I write a data management plan?*_
 
 ## For extra credit
 Write up a short article about your LIKE research and publish it as part of your portfolio (see [self-study 4](../08_selfstudy4/readme.md) for details).
+
+_6 hours of extra credit are available for this work_
 
 
 ## Resources

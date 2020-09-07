@@ -22,7 +22,6 @@ aspectratio=169]{beamer}
 }
 
 % set up an image credit
-
 \newcommand{\simplecaption}[1]{\parbox{\textwidth}{\scriptsize\color{darkgray} #1}}
 \newcommand{\givecredit}[1]{\parbox{\textwidth}{\tiny\color{gray} #1}}
 % underline links
@@ -33,6 +32,9 @@ aspectratio=169]{beamer}
 \newcommand{\orcid}[1]{\href{https://orcid.org/#1}{\includegraphics[height=10pt]{images/ORCIDiD_icon128x128.png}}}
 % LinkedIn logo
 \newcommand{\linkedin}[1]{\href{#1}{\includegraphics[height=10pt]{images/LI-In-Bug.png}}}
+% enable overlapping images
+% see https://tex.stackexchange.com/questions/34921/how-to-overlap-images-in-a-beamer-slide
+\def\Put(#1,#2)#3{\leavevmode\makebox(0,0){\put(#1,#2){#3}}}
 
 %---------------------------------------------------------------
 % Packages

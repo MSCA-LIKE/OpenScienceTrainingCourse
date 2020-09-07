@@ -11,6 +11,8 @@ Read at least one of the introductory documents from the list of [introductory d
 ### For extra credit
 Draft a short article about your experience of how open science is contributing to the COVID-19 response. You'll use this later as part of your portfolio (see [self-study 4](../08_selfstudy4/readme.md) for details).
 
+_4 hours of extra credit are available for this work_
+
 
 ## Resources
 

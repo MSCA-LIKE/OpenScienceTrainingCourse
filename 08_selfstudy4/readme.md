@@ -11,7 +11,7 @@ Using the same paper you reviewed in Self-study 2 and Self-study 3, create and i
 ### For extra credit
 **Start your portfolio!**
 
-Identify a suitable internet platform to share your experiences around open science. This will be your portfolio.
+Identify a suitable internet platform to share your experiences around open science. This will be your online portfolio.
 
 Suitable platforms could include:
 - LinkedIn
@@ -20,6 +20,10 @@ Suitable platforms could include:
 - Medium
 
 Transfer your draft articles from the previous self-study exercises to that platform.
+
+The portfolio should be findable by an internet search engine.
+
+_4 hours of extra credit are available for this work_
 
 ## Resources
 
@@ -33,5 +37,5 @@ Transfer your draft articles from the previous self-study exercises to that plat
 
 
 ## Course progress
-| Previous: [Seminar 4: "If a tree falls in the forest … communicating your science"](../07_seminar4/readme.md) | [Course outline](../readme.md#course-outline) |Next: [Deliverable 1: "Implementation case study"](../09_assignment1/readme.md) |
+| Previous: [Seminar 4: "If a tree falls in the forest … communicating your science"](../07_seminar4/readme.md) | [Course outline](../readme.md#course-outline) |Next: [Assignment 1: "Implementation case study"](../09_assignment1/readme.md) |
 |--|--|--|

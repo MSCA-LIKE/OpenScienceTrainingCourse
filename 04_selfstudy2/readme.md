@@ -15,6 +15,8 @@ Results from this self study will also be discussed later in your presentation d
 ### For extra credit
 Draft a short article about this that includes a discussion of how FAIR and R5 principles were, or were not used by your group. If something was not done, try to find out why not. You'll use this later as part of your portfolio (see [self-study 4](../08_selfstudy4/readme.md) for details).
 
+_4 hours of extra credit are available for this work_
+
 ## Resources
 See also [Self-study 3](../06_selfstudy3/readme.md) and [Assignment 1](../09_assignment1/readme.md).
 

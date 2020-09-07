@@ -39,5 +39,5 @@ A 55-minute online discussion based around [this PDF](beamer/main.pdf), covering
 - Feedback about the course materials? Please [raise an issue](https://github.com/LIKE-ITN/OpenScienceTrainingCourse/issues).
 
 ## Course progress
-| Previous: [Self-study 3: "Implementing Open Science"](../06_selfstudy3/readme.md) | [Course outline](../readme.md#course-outline) | Next: [Self-study 4: "Communications Strategies"](../08_selfstudy4/readme.md) |
+| Previous: [Assignment 1: "Implementation case study"](../09_assignment1/readme.md) | [Course outline](../readme.md#course-outline) | Next: [Self-study 4: "Communications Strategies"](../08_selfstudy4/readme.md) |
 | -- | -- | -- |
