@@ -6,7 +6,11 @@ _*How are FAIR and other open science principles used in real life?*_
 | - | 4 | 4 |
 
 ## Task
-Identify how open science and other data management principles were implemented in a recent paper from your group.
+Choose a recent paper or other publication from your group.
+1. Identify how open science and other data management principles were implemented for that paper or publication.
+2. Identify how aspects of FAIR or R5 were not implemented are missing.
+3. Identify things that actively work against the open science principles.
+4. Identify ways in which the open science characteristics of this work could be improved.
 
 You'll use what you learn here in [Self-study 3](../06_selfstudy3/readme.md) and [Assignment 1](../09_assignment1/readme.md).
 
@@ -21,6 +25,7 @@ _4 hours of extra credit are available for this work_
 See also [Self-study 3](../06_selfstudy3/readme.md) and [Assignment 1](../09_assignment1/readme.md).
 
 ## Further reading
+None at this time.
 
 ## Questions and feedback
 - General questions? Please use slack to ask.

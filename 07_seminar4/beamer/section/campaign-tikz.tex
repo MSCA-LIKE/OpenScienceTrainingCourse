@@ -1,0 +1,39 @@
+% image illustrating a communications campaign
+
+\usetikzlibrary{positioning}
+\usetikzlibrary{overlay-beamer-styles}
+
+\begin{tikzpicture}[remember picture, overlay]
+
+    % NREL press release
+    \node[anchor=south west, xshift=0.25cm](NREL) at (current page.south west) {
+        \includegraphics[height=150pt]{images/eaau2027_NREL_pressrelease.png}
+    };
+
+    % DTU press release
+    \node[anchor=north west](DTU) at (current page.north west) {
+        \includegraphics[height=150pt]{images/eaau2027_DTU_pressrelease.png}
+    };
+    
+    % Conference picture
+    \node[anchor=north east, xshift=-0.25cm](Conf) at (current page.east) {
+        \includegraphics[height=100pt]{images/joao-cruz-IkEpl3JkVqU-unsplash.jpg}
+    };
+    
+    % Article from wind power monthly
+    \node[anchor=north east](WPM) at (current page.north east) {
+        \includegraphics[height=150pt]{images/eaau2027_WPM.png}
+    };
+    
+    % linkedin logo
+    \node[anchor=east, yshift=-0.75cm](L) at (current page.east) {
+        \colorbox{white}{\includegraphics[height=25pt]{images/LI-Logo.png}}
+    };
+    
+    
+    % paper
+    \node[line width=1mm](Sci) at (current page.center) {
+        \frame{\includegraphics[height=0.9\paperheight]{images/eaau2027_front.png}}
+    };    
+
+\end{tikzpicture}

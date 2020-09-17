@@ -1,0 +1,241 @@
+% Copyright 2017 by Christian Senger <senger@inue.uni-stuttgart.de>
+%
+% This file may be distributed and/or modified
+%
+% 1. under the LaTeX Project Public License and/or
+% 2. under the GNU Public License.
+%
+% See the file doc/licenses/LICENSE for more details.
+
+% reset footnote counter per page, adapt footnotes
+\usepackage{perpage}
+\MakePerPage{footnote}
+\renewcommand*{\thefootnote}{\fnsymbol{footnote}}
+\renewcommand\footnoterule{}
+
+% set up fonts
+\usepackage{lmodern}
+\usepackage[ngerman]{babel}
+%\usepackage{fontspec}
+%\setsansfont[Path = ./font/,
+%  BoldFont = UniversforUniS65Bd-Regular,
+%  ItalicFont = UniversforUniS45LtObl-Rg,
+%  BoldItalicFont = UniversforUniS45LtObl-Rg,
+%  Scale = MatchUppercase 
+%]{UniversforUniS55Rm-Regular}
+
+\renewcommand{\familydefault}{\sfdefault}
+
+% use fancy enumerate/itemize and restore beamer layout
+\usepackage{enumitem}\setitemize{%
+  label=\usebeamerfont*{itemize item}
+  \usebeamercolor[fg]{itemize item}
+  \usebeamertemplate{itemize item}
+}
+
+\usepackage{tikz}
+
+\makeatletter
+\def\beamerrightmargin{\dimexpr\Gm@rmargin\relax}
+\makeatother
+
+\mode<presentation>
+
+\useoutertheme{uniS}
+\useinnertheme{rectangles}
+
+\usecolortheme{uniS}
+
+\usefonttheme[onlymath]{serif}
+\setbeamerfont{block title}{size=\small}
+
+\setbeamersize{text margin left=1cm}
+\setbeamersize{text margin right=1cm}
+
+\setbeamertemplate{navigation symbols}{}
+
+\newcommand{\photocredit}[1]{%
+  \begingroup
+  \renewcommand\thefootnote{}\footnote{\tiny Photo credit: #1}%
+  \addtocounter{footnote}{-1}%
+  \endgroup
+}
+
+\newcommand{\finalslide}[3]{
+  \begin{frame}[plain]
+    \begin{tikzpicture}[overlay, remember picture]
+      \clip (current page.north west) rectangle (current page.south east);
+      % uncomment in order to repeat title page background, also uncomment opacity below
+      %\node[anchor=north west] at ([xshift=-1em, yshift=1ex]current page.north west) {\pgfuseimage{background}};
+      \shade[%
+        top color=uniSlightblue,
+        bottom color=uniSblue,
+        shading angle=-45,
+        %opacity=.8
+        ]
+        (current page.north west) rectangle (current page.south east);
+        \node[anchor=north west] at ([xshift=1cm, yshift=-1cm]current page.north west) {\pgfuseimage{unilogow}};
+    \end{tikzpicture}
+
+    \vspace{4cm}
+
+    \begin{columns}[c]
+      \begin{column}{2.5cm}
+
+        \begin{tikzpicture}
+        \node[circle,minimum size=2.5cm, path picture={
+          \node at (path picture bounding box.center){\pgfuseimage{speaker}};}] {};
+        \end{tikzpicture}
+      \end{column}
+      \begin{column}{.7\textwidth}
+
+        \begin{beamercolorbox}%[leftskip=3ex, ht=2em,wd=\paperwidth]
+          {palette tertiary}
+          \begin{tabular}{ll}
+            \multicolumn{2}{l}{\insertshortauthor}\\
+            \multicolumn{2}{l}{\insertinstitute}\\
+            \rule{0pt}{4ex}\\
+            eMail & \href{mailto:#1}{#1}\\
+            Telefon  & #2\\
+            Web & \href{http://#3}{#3}\\
+          \end{tabular}
+        \end{beamercolorbox}
+      \end{column}
+    \end{columns}
+
+  \end{frame}
+}
+
+\newlength{\circlesize}
+
+\setbeamertemplate{title page}%
+{
+  \setlength{\circlesize}{1.12\textheight}
+  \begin{tikzpicture}[overlay, remember picture]
+    \clip (current page.north west) rectangle (current page.south east);
+    % background image
+    \node[anchor=south west] at ([xshift=-1em, yshift=-1ex]current page.south west)
+      {\pgfuseimage{background}};
+     % uni logo background
+    \node[%
+      rectangle,
+      draw=white,
+      fill=white,
+      anchor=north west,
+      minimum width=2\textwidth,
+      minimum height=3cm]
+      at (current page.north west) {};
+      % uni logo
+    \node[anchor=north west] at ([xshift=1cm, yshift=-1cm]current page.north west) {\pgfuseimage{unilogo}};
+    % title
+    \node[%
+      circle,
+      fill=uniSgray,
+      text=white,
+      anchor=south east,
+      minimum size=\circlesize,
+      text width=.7\circlesize,
+      align=center,
+      font=\bfseries\LARGE]
+      (title) at ([yshift=-.0\circlesize]current page.south east) {\inserttitle};
+    % date
+    \node[%
+        align=left,
+        text = white,
+        anchor=center,
+        font=\normalsize] at ([xshift=-0.35\circlesize, yshift=0.5cm]current page.south east){\insertdate};
+    % author (smaller circle)
+    \setlength{\circlesize}{.2\textheight}
+    \node[%
+      circle,
+      fill=white,
+      anchor=center,
+      minimum size=\circlesize,
+      text width=.75\circlesize,
+      align=left,
+      font=\bfseries\normalsize]
+      at ([xshift=-.1\circlesize, yshift=-.6\circlesize]title.north west) {\insertauthor};
+  \end{tikzpicture}
+}
+
+\setbeamertemplate{section page}%
+{
+  \begin{tikzpicture}[overlay, remember picture]
+    \setlength{\circlesize}{.9\textheight}
+    \clip (current page.north west) rectangle (current page.south east);
+    \shade[%
+      top color=uniSlightblue,
+      bottom color=uniSblue,
+      shading angle=-45]
+      (current page.north west) rectangle (current page.south east);
+    \node[%
+      circle,
+      fill=white,
+      anchor=north west,
+      minimum size=\circlesize,
+      text width=.75\circlesize,
+      align=left,
+      font=\bfseries\huge]
+      (sectiontitle) at ([xshift=.1\circlesize, yshift=-.2\circlesize]current page.north west) {\insertsection};
+    \setlength{\circlesize}{.2\textheight}
+    \node[%
+      circle,
+      fill=uniSgray,
+      text=white,
+      anchor=center,
+      minimum size=\circlesize,
+      align=left,
+      font=\bfseries\Huge]
+      at ([xshift=-.1\circlesize, yshift=-.3\circlesize]sectiontitle.south east) {\thesection};
+  \end{tikzpicture}
+}
+
+\setbeamertemplate{section in toc}{%
+  \usebeamercolor[bg]{item projected}%
+  \begin{tikzpicture}[node distance=.5em]
+    \node[anchor=base, baseline, fill=uniSgray, text=white, circle, inner sep=0pt, minimum size=2em] (no) {\inserttocsectionnumber};
+    \node[right=of no, xshift=0.3cm] {\color{uniSblue} \inserttocsection};
+  \end{tikzpicture}
+}
+
+\setbeamertemplate{frametitle}%
+{
+  \nointerlineskip
+  \begin{beamercolorbox}[leftskip=2ex, ht=2em,wd=\paperwidth]{frametitle}
+    \bfseries\Large\insertframetitle\strut
+  \end{beamercolorbox}
+}
+
+\setbeamertemplate{itemize/enumerate body begin}{\footnotesize}
+
+\setbeamertemplate{itemize/enumerate subbody begin}{\footnotesize}
+
+\setbeamertemplate{itemize item}{%
+  \usebeamercolor[bg]{item projected}%
+  \begin{tikzpicture}
+    \draw[uniSlightblue,fill=uniSlightblue, opacity=0] (0,0) circle (.1695em);
+    \draw[uniSlightblue,fill=uniSlightblue] (.1695em, .1695em) circle (.1695em);
+  \end{tikzpicture}
+}
+
+\setbeamertemplate{bibliography item}{\insertbiblabel}
+
+\setbeamertemplate{blocks}[rounded][shadow=true]
+
+\defbeamertemplate{note page}{notepageuniS}
+{
+  \insertvrule{0.45\paperheight}{uniSgray!20}%
+  \vskip-0.45\paperheight
+  \insertslideintonotes{0.45}
+
+  \noindent\hspace{1em}\begin{minipage}{.9\paperwidth}
+    \footnotesize
+    \setlist{noitemsep}
+    \insertnote
+  \end{minipage}
+}
+
+\setbeamertemplate{note page}[notepageuniS]
+
+\mode
+<all>

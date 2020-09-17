@@ -1,8 +1,8 @@
 # Assignment 1: Implementation Case Study
 
-| contact hours | self-study hours | instructor |
+| contact hours | self-study hours | optional hours |
 |---|---|---|
-| - | 8 | - |
+| - | 8 | 4 |
 
 Prepare a case study based on the work done in Self-study 3, Self-study 4, and Self-study 5. The case study should describe what was done to make your work FAIR and implement the R5 concepts, and how you communicated your work to your stakeholders.
 

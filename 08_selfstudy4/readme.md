@@ -1,9 +1,9 @@
-# Self-study 4: Communications Strategies
+# Self-study 4: Communicate!
 _*How can science be communicated to stakeholders?*_
 
-| contact hours | self-study hours | instructor |
+| contact hours | self-study hours | optional hours |
 |---|---|---|
-| - | 4 | - |
+| - | 4 | 4 |
 
 ## Task
 Using the same paper you reviewed in Self-study 2 and Self-study 3, create and implement a communications strategy for two of your stakeholder groups.
