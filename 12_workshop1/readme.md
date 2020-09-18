@@ -14,7 +14,7 @@ This workshop will take place immediately before the DTU Remote Sensing Summer S
 
 Describe what you did for [Assignment 1](../09_assignment1/readme.md):
 - what was done to make your work FAIR and implement the R5 concepts?
-- How did you communicate your work to your stakeholders.
+- How did you communicate your work to your stakeholders?
 - What worked well?
 - What didn't work so well?
 - Where do you need help?

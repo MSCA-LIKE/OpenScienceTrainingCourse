@@ -104,7 +104,7 @@ Either a `Pass` or a `fail` grade will be awarded.
 
 ### Conditions for passing for the _basic course_.
 - Participation in at least 2 of the seminars in the list above
-- Submission of the two assignments
+- Submission of the two assignments _N.B. these submissions must also reach the passing criteria for the assignments_
 - Participation in the workshop
 
 ### Conditions for passing for the _extended course_.
