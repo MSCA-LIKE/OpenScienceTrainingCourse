@@ -7,28 +7,28 @@ _*What are the basic principles of open science? How can you implement FAIR and 
 
 ## Format
 A 55-minute online discussion based around [this PDF](FAIR_R5.pdf), covering:
-- ...
-- ...
-- ...
-- Next steps
+- The project lifecycle
+- FAIR data
+- The R5 principles
 
 ## Learning
 
 ### Goals
-- ...
-- ...
-- ...
+- Understand the concept of reusable analysis
+- Differentiate between different research outputs, including data, code, and papers
+- Understand metadata
 
 ### Outcomes
-- ...
-- ...
-- ...
+- Students know what the FAIR data principles are
+- Students know how different research products can be published
+- Students know how to apply the R5 principles to data products
 
 ## Resources
 - [Howtofair.dk](http://howtofair.dk)
 
 ## Further reading
-- _Open Science:How do we make it more than just a buzzword? (Version pre-print)_. Zenodo. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3670410.svg)](https://doi.org/10.5281/zenodo.3670410)
+- _Open Science and FAIR data principles (LIKE Deliverable 7.1)_. Available at https://like-itn-digitalization.readthedocs.io/en/latest/.
+- _Open Science: How do we make it more than just a buzzword? (Version pre-print)_. Zenodo. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3670410.svg)](https://doi.org/10.5281/zenodo.3670410)
 
 ## Questions and feedback
 - General questions? Please use slack to ask.
