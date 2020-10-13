@@ -59,5 +59,54 @@ Data or publications should be clearly licensed
 Some journals allow you to add "assets" https://wes.copernicus.org/articles/5/73/2020/
 
 ## FAIR Data principles
+We spend a lot of time on data wrangling! This is not enjoyable, but if we do it well, the data will be very long-lived and very highly cited (see e.g. the Askervein Hill experiment). This is where FAIR comes in:
+
+  - **F**indable
+  - **A**ccessible
+  - **I**nteroperable
+  - **R**eusable
+  
+Although the emphasis is on human-readable data, if we can make it easier for machines to use the data we can get them to do a lot of the preparation for us.
+
+Metadata (data about the data!) are essential.
+
+### So what should I do?
+Don't reinvent the wheel!
+
+  - controlle vocabularies
+  - use domain-specific metadata templates
+  - store the metadata to an open format, e.g. YAML
+  
+A lot of this information about metadata can be found in fairsharing.org.
+
+    There's a wind lidar glossary in development at https://github.com/IEA-Wind-Task-32/wind-lidar-glossary
+
+Wind energy is using the Marinet2 metadata template
+
+Store data in NetCDF and check it into a repository
+
+    We're stll looking for a good example!
 
 ## Code
+Code should confirm to the R5 principles:
+
+  - Re-runnable: _the code can be re-executed_
+  - Repeatable: _the code should produce the same results every time you execute it_
+  - Reproducible: _the code _
+  - Reusable: _the code should be easy to use, understand, and modify_
+  - 
+  
+Publishing code is a challenge; it's very domain and language specific. But, the Journal of Open Source Software (https://joss.theoj.org/) helps to publish code. It's also being used in wind energy - see https://joss.theoj.org/papers/search?q=wind+energy.
+
+    
+
+## Summary
+
+- Being a researcher in the age of digitaliztation and open science requires some work
+  - your data should be in good shape
+  - your code should look more professional and less professorial...
+
+- Putting the effort pays dividends
+  - immediately because we have more and more diverse research output
+  - in future, by not wasting time understanding what you did
+  - opens up more career paths other than just being a researcher
