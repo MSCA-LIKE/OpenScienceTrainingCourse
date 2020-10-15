@@ -24,7 +24,8 @@ A 55-minute online discussion based around [this PDF](FAIR_R5.pdf), covering:
 - Students know how to apply the R5 principles to data products
 
 ## Resources
-- [Howtofair.dk](http://howtofair.dk)
+- [Howtofair.dk](http://howtofair.dk) _ideas on how to make data FAIR_
+- [Fairsharing.org](https://fairsharing.org/) _advice on metadata_
 
 ## Further reading
 - _Open Science and FAIR data principles (LIKE Deliverable 7.1)_. Available at https://like-itn-digitalization.readthedocs.io/en/latest/.

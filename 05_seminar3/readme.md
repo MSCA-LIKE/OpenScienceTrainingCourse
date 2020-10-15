@@ -14,22 +14,24 @@ A 55-minute online discussion based around [this PDF](./beamer/main.pdf), coveri
 ## Learning
 
 ### Goals
-- ...
-- ...
-- ...
+- Understand why we need licenses
+- Explore the different approaches to licensing code and creative works
+- Understand how the licensing process usually works
+- Explore the benefits of modularised science
 
 ### Outcomes
-- ...
-- ...
-- ...
-- ...
+- Students understand how licenses enable collaboration
+- Students see the beneficial of open frameworks
 
 ## Resources
 - [Choose a creative commons license](https://creativecommons.org/choose/) (Ideal for creative works such as images)
 - [Choose an open source license](https://choosealicense.com/) (Ideal for software or source code)
 
 ## Further reading:
-- The Power Curve Working Group's assessment of wind turbine power performance prediction methods. [DOI: 10.5194/wes-5-199-2020
+- [Modular design](https://en.wikipedia.org/wiki/Modular_design) enables interaction. If the interfaces in a modular system are clear, modules can be swapped in and out with ease.
+  - The e-WindLidar data formats (See [§4.3 in ](https://zenodo.org/record/2478051) and [Lidaco](https://github.com/e-WindLidar/Lidaco)) enable much simpler data exchange
+  - The [OpenLidar concept](https://zenodo.org/record/3414197) shows how this could be applied for wind lidar.
+- The Power Curve Working Group's _assessment of wind turbine power performance prediction methods_ is an example of how commercially-sensitive experience can be shared without sharing information. [DOI: 10.5194/wes-5-199-2020
 ](https://doi.org/10.5194/wes-5-199-2020)
 
 ## Questions and feedback
