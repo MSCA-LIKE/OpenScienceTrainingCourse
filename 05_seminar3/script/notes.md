@@ -65,7 +65,7 @@ Licenses can be written specifically for each new data object. Alternatively, th
 
 There are two major license families that we need to be aware of for open science:
 - Creative works such as papers, illustrations, art, and music are often licensed under one of the [creative-commons licenses](https://creativecommons.org/choose/). These licenses can allow (or limit) reuse for commercial purposes, remixing, and state whether or not attribution is required.
-- [Open source licenses protect users and developers](https://choosealicense.com/).
+- [Open source licenses to protect software developers](https://choosealicense.com/). These include licenses such as the MIT, BSD, Apache, GNU, LPL, and other software licenses.
 
 Your choice of license should be informed by:
 1. The community that you work within
@@ -74,11 +74,27 @@ Your choice of license should be informed by:
 
 [^1]: See e.g. [this illustration](https://discuss.okfn.org/t/applying-licenses-waivers-or-public-domain-marks/6440/22) for an overview of how licenses impact accessibility of data.
 
+You will sometimes see licenses referred to as "permissive" or "copyleft" licenses:
+- **Permissive licenses** - e.g. MIT, Apache, BSD - let you copy, modify, remix, and even redistribute content work with very few restrictions. You might be required to provide an attribution.
+- **Copyleft licenses** - e.g. GNU GPL V3 - requires users to use the software under the same rights that it was released with. That means copyleft material remains copyleft, and anything based on it must also be copyleft. This is sometimes described as a viral effect, in that it can infect other code
+
+So, you can include content (normally software) developed under a permissive license in your own tools or commercial code, but material with copyleft licensing cannot be directly commercialised. There is extensive debate about [which license should be used to encourage openness](https://www.datamation.com/open-source/open-source-debate-copyleft-vs.-permissive-licenses.html), but the debate always comes back to understanding how open source material will be used.
+
 ### An example from the global COVID-19 response
 
-Licensing can make it hard for people to know how to use intellectual property. This can cost lives, especially if time is critical. So, some of the organisations heavily involved with the global COVID-19 response have chosen to make their patents and copyrights open.
+Restrictive or unusual licensing can make it hard for people to use intellectual property. This can cost lives, especially if time is critical. So, some of the organisations heavily involved with the global COVID-19 response have chosen to make their patents and copyrights open.
 
 > Amazon, Facebook, Fujitsu, Hewlett Packard Enterprise, IBM, Intel, Microsoft, NASA JPL, Sandia National Laboratories, and Uber are among the dozens of companies and institutions that have used the Open COVID Pledge to make their patents and copyrights open to the public in support of solving the COVID-19 pandemic.
 >
 > Source: [Creative Commons Is Now Leading the Open COVID Pledge—Here’s What That Means. Creative Commons, 27 Aug 2020](https://creativecommons.org/2020/08/27/cc-ocp/)
 
+### So how can we make money by making something open?
+
+> We discussed how companies can make money through open source software linke the Lunix operating system
+
+Companies can make money by adding value to open source products. For example, they can:
+
+1. Provide user interfaces
+1. Provide training
+1. Help integrate the product into someone else's business
+1. Develop an ecosystem to encourage adoption and retention.
