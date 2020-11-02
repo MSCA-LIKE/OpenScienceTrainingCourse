@@ -40,9 +40,14 @@ As engineers or scientists who develop software, it is quite common to use infor
 
 Although this is "open source", it is not necessarily _free to use_; published material is automatically protected by copyright. This means that the code posted on such websites belongs to the person (or their employer) posting it.
 
-Some websites get around this by including a term in their legal pages. For example, [stackoverflow's terms and conditions](https://stackoverflow.com/legal/terms-of-service#licensing) include this statement, which explicitly applies a license to material contributed by users:
+You cannot use code from websites unless it is clearly stated under what license conditions it is provided to you. If you use code anyway, you may be committing piracy, regardless of any good intentions.
 
-> ### Subscriber Content
+![](../beamer/images/bermix-studio-F7DAQIDSk98-unsplash.jpg)
+_Using code or intellectual property without clear terms is not a good idea_
+
+Some websites avoid this risk by including a term in their legal pages. For example, [stackoverflow's terms and conditions](https://stackoverflow.com/legal/terms-of-service#licensing) include this statement, which explicitly applies a license to material contributed by users:
+
+> **Subscriber Content**
 >
 > You agree that any and all content, including without limitation any and all text, graphics, logos, tools, photographs, images, illustrations, software or source code, audio and video, animations, and product feedback (collectively, “Content”) that you provide to the public Network (collectively, “Subscriber Content”), is perpetually and irrevocably licensed to Stack Overflow on a worldwide, royalty-free, non-exclusive basis pursuant to Creative Commons licensing terms (CC BY-SA 4.0)
 >
@@ -50,11 +55,13 @@ Some websites get around this by including a term in their legal pages. For exam
 
 Open source code on other sites may be protected through other mechanisms. On GitHub, uploaded code still belongs to the person posting it:
 
-> #### 3. Ownership of Content, Right to Post, and License Grants
+> **3. Ownership of Content, Right to Post, and License Grants**
 >
 > You retain ownership of and responsibility for Your Content. If you're posting anything you did not create yourself or do not own the rights to, you agree that you are responsible for any Content you post; that you will only submit Content that you have the right to post; and that you will fully comply with any third party licenses relating to Content you post.
 >
 > [source: GitHub.com](https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-terms-of-service#d-user-generated-content)
+
+But, a person who has found the repository using their favorite search engine may not be aware that the open-source code is still protected by copyright.
 
 On GitHub, a publisher - the person making the data available - can give their data a [license which can grant further rights](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/licensing-a-repository#choosing-the-right-license).
 
@@ -98,3 +105,18 @@ Companies can make money by adding value to open source products. For example, t
 1. Provide training
 1. Help integrate the product into someone else's business
 1. Develop an ecosystem to encourage adoption and retention.
+
+See, for example, the example of IBM and others providing consultancy services around Linux.
+
+### Why modularity and frameworks can help adoption
+Choosing the right license doesn't automatically mean that your code will be adopted by everyone. Sometimes you have to help people adopt it.
+
+That can often mean putting your science in to context and helping people connect to it.
+
+What does this have to do with a bike? A bike is a good example of something where people know how it works, and are familiar with it. It's not particularly protected by licenses or patents, and so you could think of it as a _framework_ that others can contribute to. This is helped by having standards for things (e.g. the size of a pipe or the pitch of a screw thread). As a result, there is regular innovation around components and bikes, as well as a healthy market for new parts. Also, they are easily maintained.
+
+![](../beamer/images/waldemar-brandt-FiK8jopQh8-unsplash.jpg)
+
+_The bike community can share ideas and hardware very easily because of the fairly standardised interface on a bike_
+
+A researcher will not always have the good fortune to be contributing to an existing framework. So, you may need to need to set up the framework before you can share your research. Setting up a new framework can be hard work, but thinking about this in advance with the community can make it much easier for you to contribute and for your work to be picked up.
