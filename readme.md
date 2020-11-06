@@ -1,4 +1,5 @@
 # LIKE Open Science and Research Data Management Course
+
 This repository contains the materials for the ITN LIKE Early Stage Researcher (ESR) remote study course on **Open Science and Research Data Management**.
 
 This file provides a basic overview of the course. For more details, see [the course handbook](00_handbook/readme.md).
@@ -36,28 +37,26 @@ The _basic course_ requires 61 hours of study time:
 #### The extended course
 The _extended course_ adds 30 hours of self-study to the _basic course_. It is designed for students who need to add hours for ECTS points requirements.
 
-These extra activities are listed in the table below under the heading, **Extra credit hours** and described in each self-study `readme.md` under the heading, **For extra credit**. This 90-hour course is known as the _extended course_. These activities should be completed in the same time window as the _basic course_.
+These extra activities are listed in the table below under the heading, **Extra credit hours** and described in each self-study `readme.md` under the heading, **For extra credit**. It should be possible to complete the _extended course_ in the same time window as the _basic course_.
 
 ### Course outline
 | Week | Seminar | Self-study | Assignment | Contact Hours | Self-study hours | Extra credit hours |
 |---|---|---|---|---|---|---|
-| 40 | [Introducing open science](01_seminar1/readme.md) | | | 1 | 1 |
+| 0 | [Introducing open science](01_seminar1/readme.md) | | | 1 | 1 |
 | | | [Background reading](02_selfstudy1/readme.md) | | | 4 | 4|
-| 42 | [Guiding principles](03_seminar2/readme.md) | | | 1 | 1 |
+| 2 | [Guiding principles](03_seminar2/readme.md) | | | 1 | 1 |
 | | | [Is your group’s work FAIR?](04_selfstudy2/readme.md) | | | 4 | 4|
-| 44 | [Open science and intellectual property](05_seminar3/readme.md) | | | 1 | 1 |
+| 4 | [Open science and intellectual property](05_seminar3/readme.md) | | | 1 | 1 |
 | | | [Implementing Open Science](06_selfstudy3/readme.md) | | | 4 | 4|
-| 46 | [If a tree falls in the forest... Communicating your science](07_seminar4/readme.md) | | | 1 | 1 |
+| 6 | [If a tree falls in the forest... Communicating your science](07_seminar4/readme.md) | | | 1 | 1 |
 | | | [Communications strategies](08_selfstudy4/readme.md) | | | 4 | 4 |
 | | | | [Implementation case study](09_assignment1/readme.md) | | 8 | 4 |
-| 48 | [What are data management plans and why do they matter?](10_seminar5/readme.md) | | | 2 | 1 |
-| | | [Draft your LIKE data management plan](11_selfstudy5/readme.md) | | 1 | 12 | 6 |
-| 50 | [Workshop: Open Science in LIKE](12_workshop1/readme.md) | | | 4 | 4 |
-| | | [Revise data management plan](13_selfstudy6/readme.md) | | | 4 | 4 |
-| 52 | | | [Data management plan](14_assignment2/readme.md) | | 1 |
-| | | | **TOTAL** | **11** | **50** |
-
-**Note:** Weeks given are calendar weeks in 2020 and 2021 and are specific to ITN LIKE. See e.g. http://www.whatweekisit.org/ for details.
+| 8 | [What are data management plans and why do they matter?](10_seminar5/readme.md) | | | 2 | 1 |
+| | | [Draft your data management plan](11_selfstudy5/readme.md) | | 1 | 12 | 6 |
+| 10 | [Workshop: Your experiences of implementing open science](12_workshop1/readme.md) | | | 4 | 4 |
+| | | [Revise your data management plan](13_selfstudy6/readme.md) | | | 4 | 4 |
+| 12 | | | [Data management plan](14_assignment2/readme.md) | | 1 |
+| | | | **TOTAL** | **11** | **50** | **30** |
 
 ## Licensing, reuse, and remixing
 You are welcome to reuse or remix the material in this repository under the terms of the license(s) applied to that material.
@@ -66,3 +65,7 @@ You are welcome to reuse or remix the material in this repository under the term
 - Presentations for each seminar may be separately licensed by their contributors. Please check those documents for license terms. Note that the license for the presentations should be considered to extend to the source material for compiled documents (i.e. LaTeX source code is covered under the license for the PDF). Please also contact the author(s) directly to discuss reuse of their materials.
 
 If you need help reusing the materials, or would like to check if you can use it, please [raise an issue](https://github.com/LIKE-ITN/OpenScienceTrainingCourse/issues).
+
+## Authors
+- Andy Clifton, U. Stuttgart [![](https://orcid.org/sites/default/files/images/orcid_16x16.png) https://orcid.org/0000-0001-9698-5083](https://orcid.org/0000-0001-9698-5083)
+- Nikola Vasiljevic, DTU [![](https://orcid.org/sites/default/files/images/orcid_16x16.png) https://orcid.org/0000-0002-9381-9693](https://orcid.org/0000-0002-9381-9693)

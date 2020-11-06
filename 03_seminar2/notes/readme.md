@@ -1,7 +1,8 @@
 [![](../FAIR_R5.png)](../FAIR_R5.pdf)
+_The seminar was led by Nikola Vasiljevic, DTU [![](https://orcid.org/sites/default/files/images/orcid_16x16.png) https://orcid.org/0000-0002-9381-9693](https://orcid.org/0000-0002-9381-9693)_
 
 # Seminar 2: Data Science Principles
-Led by Nikola Vasiljevic, DTU [![](https://orcid.org/sites/default/files/images/orcid_16x16.png) https://orcid.org/0000-0002-9381-9693](https://orcid.org/0000-0002-9381-9693)
+_Notes written by Andy Clifton, U. Stuttgart [![](https://orcid.org/sites/default/files/images/orcid_16x16.png) https://orcid.org/0000-0001-9698-5083](https://orcid.org/0000-0001-9698-5083)_
 
 _This is the script of Seminar 2, based on the first course held in October 2020. Section numbers correspond to the sections in the presentation accompanying the seminar._
 
@@ -10,7 +11,7 @@ _This is the script of Seminar 2, based on the first course held in October 2020
 What is Open Science? What has COVID-19 taught us about open science?
 
 > We took 2 minutes to review how COVID-19 had shown the benefits and challenges of open science.
-   
+
 ## Project lifecycle
 You write your proposal, get funding, and then start on your research. As you go through your research, you will generate lots of different data products.
 
@@ -26,9 +27,9 @@ A FAIR dataset allows that data to be reused and reanalysed many times:
   - Analysis paper (paper related to the feature or information that has been discovered)
 
 ### Identifying the researcher
-A persistent identifier for researchers (e.g., an [ORCiD](https://orcid.org/)) allows code, funding, infrastructure, publications, data annotation, code, and the datasets to be connected to the researcher _and_ places the researcher at the centre of all of this.
+A persistent identifier for researchers (e.g., an [ORCID iD](https://orcid.org/)) allows code, funding, infrastructure, publications, data annotation, code, and the datasets to be connected to the researcher _and_ places the researcher at the centre of all of this.
 
-**[Get an ORCiD!](https://orcid.org/)**
+**[Get an ORCID iD!](https://orcid.org/)**
     
 ### Publications
 Typically people would only publish journal articles, but there are lots more opportunities for publications:

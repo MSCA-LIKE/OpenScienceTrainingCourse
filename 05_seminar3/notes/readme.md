@@ -1,18 +1,17 @@
 [![](../beamer/main.png)](../beamer/main.pdf)
+_The seminar was led by Andy Clifton, U. Stuttgart [![](https://orcid.org/sites/default/files/images/orcid_16x16.png) https://orcid.org/0000-0001-9698-5083](https://orcid.org/0000-0001-9698-5083)_
 
 # Seminar 3: Intellectual Property
-Led by Andy Clifton, U. Stuttgart [![](https://orcid.org/sites/default/files/images/orcid_16x16.png) https://orcid.org/0000-0001-9698-5083](https://orcid.org/0000-0001-9698-5083)
+Notes written by Andy Clifton, U. Stuttgart [![](https://orcid.org/sites/default/files/images/orcid_16x16.png) https://orcid.org/0000-0001-9698-5083](https://orcid.org/0000-0001-9698-5083)
 
-_This is the script of Seminar 3, based on the first course held in October 2020. Section numbers correspond to the sections [in the presentation accompanying the seminar](../beamer/main.pdf)._
+_These notes are based on the first course held in October 2020. Section numbers correspond to the sections [in the presentation accompanying the seminar](../beamer/main.pdf)._
 
 ## 1. Introduction
 Implementing open science requires us to think carefully about the forms that science can take and under what conditions we can share them with others.
 
 ## 2. Recap
 
-Open science is the movement to share and disseminate the results of scientific activities. It can be implemented partly by making the results of your science _FAIR_ (findable, accessible, interoperable, and reusable), and applying the R<sup>5</sup> principles to your digital objects (code, data).
-
-See [the notes from Seminar 2](../03_seminar2/notes/notes.md) for more information.
+Open science is the movement to share and disseminate the results of scientific activities. It can be implemented partly by making the results of your science _FAIR_ (findable, accessible, interoperable, and reusable), and applying the R<sup>5</sup> principles to your digital objects (code, data). See [the notes from Seminar 2](../03_seminar2/notes/notes.md) for more information.
 
 ## 3. Who owns your science?
 Before we can share the results of our science we need to understand the form that science can take, and who owns those outputs.
@@ -123,8 +122,7 @@ Your intellectual output usually belongs to someone, and so you have to take ste
 ---
 
 ## For more information
-- See [the notes from the previous seminar on the guiding principles of open science](../../03_seminar2/notes/readme.md)
--
+- See [the notes from the previous seminar, on the guiding principles of open science](../../03_seminar2/notes/readme.md).
 
 ## Course progress
 | Previous: [Self-study 2: "Is your Group's Work FAIR?"](../../04_selfstudy2/readme.md) | [Course outline](../../readme.md#course-outline) | Next: [Self-study 3: "Implementing Open Science"](../../06_selfstudy3/readme.md) |

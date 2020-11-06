@@ -1,6 +1,9 @@
 [![](../beamer/main.png)](../beamer/main.pdf)
+_The seminar was led by Andy Clifton, U. Stuttgart [![](https://orcid.org/sites/default/files/images/orcid_16x16.png) https://orcid.org/0000-0001-9698-5083](https://orcid.org/0000-0001-9698-5083)_
+
+
 # Seminar 1: Introducing Open Science
-Led by Andy Clifton, U. Stuttgart [![](https://orcid.org/sites/default/files/images/orcid_16x16.png) https://orcid.org/0000-0001-9698-5083](https://orcid.org/0000-0001-9698-5083)
+Notes written by Andy Clifton, U. Stuttgart [![](https://orcid.org/sites/default/files/images/orcid_16x16.png) https://orcid.org/0000-0001-9698-5083](https://orcid.org/0000-0001-9698-5083)
 
 This is the script of Seminar 1, based on the first course held in September 2020.
 
