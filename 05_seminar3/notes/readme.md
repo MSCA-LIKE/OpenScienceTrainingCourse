@@ -1,11 +1,11 @@
 # Seminar 3: Intellectual Property
 
-This is the script of Seminar 3, based on the first course held in October 2020.
+_This is the script of Seminar 3, based on the first course held in October 2020.
 
-Section numbers correspond to the sections [in the slides](../beamer/main.pdf).
+Section numbers correspond to the sections [in the presentation accompanying the seminar](../beamer/main.pdf)._
 
 ## 1. Introduction
-Implemente
+Implementing open science requires us to think carefully about the forms that science can take and under what conditions we can share them with others.
 
 ## 2. Recap
 
@@ -69,7 +69,7 @@ Licenses can be written specifically for each new data object. Alternatively, th
 
 There are two major license families that we need to be aware of for open science:
 - Creative works such as papers, illustrations, art, and music are often licensed under one of the [creative-commons licenses](https://creativecommons.org/choose/). These licenses can allow (or limit) reuse for commercial purposes, remixing, and state whether or not attribution is required.
-- [Open source licenses to protect software developers](https://choosealicense.com/). These include licenses such as the MIT, BSD, Apache, GNU, LPL, and other software licenses.
+- [Open source licenses](https://choosealicense.com/) to protect software developers. These include licenses such as the MIT, BSD, Apache, GNU, LPL, and other software licenses.
 
 Your choice of license should be informed by:
 1. The community that you work within
@@ -118,6 +118,12 @@ The same approaches that hold for a bike can be applied to software and research
 
 ## Summary
 Your intellectual output usually belongs to someone, and so you have to take steps to make it open. You can do this by giving it an appropriate license. Clear licenses make it easy for others to build on your work and can also lead to commercial success. Finally, a clean framework for code and modular implementation can simplify the whole process of collaboration.
+
+---
+
+## For more information
+- See [the notes from the previous seminar on the guiding principles of open science](../03_seminar2/notes/notes.md)
+-
 
 ## Course progress
 | Previous: [Self-study 2: "Is your Group's Work FAIR?"](../../04_selfstudy2/readme.md) | [Course outline](../../readme.md#course-outline) | Next: [Self-study 3: "Implementing Open Science"](../../06_selfstudy3/readme.md) |
