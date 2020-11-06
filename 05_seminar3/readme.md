@@ -40,5 +40,5 @@ A 55-minute online discussion based around [this PDF](./beamer/main.pdf), coveri
 - Feedback about the course materials? Please [raise an issue](https://github.com/LIKE-ITN/OpenScienceTrainingCourse/issues).
 
 ## Course progress
-| Previous: [Self-study 2: "Is your Group's Work FAIR?"](../selfstudy2/readme.md) | [Course outline](readme.md#course-outline) | Next: [Self-study 3: "Implementing Open Science"](../selfstudy3/readme.md) |
+| Previous: [Self-study 2: "Is your Group's Work FAIR?"](../04_selfstudy2/readme.md) | [Course outline](readme.md#course-outline) | Next: [Self-study 3: "Implementing Open Science"](../06_selfstudy3/readme.md) |
 | -- | -- | -- |

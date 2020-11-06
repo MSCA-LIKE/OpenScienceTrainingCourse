@@ -2,25 +2,22 @@
 
 This is the script of Seminar 3, based on the first course held in October 2020.
 
-> This script includes notes about the seminar. Notes are shown as block quotes, like this text.
-
-> The seminar was held online and was limited to 9 participants. This format allows for discussion between the participants. Participants were encouraged to use video to help enable interaction and questions.
-
 Section numbers correspond to the sections [in the slides](../beamer/main.pdf).
 
 ## 1. Introduction
+Implemente
 
 ## 2. Recap
 
-What is Open Science? What do we mean by _FAIR_ and _R5_?
+Open science is the movement to share and disseminate the results of scientific activities. It can be implemented partly by making the results of your science _FAIR_ (findable, accessible, interoperable, and reusable), and applying the R<sup>5</sup> principles to your digital objects (code, data).
 
-> We took 2 minutes to review what we understood by open science and the tools we have available to help us implement it.
+See [the notes from Seminar 2](../03_seminar2/notes/notes.md) for more information.
 
 ## 3. Who owns your science?
-Before we try to implement open science, it is important to understand who owns science. To do that, we need to identify the outputs from science.
+Before we can share the results of our science we need to understand the form that science can take, and who owns those outputs.
 
 ### What are the outputs of science?
-Science leads to new knowledge, but this is very hard to grasp. Tangible outputs from science include things like
+Science leads to new knowledge. Tangible outputs from science include things like
 
 - Publications, including journal papers
 - Data sets
@@ -97,8 +94,6 @@ Restrictive or unusual licensing can make it hard for people to use intellectual
 
 ### So how can we make money by making something open?
 
-> We discussed how companies can make money through open source software linke the Lunix operating system
-
 Companies can make money by adding value to open source products. For example, they can:
 
 1. Provide user interfaces
@@ -123,3 +118,7 @@ The same approaches that hold for a bike can be applied to software and research
 
 ## Summary
 Your intellectual output usually belongs to someone, and so you have to take steps to make it open. You can do this by giving it an appropriate license. Clear licenses make it easy for others to build on your work and can also lead to commercial success. Finally, a clean framework for code and modular implementation can simplify the whole process of collaboration.
+
+## Course progress
+| Previous: [Self-study 2: "Is your Group's Work FAIR?"](../../04_selfstudy2/readme.md) | [Course outline](readme.md#course-outline) | Next: [Self-study 3: "Implementing Open Science"](../../06_selfstudy3/readme.md) |
+| -- | -- | -- |
