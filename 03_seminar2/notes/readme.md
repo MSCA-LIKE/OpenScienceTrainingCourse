@@ -1,10 +1,7 @@
+![](../FAIR_R5.png)
 # Seminar 2: Data Science Principles
 
-This notes are based on the first course held in October 2020.
-
-> Notes about the seminar itself are shown as block quotes, like this text.
-
-> The seminar was held online and was limited to 9 participants. This format allows for discussion between the participants. Participants were encouraged to use video to help enable interaction and questions.
+_This is the script of Seminar 2, based on the first course held in October 2020. Section numbers correspond to the sections in the presentation accompanying the seminar._
 
 ## 1. Recap
 
@@ -111,7 +108,7 @@ We can see an example of the R5 principles in use, in [YADDUM](https://github.co
 
 ## Summary
 
-- Being a researcher in the age of digitaliztation and open science requires some work
+- Being a researcher in the age of digitalization and open science requires some work
   - your data should be in good shape
   - your code should look more professional and less professorial...
 
@@ -119,3 +116,13 @@ We can see an example of the R5 principles in use, in [YADDUM](https://github.co
   - immediately because we have more and more diverse research output
   - in future, by not wasting time understanding what you did
   - opens up more career paths other than just being a researcher
+
+---
+
+## For more information
+- See [the notes from the previous seminar on the basic concepts of open science](../01_seminar1/notes/readme.md)
+- See [the notes from the next seminar on intellectual property](../05_seminar3/notes/readme.md)
+
+## Course progress
+| Previous: [Self-study 1: "Background reading"](../../02_selfstudy1/readme.md) | [Course outline](../../readme.md#course-outline) | Next: [Self-study 2: "Is your Group's work FAIR?"](../../04_selfstudy2/readme.md) |
+|---|---|---|

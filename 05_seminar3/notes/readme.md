@@ -1,8 +1,8 @@
+![](../beamer/main.png)
+
 # Seminar 3: Intellectual Property
 
-_This is the script of Seminar 3, based on the first course held in October 2020.
-
-Section numbers correspond to the sections [in the presentation accompanying the seminar](../beamer/main.pdf)._
+_This is the script of Seminar 3, based on the first course held in October 2020. Section numbers correspond to the sections [in the presentation accompanying the seminar](../beamer/main.pdf)._
 
 ## 1. Introduction
 Implementing open science requires us to think carefully about the forms that science can take and under what conditions we can share them with others.
@@ -17,11 +17,11 @@ See [the notes from Seminar 2](../03_seminar2/notes/notes.md) for more informati
 Before we can share the results of our science we need to understand the form that science can take, and who owns those outputs.
 
 ### What are the outputs of science?
-Science leads to new knowledge. Tangible outputs from science include things like
+Science leads to new knowledge. Tangible outputs from science include things like:
 
-- Publications, including journal papers
-- Data sets
-- Patents that codify and protect new ideas
+- publications, including journal papers;
+- data sets; and
+- patents that codify and protect new ideas.
 
 ### Who do your outputs belong to?
 Generally, the employer owns the employee's intellectual output. This is a common arrangement that is governed by employment contracts. In exchange, the employee has access to the infrastructure that they need to be successful.
@@ -122,7 +122,7 @@ Your intellectual output usually belongs to someone, and so you have to take ste
 ---
 
 ## For more information
-- See [the notes from the previous seminar on the guiding principles of open science](../03_seminar2/notes/notes.md)
+- See [the notes from the previous seminar on the guiding principles of open science](../03_seminar2/notes/readme.md)
 -
 
 ## Course progress
