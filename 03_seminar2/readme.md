@@ -6,10 +6,12 @@ _*What are the basic principles of open science? How can you implement FAIR and 
 | 1 | 1 | Nikola Vasiljevic |
 
 ## Format
-A 55-minute online discussion based around [this PDF](FAIR_R5.pdf), covering:
+A 55-minute online discussion based around [this presentation](FAIR_R5.pdf), covering:
 - The project lifecycle
 - FAIR data
-- The R5 principles
+- The R5 principles.
+
+See the [notes from the seminar](/notes/readme.md) for more information.
 
 ## Learning
 

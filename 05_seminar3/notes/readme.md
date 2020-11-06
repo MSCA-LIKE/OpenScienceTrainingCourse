@@ -1,6 +1,7 @@
-![](../beamer/main.png)
+[![](../beamer/main.png)](../beamer/main.pdf)
 
 # Seminar 3: Intellectual Property
+Led by Andy Clifton, U. Stuttgart [![](https://orcid.org/sites/default/files/images/orcid_16x16.png) https://orcid.org/0000-0001-9698-5083](https://orcid.org/0000-0001-9698-5083)
 
 _This is the script of Seminar 3, based on the first course held in October 2020. Section numbers correspond to the sections [in the presentation accompanying the seminar](../beamer/main.pdf)._
 
@@ -122,7 +123,7 @@ Your intellectual output usually belongs to someone, and so you have to take ste
 ---
 
 ## For more information
-- See [the notes from the previous seminar on the guiding principles of open science](../03_seminar2/notes/readme.md)
+- See [the notes from the previous seminar on the guiding principles of open science](../../03_seminar2/notes/readme.md)
 -
 
 ## Course progress

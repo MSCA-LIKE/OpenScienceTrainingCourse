@@ -6,11 +6,13 @@ _*What is open science? A discussion using COVID-19 experience as an example.*_
 | 1 | 1 | Andy Clifton |
 
 ## Format
-A 55-minute online discussion based around [this PDF](beamer/main.pdf), covering:
+A 55-minute online discussion based around [this presentation](beamer/main.pdf), covering:
 - Introductions
 - What is open science?
 - What COVID-19 told us about open science
-- Next steps
+- Next steps.
+
+See the [notes from the seminar](/notes/readme.md) for more information.
 
 ## Learning
 
@@ -29,7 +31,6 @@ A 55-minute online discussion based around [this PDF](beamer/main.pdf), covering
 These themes will be explored in more detail in future seminars.
 
 ## Further reading
-See [the seminar presentation](beamer/main.pdf) for context.
 
 ### What is Open Science?
 - [_Digitalization and Open Science in LIKE_](https://like-itn-digitalization.readthedocs.io/en/latest/). Read The Docs, 2020.

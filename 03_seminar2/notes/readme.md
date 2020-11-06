@@ -1,5 +1,7 @@
-![](../FAIR_R5.png)
+[![](../FAIR_R5.png)](../FAIR_R5.pdf)
+
 # Seminar 2: Data Science Principles
+Led by Nikola Vasiljevic, DTU [![](https://orcid.org/sites/default/files/images/orcid_16x16.png) https://orcid.org/0000-0002-9381-9693](https://orcid.org/0000-0002-9381-9693)
 
 _This is the script of Seminar 2, based on the first course held in October 2020. Section numbers correspond to the sections in the presentation accompanying the seminar._
 
