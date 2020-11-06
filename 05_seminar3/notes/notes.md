@@ -109,14 +109,17 @@ Companies can make money by adding value to open source products. For example, t
 See, for example, the example of IBM and others providing consultancy services around Linux.
 
 ### Why modularity and frameworks can help adoption
-Choosing the right license doesn't automatically mean that your code will be adopted by everyone. Sometimes you have to help people adopt it.
+Choosing the right license doesn't automatically mean that your code will be adopted by everyone. You have to help people adopt it.
 
 That can often mean putting your science in to context and helping people connect to it.
 
-What does this have to do with a bike? A bike is a good example of something where people know how it works, and are familiar with it. It's not particularly protected by licenses or patents, and so you could think of it as a _framework_ that others can contribute to. This is helped by having standards for things (e.g. the size of a pipe or the pitch of a screw thread). As a result, there is regular innovation around components and bikes, as well as a healthy market for new parts. Also, they are easily maintained.
+A bicycle is a good example of something where people know how it works, and are familiar with it. It's not particularly protected by licenses or patents, and so you could think of it as a _framework_ that others can contribute to. This is helped by having standards for things (e.g. the size of a wheel, the diameter of a metal tube, or the pitch of a screw thread). As a result, there is regular innovation around components and bikes, as well as a healthy market for new parts. Also, bikes are easily maintained because it is easy to swap components in and out.
 
 ![](../beamer/images/waldemar-brandt-FiK8jopQh8-unsplash.jpg)
 
-_The bike community can share ideas and hardware very easily because of the fairly standardised interface on a bike_
+_Bicycles are a great example of how innovation can be commercialised around an open platform. Entrepreneurs can try things out on isolated parts of the system but know that there are lots of potential users, and component manufacturers can commercialise their ideas because of the standardised interfaces._
 
-A researcher will not always have the good fortune to be contributing to an existing framework. So, you may need to need to set up the framework before you can share your research. Setting up a new framework can be hard work, but thinking about this in advance with the community can make it much easier for you to contribute and for your work to be picked up.
+The same approaches that hold for a bike can be applied to software and research. It is easier for people to contribute work when they have a clear framework to put their work in to, than when they there is no such framework. But, a researcher will not always have the good fortune to be contributing to an existing framework. So, you may need to need to set up the framework before you can share your research. Also, the framework can contribute to (code) maintenance; if something breaks - or something better turns up - that old module can be taken out and replaced.
+
+## Summary
+Your intellectual output usually belongs to someone, and so you have to take steps to make it open. You can do this by giving it an appropriate license. Clear licenses make it easy for others to build on your work and can also lead to commercial success. Finally, a clean framework for code and modular implementation can simplify the whole process of collaboration.

@@ -1,8 +1,8 @@
 # Seminar 2: Data Science Principles
 
-This is the script of Seminar 2, based on the first course held in October 2020.
+This notes are based on the first course held in October 2020.
 
-> This script includes notes about the seminar. Notes are shown as block quotes, like this text.
+> Notes about the seminar itself are shown as block quotes, like this text.
 
 > The seminar was held online and was limited to 9 participants. This format allows for discussion between the participants. Participants were encouraged to use video to help enable interaction and questions.
 
