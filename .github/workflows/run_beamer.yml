@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: CI
+name: run_beamer
 
 # Controls when the action will run. Triggers the workflow on push or pull request
 # events but only for the main branch
@@ -28,7 +28,7 @@ jobs:
           git config user.email github-actions@github.com
           git pull
         
-      -name: update
+      - name: update
         run: |
           sudo apt-get update -y
           sudo apt-get install -y latexmk
