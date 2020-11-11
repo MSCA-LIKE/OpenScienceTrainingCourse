@@ -28,11 +28,12 @@ jobs:
           git config user.email github-actions@github.com
           git pull
         
-      - name: update
+      - name: update texlive
         run: |
           sudo apt-get update -y
           sudo apt-get install -y texlive-xetex
           sudo apt-get install -y latexmk
+          sudo apt-get texlive-lang-german
 
       # Runs a set of commands using the runners shell
       - name: Run beamer script
