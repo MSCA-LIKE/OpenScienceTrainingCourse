@@ -284,4 +284,4 @@ TSWLatexianTemp*
 #*Notes.bib
 
 # random files
-*.DS_Store
+.DS_Store

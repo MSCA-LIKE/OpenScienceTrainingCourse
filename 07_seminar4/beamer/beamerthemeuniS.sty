@@ -21,7 +21,7 @@
 %  BoldFont = UniversforUniS65Bd-Regular,
 %  ItalicFont = UniversforUniS45LtObl-Rg,
 %  BoldItalicFont = UniversforUniS45LtObl-Rg,
-%  Scale = MatchUppercase
+%  Scale = MatchUppercase 
 %]{UniversforUniS55Rm-Regular}
 
 \renewcommand{\familydefault}{\sfdefault}
@@ -34,6 +34,8 @@
 }
 
 \usepackage{tikz}
+\usetikzlibrary{positioning}
+
 
 \makeatletter
 \def\beamerrightmargin{\dimexpr\Gm@rmargin\relax}
@@ -41,10 +43,10 @@
 
 \mode<presentation>
 
-\useoutertheme{UniS}
+\useoutertheme{uniS}
 \useinnertheme{rectangles}
 
-\usecolortheme{UniS}
+\usecolortheme{uniS}
 
 \usefonttheme[onlymath]{serif}
 \setbeamerfont{block title}{size=\small}
@@ -237,4 +239,5 @@
 
 \setbeamertemplate{note page}[notepageuniS]
 
-\mode<all>
+\mode
+<all>
