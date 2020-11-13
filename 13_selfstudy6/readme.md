@@ -26,5 +26,5 @@ _4 hours of extra credit are available for this work_
 
 
 ## Course progress
-| Previous: [Workshop 1: "Open Science in LIKE"](../12_workshop1/readme.md) | [Course outline](../readme.md#course-outline) | Next: [Assignment 2: "Your Data Management Plan"](../14_assignment2/readme.md) |
+| Previous: [Workshop 1: "Your experiences of implementing open science"](../12_workshop1/readme.md) | [Course outline](../readme.md#course-outline) | Next: [Assignment 2: "Your Data Management Plan"](../14_assignment2/readme.md) |
 |---|---|---|

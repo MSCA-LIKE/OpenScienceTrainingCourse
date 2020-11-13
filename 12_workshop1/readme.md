@@ -17,7 +17,7 @@ Describe what you did for [Assignment 1](../09_assignment1/readme.md):
 - Where do you need help?
 
 ## Resources
-- See https://www.vindenergi.dtu.dk/english/Education/PhD/PhD-Summer-School/Remote-Sensing-for-Wind-Energy for details of the Summer School
+- [Assignment 1 details](../09_assignment1/readme.md)
 
 ## Course progress
 | Previous : [Self-study 5: "Draft your data management plan"](../11_selfstudy5/readme.md) | [Course outline](../readme.md#course-outline) |Next: [Self-study 6: "Revise your data management plan"](../13_selfstudy6/readme.md) |
