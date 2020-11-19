@@ -10,28 +10,28 @@ In this seminar we'll explore selling your brand and research through social med
 
 ## Format
 A 55-minute online discussion based around [this PDF](beamer/main.pdf), covering:
-- ...
-- ...
+- Why we communicate
+- How to increase impact
+- The importance of aligning message, audience, and channel
 
 ## Learning
 
 ### Goals
-- ...
-- ...
-- ...
+- To enable the student to create a communications strategy to promote their work and encourage others to act upon it
 
 ### Outcomes
-- ...
-- ...
-- ...
-- ...
+- The student understands the concepts of an audience, message, and channel
+- The student is aware of the different communications channels that are available to them
+- The student understands the difference between commnications for information and communications for actions
+- The student understands the importance of an emotional response for triggering actions
 
 ## Resources
-- ...
-- ...
+- [PLOS SciComm blog](https://scicomm.plos.org/)
+- [Effective Science Communication (Second Edition)](https://iopscience.iop.org/book/978-0-7503-2520-2). IOP Science, 2020
 
 ## Further reading:
-- ...
+- [What institutions can do to improve science communication](https://www.nature.com/articles/d41586-019-03869-7). Nature.com, 2020
+- [The Responsible Research and Innovation (RRI) toolkit](https://rri-tools.eu/research-community)
 
 ## Questions and feedback
 - General questions? Please use slack to ask.

@@ -35,8 +35,7 @@ See the [notes from the seminar](/notes/readme.md) for more information.
 - Modular design has also started to appear in wind lidar:
   - The e-WindLidar data formats (See [§4.3 in ](https://zenodo.org/record/2478051) and [Lidaco](https://github.com/e-WindLidar/Lidaco)) enable much simpler data exchange.
   - The [OpenLidar concept](https://zenodo.org/record/3414197) shows how this could be applied for wind lidar.
-- The Power Curve Working Group's _assessment of wind turbine power performance prediction methods_ is an example of how commercially-sensitive experience can be shared without sharing information. [DOI: 10.5194/wes-5-199-2020
-](https://doi.org/10.5194/wes-5-199-2020)
+- The Power Curve Working Group's _assessment of wind turbine power performance prediction methods_ is an example of how commercially-sensitive experience can be shared without sharing information. [DOI: 10.5194/wes-5-199-2020](https://doi.org/10.5194/wes-5-199-2020)
 
 ## Questions and feedback
 - General questions? Please use slack to ask.
