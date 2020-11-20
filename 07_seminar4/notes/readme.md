@@ -109,9 +109,9 @@ This means that our STEM researcher will probably have to target several differe
 It's important at each stage to help the audience understand why something is relevant to them. The more relevant something is, the more likely you are to convert someone to taking the next step.
 
 ### Tell a good story
-Now that we understand the mechanics of communication, we should think more about the content. We've already looked at the _call to action_, but what about the _story_ behind it all?
+Now that we understand the mechanics of communication, we should think more about the content. We've already looked at the _call to action_, but what about the story behind it all?
 
-Stories evolved to help us [make sense of the world around us and share that with others](https://smile.amazon.de/Origin-Stories-Evolution-Cognition-Fiction/dp/0674057112/). They offer us a way to put it in context and make it relevant and relatable for others. The same techniques that make a good story captivating could also be put to good work in communicating our science. Steal some approaches - have a hero and a villain, have a beginning, a middle, and an end, and keep it focussed. Apply the principle of [Chekhov's gun](https://en.wikipedia.org/wiki/Chekhov%27s_gun); if it's not relevant, don't mention it.
+Stories evolved to help us [make sense of the world around us and share that with others](https://smile.amazon.de/Origin-Stories-Evolution-Cognition-Fiction/dp/0674057112/). They offer us a way to put it in context and make it relevant and relatable for others. The same techniques that make a good story captivating could also be put to good work in communicating our science. Steal some story-telling approaches - have a hero and a villain, have a beginning, a middle, and an end, and keep it focussed. Apply the principle of [Chekhov's gun](https://en.wikipedia.org/wiki/Chekhov%27s_gun); if it's not relevant, don't mention it. And maybe most importantly, **remember the "wow!" factor** - make it exciting!
 
 ![](../beamer/images/cederic-vandenberghe-21DP3hytVHw-unsplash.jpg)
 
@@ -134,11 +134,11 @@ Our STEM professional had created their own communications strategy, but without
 1. They presented it at a conference.
 1. They wrote it up in a journal.
 
-Would the communications strategy have resulted in anyone engaging with them?
+Would the communications strategy have resulted in anyone engaging with them? In reality, probably not. It's likely that the research would have been invisible, or that the message wouldn't have been heard over the noise. Why do I suspect this?
 1. It's familiar. It's what everyone else does. There's nothing to grab attention and make it rise above the background.
 1. There were no explicit calls to action.
 1. They forgot to post links to their data.
-1. The journal isn't open access.
+1. The journal isn't open access, so people in industry that might use the results can't read them.
 1. They can't add data sets or code to the paper anyway.
 
 And then they got distracted by the next project.
