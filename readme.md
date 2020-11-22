@@ -1,17 +1,21 @@
 # LIKE Open Science and Research Data Management Course
 
-This repository contains the materials for the ITN LIKE Early Stage Researcher (ESR) remote study course on **Open Science and Research Data Management**.
+This repository contains the materials for a remote study course on **Open Science and Research Data Management**.
 
 This file provides a basic overview of the course. For more details, see [the course handbook](00_handbook/readme.md).
 
+If you want to get an overview of the course:
+- check out the [course outline](#course-outline)
+- read [the notes from each seminar](/blob/master/01_seminar1/notes/readme.md)
+
 ## Audience
-This course is initially intended for ESR students in LIKE.
+This course is initially intended for the Early Stage Researchers (ESRs) in the ITN LIKE.
 
 Supervisors are strongly recommended to accompany the course.
 
 ## Goals
-- To educate ESRs about modern approaches to open science data management.
-- To enable and motivate ESRs to implement these approaches in their projects.
+- To educate students about modern approaches to open science data management.
+- To enable and motivate students to implement these approaches in their projects.
 
 ## Outcomes
 

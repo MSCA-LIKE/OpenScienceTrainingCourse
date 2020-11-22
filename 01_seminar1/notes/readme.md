@@ -65,7 +65,7 @@ Open science is a movement and a philosophy. A willingness to be open and try ne
 ---
 
 ## For more information
-- See [the notes from the next seminar on the guiding principles of open science](../01_seminar1/notes/readme.md).
+- See the notes from the next seminar on [the guiding principles of open science](../../03_seminar2/notes/readme.md).
 
 ## Course Progress
 | Previous: This is the first event in the course. | [Course outline](../../readme.md#course-outline) | Next: [Self-study 1: "Background reading"](../../02_selfstudy1/readme.md) |

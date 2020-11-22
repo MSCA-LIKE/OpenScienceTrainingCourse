@@ -122,7 +122,8 @@ Your intellectual output usually belongs to someone, and so you have to take ste
 ---
 
 ## For more information
-- See [the notes from the previous seminar, on the guiding principles of open science](../../03_seminar2/notes/readme.md).
+- See the notes from the previous seminar, on [the guiding principles of open science](../../03_seminar2/notes/readme.md).
+- See the notes from the next seminar, on [communications strategies for open science](../../07_seminar4/notes/readme.md).
 
 ## Course progress
 | Previous: [Self-study 2: "Is your Group's Work FAIR?"](../../04_selfstudy2/readme.md) | [Course outline](../../readme.md#course-outline) | Next: [Self-study 3: "Implementing Open Science"](../../06_selfstudy3/readme.md) |

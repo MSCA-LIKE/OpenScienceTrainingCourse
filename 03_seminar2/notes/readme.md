@@ -123,8 +123,8 @@ We can see an example of the R5 principles in use, in [YADDUM](https://github.co
 ---
 
 ## For more information
-- See [the notes from the previous seminar on the basic concepts of open science](../01_seminar1/notes/readme.md)
-- See [the notes from the next seminar on intellectual property](../05_seminar3/notes/readme.md)
+- See [the notes from the previous seminar on the basic concepts of open science](../../01_seminar1/notes/readme.md)
+- See [the notes from the next seminar on intellectual property](../../05_seminar3/notes/readme.md)
 
 ## Course progress
 | Previous: [Self-study 1: "Background reading"](../../02_selfstudy1/readme.md) | [Course outline](../../readme.md#course-outline) | Next: [Self-study 2: "Is your Group's work FAIR?"](../../04_selfstudy2/readme.md) |
