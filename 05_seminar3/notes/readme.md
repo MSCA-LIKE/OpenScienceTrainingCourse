@@ -126,9 +126,12 @@ These notes are published under the [Creative Commons CC BY 4.0 license](https:/
 
 ---
 
-## For more information
-- See the notes from the previous seminar, on [the guiding principles of open science](../../03_seminar2/notes/readme.md).
-- See the notes from the next seminar, on [communications strategies for open science](../../07_seminar4/notes/readme.md).
+## Seminars in this course
+- Seminar 1: [Introducing Open Science](../../01_seminar1/notes/readme.md).
+- Seminar 2: [Guiding principles](../../03_seminar2/notes/readme.md).
+- Seminar 3: [Open Science and Intellectual Property](../../05_seminar3/notes/readme.md).
+- Seminar 4: [Communications strategies](../../07_seminar4/notes/readme.md).
+- Seminar 5: [What are data management plans and why do they matter?](../../10_seminar5/notes/readme.md).
 
 ## Course progress
 | Previous: [Self-study 2: "Is your Group's Work FAIR?"](../../04_selfstudy2/readme.md) | [Course outline](../../readme.md#course-outline) | Next: [Self-study 3: "Implementing Open Science"](../../06_selfstudy3/readme.md) |
