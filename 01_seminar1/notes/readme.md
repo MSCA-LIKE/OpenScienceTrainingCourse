@@ -62,6 +62,11 @@ _Source: [XKCD](https://xkcd.com/2294/). Used under the [CC-BY-NC 2.5 license](h
 ## 4. Summary
 Open science is a movement and a philosophy. A willingness to be open and try new approaches to collaboration has had dramatic impact on our response to the COVID-19 pandemic. However, challenges remain with finding data, understanding its origins and limitations, and acting on that information.
 
+## License
+These notes are published under the [Creative Commons CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/)
+
+![](https://mirrors.creativecommons.org/presskit/buttons/80x15/png/by-sa.png)
+
 ---
 
 ## For more information

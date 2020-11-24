@@ -119,6 +119,11 @@ The same approaches that hold for a bike can be applied to software and research
 ## Summary
 Your intellectual output usually belongs to someone, and so you have to take steps to make it open. You can do this by giving it an appropriate license. Clear licenses make it easy for others to build on your work and can also lead to commercial success. Finally, a clean framework for code and modular implementation can simplify the whole process of collaboration.
 
+## License
+These notes are published under the [Creative Commons CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/)
+
+![](https://mirrors.creativecommons.org/presskit/buttons/80x15/png/by-sa.png)
+
 ---
 
 ## For more information

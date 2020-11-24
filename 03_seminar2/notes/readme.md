@@ -120,6 +120,11 @@ We can see an example of the R5 principles in use, in [YADDUM](https://github.co
   - in future, by not wasting time understanding what you did
   - opens up more career paths other than just being a researcher
 
+## License
+These notes are published under the [Creative Commons CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/)
+
+![](https://mirrors.creativecommons.org/presskit/buttons/80x15/png/by-sa.png)
+
 ---
 
 ## For more information

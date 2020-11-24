@@ -7,6 +7,8 @@ Notes written by Andy Clifton, U. Stuttgart [![](https://orcid.org/sites/default
 
 _These notes are based on the first course held in October 2020. Section numbers correspond to the sections [in the presentation accompanying the seminar](../beamer/main.pdf)._
 
+
+
 ## 1. Recap
 
 Open science is the movement to share and disseminate the results of scientific activities. It can be implemented partly by making the results of your science _FAIR_ (findable, accessible, interoperable, and reusable), and applying the R<sup>5</sup> principles to your digital objects (code, data). See [the notes from Seminar 2](../03_seminar2/notes/notes.md) for more information.
@@ -168,10 +170,16 @@ What could they have done differently? Let's try looking at this for an open sci
 
 You can get your science into the hands of people who can use by creating and using a communications strategy. An effective communications strategy focusses on specific audiences by careful choice of message and channel and gives them relevant, meaningful calls to action. 
 
+## License
+These notes are published under the [Creative Commons CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/)
+
+![](https://mirrors.creativecommons.org/presskit/buttons/80x15/png/by-sa.png)
+
 ---
 
 ## For more information
 - See [the notes from the previous seminar, on intellectual property](../../05_seminar3/notes/readme.md).
+
 
 ## Course progress
 | Previous: [Self-study 3: "Implementing open science"](../../06_selfstudy4/readme.md) | [Course outline](../../readme.md#course-outline) | Next: [Selfstudy 4: "Communicate!"](../../08_selfstudy4/readme.md) |

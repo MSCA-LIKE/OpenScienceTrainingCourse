@@ -29,3 +29,17 @@ You DMP is a publication, but you won't be publishing it in a journal. Instead, 
 
 ## Updating the DMP
 You may want to update your DMP in 6 months' time. You could do this by creating a new publication where-ever you submitted your first version. Alternatively, if you used Zenodo, you can just [add a new version to your existing publication](https://help.zenodo.org/#versioning). 
+
+## License
+These notes are published under the [Creative Commons CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/)
+
+![](https://mirrors.creativecommons.org/presskit/buttons/80x15/png/by-sa.png)
+
+---
+
+## For more information
+- See [the notes from the previous seminar, on communications strategies](../../07_seminar4/notes/readme.md).
+
+## Course progress
+| Previous: [Self-study 4: "Communicate!"](../../08_selfstudy4/readme.md) | [Course outline](../../readme.md#course-outline) | Next: [Selfstudy 5: "Draft your data management plan"](../../11_selfstudy5/readme.md) |
+| -- | -- | -- |
