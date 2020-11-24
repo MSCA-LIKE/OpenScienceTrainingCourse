@@ -133,14 +133,16 @@ N.B. if you don't have anything to say, don't say it.
 
 ### Towards a communications strategy
 
-We now see that our STEM researcher might need several different communications attempts before someone downloads and uses their code. This is why we need a communications strategy. A communications strategy is about choosing the right mix of audience, messages, and channel to populate that sales pipeline and convert interest into action. Usually, it would include the following:
+We now see that our STEM researcher might need several different communications attempts before someone downloads and uses their code. This is why we need a communications strategy. 
 
-- overall goal
-- the communications mix for several stages of the process and different stakeholder groups, including
-    - message-audience-channel
-    - goals
-    - calls to action
-    - success criteria
+A communications strategy is about choosing the right mix of audience, messages, and channel to populate that sales pipeline and convert interest into action. Usually, it would include the following:
+
+- The overall goal
+- The communications mix for several stages of the process and different stakeholder groups. For example:
+    - Ideas for the audience, message, and channel for each stakeholder group
+    - Goals for each stakeholder group
+    - How to convert attention in to appropriate actions, for example the "calls to action" at different stages in the process.
+- Success criteria
 
 ### Reviewing our STEM professional's approach
 Our STEM professional had created their own communications strategy, but without really thinking it through. They had the usual mix:
@@ -176,10 +178,12 @@ These notes are published under the [Creative Commons CC BY 4.0 license](https:/
 ![](https://mirrors.creativecommons.org/presskit/buttons/80x15/png/by-sa.png)
 
 ---
-
-## For more information
-- See [the notes from the previous seminar, on intellectual property](../../05_seminar3/notes/readme.md).
-
+## Seminars in this course
+- Seminar 1: [Introducing Open Science](../../01_seminar1/notes/readme.md).
+- Seminar 2: [Guiding principles](../../03_seminar2/notes/readme.md).
+- Seminar 3: [Open Science and Intellectual Property](../../05_seminar3/notes/readme.md).
+- Seminar 4: [Communications strategies](../../07_seminar4/notes/readme.md).
+- Seminar 5: [What are data management plans and why do they matter?](../../10_seminar5/notes/readme.md).
 
 ## Course progress
 | Previous: [Self-study 3: "Implementing open science"](../../06_selfstudy4/readme.md) | [Course outline](../../readme.md#course-outline) | Next: [Selfstudy 4: "Communicate!"](../../08_selfstudy4/readme.md) |
