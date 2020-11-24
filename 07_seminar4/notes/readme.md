@@ -118,13 +118,16 @@ Stories evolved to help us [make sense of the world around us and share that wit
 Photo by [Cedric Vandenberghe](https://unsplash.com/@cedericvandenberghe) on [Unsplash](https://unsplash.com).
 
 ### An Aside - Using social media
-Social media (whether "business" like LinkedIn, or something like Instagram) can be a great way to promote your work and build a brand. Some thoughts:
+Social media (whether it's "for business" like LinkedIn, or something like Instagram) can be a great way to promote your work and build a brand. Some thoughts:
 
 | Goal             | How?            |
 |------------------|-----------------|
-| grab attention   | <ul><li> Use an eye-catching image.</li> <li> Keep your text short, sharp, and to the point. Don't get overly philosophical or wistful - be direct. Use a spell check, too.</li> <li>Be immediately relevant. Instead of "We have just published a paper on _blah_...", try "_Blah_ can be really difficult because of... Our paper gives a new solution. Download it from ...", or something else that connects immediately with the audience and is slightly emotive.</li></ul> |
-| convert it to an action | <ul><li> get the reader to click on a link to a website where the interested reader can find out more, or do something useful. </li></ul>|
-| engage  | <ul><li> Be willing to engage people if they ask questions through this media.</li><li>Use relevant hashtags from generic to precise, like _#windenergy_, _#whatever_, and _#blah_ to make sure your message gets picked up by the right people.</li></ul>|
+| grab attention   | <ul><li> Use an eye-catching image.</li><li>Work relevant hashtags in to the text that go from generic to precise, like _#windenergy_, _#whatever_, and _#blah_ to make sure your message gets picked up by the right people.</li></ul> |
+| keep attention  |  <ul><li> Keep text short, sharp, and to the point.</li> <li>Don't get too philosophical or wistful - be direct.</li> <li> Use a spell check.</li> <li>Be relevant in the first 3-4 words. Instead of "We have just published a paper on _blah_...", try "_Blah_ can be really difficult because of... Our paper gives a new solution. Download it from ...", or something else that connects immediately with the audience and is slightly emotive.</li></ul> |
+| convert attention to action | <ul><li> Get the reader to click on a link to a website where the interested reader can find out more, or do something useful. </li><li>Make sure that content is worth the click!</li></ul>|
+| engage  | <ul><li> Answer people if they ask questions through this media.</li></ul>|
+
+N.B. if you don't have anything to say, don't say it.
 
 ### Towards a communications strategy
 
