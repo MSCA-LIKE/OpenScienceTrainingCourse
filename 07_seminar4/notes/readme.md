@@ -134,6 +134,7 @@ Our STEM professional had created their own communications strategy, but without
 1. They presented it at a conference.
 1. They wrote it up in a journal.
 
+#### Would it have worked?
 Would the communications strategy have resulted in anyone engaging with them? In reality, probably not. It's likely that the research would have been invisible, or that the message wouldn't have been heard over the noise. Why do I suspect this?
 1. It's familiar. It's what everyone else does. There's nothing to grab attention and make it rise above the background.
 1. There were no explicit calls to action.
@@ -143,12 +144,22 @@ Would the communications strategy have resulted in anyone engaging with them? In
 
 And then they got distracted by the next project.
 
+#### What could they have done differently?
 What could they have done differently? Let's try looking at this for an open science project. 
 - First, remember that you want to raise awareness and make people act at several different points in the process of your research. This could be when you have created the data, when you have created the methods, and when you have got the results.
 - Think about the goal for each step of the process.
 - Give data, methods, and results their own publications and assign them a DOI.
 - Use explicit calls to action, like "download our data from..."
 - Make modular code and place it in repositories so that the code can be combined with other peoples' work more easily.
+
+### An Aside - Using social media
+Professional social media can be a great way to promote your work. Some thoughts:
+1. Use an eye-catching image.
+1. Your call-to-action should be to get them to click on a link to a website where the interested reader can find out more
+1. Be immediately relevant. Instead of "We have just published a paper on _blah_...", try "_Blah_ can be really difficult because of...", or something else that connects immediately with the audience and is emotive.
+1. Use relevant hashtags, like #windenergy, #whatever, and #blah to make sure your message gets picked up by the right people.
+1. Keep it short, sharp, and to the point. Don't get overly philosophical or wistful - be direct.
+1. Be willing to engage people if they ask questions through this media.
 
 ## Summary
 
