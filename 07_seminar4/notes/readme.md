@@ -117,6 +117,15 @@ Stories evolved to help us [make sense of the world around us and share that wit
 
 Photo by [Cedric Vandenberghe](https://unsplash.com/@cedericvandenberghe) on [Unsplash](https://unsplash.com).
 
+### An Aside - Using social media
+Social media (whether "business" like LinkedIn, or something like Instagram) can be a great way to promote your work and build a brand. Some thoughts:
+
+| Goal             | How?            |
+|------------------|-----------------|
+| grab attention   | <ul><li> Use an eye-catching image.</li> <li> Keep your text short, sharp, and to the point. Don't get overly philosophical or wistful - be direct. Use a spell check, too.</li> <li>Be immediately relevant. Instead of "We have just published a paper on _blah_...", try "_Blah_ can be really difficult because of... Our paper gives a new solution. Download it from ...", or something else that connects immediately with the audience and is slightly emotive.</li></ul> |
+| convert it to an action | <ul><li> get the reader to click on a link to a website where the interested reader can find out more, or do something useful. </li></ul>|
+| engage  | <ul><li> Be willing to engage people if they ask questions through this media.</li><li>Use relevant hashtags from generic to precise, like _#windenergy_, _#whatever_, and _#blah_ to make sure your message gets picked up by the right people.</li></ul>|
+
 ### Towards a communications strategy
 
 We now see that our STEM researcher might need several different communications attempts before someone downloads and uses their code. This is why we need a communications strategy. A communications strategy is about choosing the right mix of audience, messages, and channel to populate that sales pipeline and convert interest into action. Usually, it would include the following:
@@ -151,15 +160,6 @@ What could they have done differently? Let's try looking at this for an open sci
 - Give data, methods, and results their own publications and assign them a DOI.
 - Use explicit calls to action, like "download our data from..."
 - Make modular code and place it in repositories so that the code can be combined with other peoples' work more easily.
-
-### An Aside - Using social media
-Professional social media can be a great way to promote your work. Some thoughts:
-1. Use an eye-catching image.
-1. Your call-to-action should be to get them to click on a link to a website where the interested reader can find out more
-1. Be immediately relevant. Instead of "We have just published a paper on _blah_...", try "_Blah_ can be really difficult because of...", or something else that connects immediately with the audience and is emotive.
-1. Use relevant hashtags, like #windenergy, #whatever, and #blah to make sure your message gets picked up by the right people.
-1. Keep it short, sharp, and to the point. Don't get overly philosophical or wistful - be direct.
-1. Be willing to engage people if they ask questions through this media.
 
 ## Summary
 
