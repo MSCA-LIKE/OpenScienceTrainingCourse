@@ -27,7 +27,7 @@ There are other services, for example [DataWiz](https://datawiz.leibniz-psycholo
 ## Publishing the DMP
 You DMP is a publication, but you won't be publishing it in a journal. Instead, you can publish it through a University library, Zenodo, or other data repository. 
 
-As with any other publication you'll get a DOI that you can then reference in future.
+As with any other publication you'll get a DOI that you can then reference in future. See, for example, an example data management plan from Pedro Santos (DTU) [on Zenodo](https://zenodo.org/record/4009127) for his PhD.
 
 ## Updating the DMP
 You may want to update your DMP in 6 months' time. You could do this by creating a new publication where-ever you submitted your first version. Alternatively, if you used Zenodo, you can just [add a new version to your existing publication](https://help.zenodo.org/#versioning). 

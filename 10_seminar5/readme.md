@@ -8,29 +8,26 @@ _What are data management plans, and why do they matter?_
 
 
 ## Format
-This seminar will be split into two, hour-long parts.
-- The first hour will be an introduction to data management plans.
-- The second hour will be an introduction to the LIKE data management plan and a question-and-answer session.
+This seminar will be split into two, 30-minute-long parts.
+- The first 30 minutes will be an introduction to data management plans.
+- The second part will be a question-and-answer session about the course so far and the workshop.
 
 ## Learning
 
 ### Goals
-- ...
-- ...
-- ...
+- Students should understand what a data management plan is and why it can help their research
 
 ### Outcomes
-- ...
-- ...
-- ...
-- ...
+- Students are introduced to websites that can host their data management plans
+- Students see examples of data management plans
+- Students can start writing their data management plans for their PhDs
 
 ## Resources
-- ...
-- ...
+- The UK Digital Curation Centre (DCC)'s [DMPonline](https://dmponline.dcc.ac.uk/) data management plan service.
+- [DataWiz](https://datawiz.leibniz-psychology.org/DataWiz/) at the University of Leibniz.
 
 ## Further reading:
-- ...
+- An example data management plan from Pedro Santos, DTU [on Zenodo](https://zenodo.org/record/4009127).
 
 ## Questions and feedback
 - General questions? Please use slack to ask.
