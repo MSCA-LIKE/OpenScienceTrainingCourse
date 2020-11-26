@@ -19,10 +19,32 @@ This ensures that data are well-managed in the present, and prepared for preserv
 
 N.B. Data should be taken to mean data _per-se_ as well as code!
 
-## A data management plan template
+## When should you write a data management plan?
+You should write a DMP for every new project that will generate data.
+
+You should also consider writing a new data management if you initiate a major data-generating phase; your project may have changed since you wrote your project plan, or the options that are open to you - e.g., data management websites - might change as well.
+
+It's also a good idea to review your DMP every year or so. You might have forgotten something you said you would do!
+
+## How to write a data management plan
+
 There are lots of ways to write a data management plan. We suggest using [DMPonline](https://dmponline.dcc.ac.uk/), provided by the UK Digital Curation Centre (DCC). This website provides a template for a DMP that meets most funding agency's requirements but is also quite simple. This has been chosen for ITN LIKE because it meets the needs of the funding agency.
 
 There are other services, for example [DataWiz](https://datawiz.leibniz-psychology.org/DataWiz/). You may be required to use this or another service by your funding agency.
+
+### Metadata
+Most DMP include a lot of metadata about the researcher and project. This could include the researcher's organisation, ORCID id, and other identifying information, It could also include funding agency and grant number. The metadata would allow a well-constructed portal to pull other data using that information; for example, if the researcher gave their ORCID id, that information could be used to pull the researcher's name, organisation, etc.
+
+### Allowing access
+Some online DMP tools allow you to give others access to a DMP so that they can provide feedback. You should probably give your supervisor access to it, but you should also give access to you colleagues as well so that they can provide feedback.
+
+### The project data management plan content
+You will then want to start thinking about the content of your DMP. Usually the template or tool that you use will prompt you to enter information about your data and think about what you are going to do with that. It usually includes things like...
+- activities that will generate data
+- the types of data
+- amount of data
+- licensing and intellectual property needs
+- how data will be published or shared.
 
 ## Publishing the DMP
 You DMP is a publication, but you won't be publishing it in a journal. Instead, you can publish it through a University library, Zenodo, or other data repository. 
