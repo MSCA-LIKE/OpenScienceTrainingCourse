@@ -1,4 +1,4 @@
-# LIKE Open Science and Research Data Management Course
+# Open Science and Research Data Management Course
 
 This repository contains the materials for a remote study course on **Open Science and Research Data Management**.
 
@@ -9,7 +9,7 @@ If you want to get an overview of the course:
 - read [the notes from each seminar](tree/master/01_seminar1/notes/readme.md)
 
 ## Audience
-This course is initially intended for the Early Stage Researchers (ESRs) in the ITN LIKE.
+This course is intended for early-stage researchers in STEM subjects and their supervisors.
 
 Supervisors are strongly recommended to accompany the course.
 
@@ -28,7 +28,7 @@ Supervisors are strongly recommended to accompany the course.
 ## Course plan
 
 ### Scope
-The course includes 5 lectures, 6 self-directed study activities, and two deliverables.
+The course includes 5 lectures, 6 self-directed study activities, a workshop, and two deliverables.
 
 ### Hours
 The course lasts approximately 12 weeks.
