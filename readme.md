@@ -6,7 +6,7 @@ This file provides a basic overview of the course. For more details, see [the co
 
 If you want to get an overview of the course:
 - check out the [course outline](#course-outline)
-- read [the notes from each seminar](/blob/master/01_seminar1/notes/readme.md)
+- read [the notes from each seminar](tree/master/01_seminar1/notes/readme.md)
 
 ## Audience
 This course is initially intended for the Early Stage Researchers (ESRs) in the ITN LIKE.
