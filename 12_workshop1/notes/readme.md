@@ -19,8 +19,8 @@ This is a typical use case for research conducted by early-stage academic resear
 | Opportunities |              | Increase the visibilty and citations of the paper  |
 | Concept       |              | Allow easy access to the data, code, and results  |
 | Approach      |              | Publish a paper in a traditional STEM journal, leveraging that journal's platform. |
-| Solutions     | **F**indable | The paper is given a DOI by the journal. The authors provide multiple keywords that include broad or generic terms and detailed terms. The publisher allows the paper to be cross-referenced and indexed. | ![yes.png]() |
-|               | A            | The authors pay for the paper to be _open access_  | ![yes.png]()
+| Publication   | **F**indable | The paper is given a DOI by the journal. The authors provide multiple keywords that include broad or generic terms and detailed terms. The publisher allows the paper to be cross-referenced and indexed.| ![](yes.png) |
+|               | A            | The authors pay for the paper to be open access. | ![](yes.png)
 |               | I            |   |
 |               | R            |   |
 | Code          | Re-runnable  |   |
@@ -28,6 +28,7 @@ This is a typical use case for research conducted by early-stage academic resear
 |               | Reproducible |   |
 |               | Reusable     |   |
 |               | Replicable   |   |
+| Communications | S | |
 
 ### Going a step further
 This paper combines the methods, data processing, and results. They could have been separated out into diffferent publications, each with their own DOI.
