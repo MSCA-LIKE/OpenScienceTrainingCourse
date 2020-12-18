@@ -1,153 +1,128 @@
-# Case studies for open science
+# Workshop on experiences with open science
 
-_These notes are based on the experiences of the students in the 2020 ITN LIKE open science course_
+_These notes are based on the experiences of the students and leaders of the 2020 ITN LIKE open science course and may go beyond the material discussed in the woorkshop itself._
 
-There are a few recurrent use cases for open science in academic R&D:
- - [the first publication](the-first-publication)
- - publishing a paper that uses unrestricted data
- - publishing a paper that uses data that is partly or totally restricted
- - planning a PhD and the associated measurements and analysis
- - executing a PhD
- - collaborating with others to create or update software.
+This course has concentrated on the philosophy and mechanics of open science as they apply to early-stage STEM researchers inolved in research projects ([Figure 1](#fig:open-science-activities)). Although these notes are based on the experiences of around 20 participants in our first course, we hope they may be broadly applicable and helpful for any STEM researcher.
 
-In this summary, we will discuss the opportunities that open science brings to each use case, the challenges faced with implementing it, and the solutions that people used. We'll use case studies to demonstrate what works, and what can go wrong.
+![](../../images/OpenScienceResearchInitiative-ResearchLifecycle.png)
 
-To put it into context, we'll use the FAIR framework for the publication and research, and the R5 framework for the code.<sup>[2](#R5)</sup> 
+<a name="fig:open-science-activities"></a>_Figure 1. Open science activities during a typical R&D project process ([FOSTER](https://www.fosteropenscience.eu/content/what-open-science-introduction))_
 
-## The first publication!
-This is a typical use case for research conducted by early-stage academic researchers, for example in the course of a PhD study. 
+## Open data
+Projects use a mixture of new and old data. 
 
-We'll assume:
-- the first author is an early-stage researcher 
-- they are being assisted by a more experienced researcher
-- the data used in the study are not restricted.
+Around half of the participants in the course in 2020 were actively creating new data sets that would be completely open and implement FAIR data principles (See notes from [Seminar 2](../../03_seminar2/notes/readme.md).
+). The rest of the participants were setting up data sets that would be restricted, but planning on publishing metadata for the data sets. Such steps will directly support their own science and also enable future research.
 
-|               |              |   |   |
-|---------------|--------------|---|---|
-| Concept       |              | Make their community aware of the research by publishing it in a journal |
-| Approach      |              | Publish a paper in a traditional STEM journal |
-| Publication   | **F**indable | The paper is given a DOI by the journal. The authors provide a couple of keywords that include broad or generic terms and detailed terms. The publisher allows the paper to be cross-referenced and indexed.| ![](yes.png) |
-|               | **A**ccesible | The paper is behind a paywall | ![](no.png) |
-|               | **I**nteroperable | The authors provide all of the metadata the journal requests. The metadata are drawn from the [Dublin core](https://en.wikipedia.org/wiki/Dublin_Core). | ![](yes.png) |
-|               | **R**eusable | The authors do not provide any supplementary material | ![](no.png) |
-| Code          | Re-runnable (R<sup>1</sup>) | The code used for the paper is on someone's laptop. The code can be re-run until they update their laptop and accidentally delete it. |![](caution.png) |
-|               | Repeatable (R<sup>2</sup>)  | The author continues to work on their code after they publish the paper. They do not use any kind of version control system. They make some small improvements to their code, and as a result, the results cannot be repeated.  |![](no.png) |
-|               | Reproducible (R<sup>3</sup>) | A colleague asks for the code, but has a different version of the runtime software. When they run the code it gives different answers. | ![](no.png) |
-|               | Reusable  (R<sup>4</sup>)   | The authors are STEM specialists, not computer programmers. They wrote spaghetti code that cannot be used for other projects or by anyone else  |![](no.png) |
-|               | Replicable  (R<sup>5</sup>) | The data and analysis code are only available to the authors  | ![](no.png) |
-| Communications | | The authors promote their work through conferences and presentations, but make no attempt to leverage social media or professional networking sites. | ![](caution.png) |
+Awareness of the challenges with data rights, and the need for clear licensing, was prompting participants to investigate and solve these challenges early in their projects. It was noted that in older projects, publishing was only considered at the end of the project and as result license concerns often prevented data collection; had this been considered earlier, the data might be available.
 
-### Strengths of this approach
-- The authors publish a paper. 
-- It gets a DOI and might get some citations over the years. 
-- This process will be familiar to the supervisor. They don't have to do anything unusual.
-- The status of the data - restricted or open - is irrelevant, as the data underlying the paper are not made available.
+It is also clear that there is a change taking place in many STEM discplines. It was noted that data is often difficult to find for papers published before 2015, and impossible to find for papers from 2010 or earlier.
 
-### Weaknesses
-The work has limited impact because others cannot leverage the work. They cannot repeat it or reuse the knowledge for other projects. All of this means that the work loses its impact very quickly.
+Participants felt that was often relatively easy to make data open using [Zenodo.org](http://www.zenodo.org), University or organisational repositories, journals, or application-specific repositories. All of these had well-developed metadata schemas.
 
-### Possible improvements
-- The paper could have been published as open access.
-- The data and code that were used to create the paper could have been stored in a repository and made available to others.
+Even when data are completely restricted and metadata cannot be made open externally, employers see the benefit in applying open science approaches to help make data FAIR internally. 
 
-N.B. Journals also have a role to play in encouraing open science. They could encourage authors to follow a FAIR or R5 workflow, or require authors to answer a FAIR or R5 questionaire about the publication that is included with the paper.
+However, challenges remain in creating open data sets.
+- One challenge was the lack of a playground to test these repositories in advance. Zenodo has implemented a "sandbox", but this is not easy to find and similar spaces to learn by doing are not often found on other repositories.
+- Another problem was the lack of common keywords. This is being mitigated by the development of application-specific ontologies (e.g., [for wind energy](http://data.windenergy.dtu.dk/ontologies/view/wtax/en/) or [for wind lidar](http://data.windenergy.dtu.dk/ontologies/view/IEATask32Glossary/en/)), but these still need to be linked to the repositories so that users can choose from these lists.
+- In some STEM fields it is common to work with data that includes personal information. The [Amnesia](https://amnesia.openaire.eu/index.html) tool was developed to speed up the process of anonymization for such cases.
 
-## Publishing a paper that uses unrestricted data
-This is a typical use case for research conducted by early-stage academic researchers, for example early in the course of a PhD study. 
+## Open source
+Most of the participants in the workshop had some experience with writing or using open source code. This was often made availble through GitHub, but others were developing code and publishing it through language-specific repositories such as [PyPi (for python)](https://pypi.org/) or CRAN [(for R)](https://cran.r-project.org/), allowing code to be used as packages.
 
-We'll assume
-- the authors just want to publish one paper.
-- the data used in the study are not restricted.
+It was noted that modular frameworks -- a set of modules connected together with clear inputs and outputs, potentially as part of a model chain or data analyis chain -- were very useful. The wind turbine simulation tool [OpenFAST](https://github.com/openfast) ([Figure 2](#fig:open-fast)) was frequently mentioned as an example of this.
 
-|               |              |   |   |
-|---------------|--------------|---|---|
-| Goal          |              | Increase the visibilty and citations of the paper  |
-| Concept       |              | Allow easy access to the data, code, and results  |
-| Approach      |              | Publish a paper in a traditional STEM journal, leveraging that journal's platform. |
-| Publication   | **F**indable | The paper is given a DOI by the journal. The authors provide multiple keywords that include broad or generic terms and detailed terms. The publisher allows the paper to be cross-referenced and indexed.| ![](yes.png) |
-|               | **A**ccesible | The authors pay for the paper to be open access. | ![](yes.png) |
-|               | **I**nteroperable | The authors provide all of the metadata the journal requests. The metadata are drawn from the [Dublin core](https://en.wikipedia.org/wiki/Dublin_Core). Keywords are drawn from a domain-specific list (see e.g. [the wind energy taxonomy of topics](http://data.windenergy.dtu.dk/ontologies/view/wtax/en/)).   | ![](yes.png) |
-|               | **R**eusable | The authors provide a link to a repository of further material. The repository includes the data used in the study, a license, and information about the origin of all data. | ![](yes.png) |
-| Code          | Re-runnable (R<sup>1</sup>) | The authors publish their matlab code on GitHub.com and provide a link to it. |![](caution.png) |
-|               | Repeatable (R<sup>2</sup>)  | The authors continue to work on their code after they publish the paper. They make some small improvements but as a result, the code no-longer gives the same results after a few weeks. Then they check it into GitHub using the normal commit process. | ![](no.png) |
-|               | Reproducible (R<sup>3</sup>) | Someone else can take the code from GitHub and re-run it to get the same results - at least until the authors update the code. | ![](caution.png) |
-|               | Reusable (R<sup>4</sup>)    | The code is broken down in to main scripts and a few functions, but is designed for the file types used in this work.  | ![](caution.png) |
-|               | Replicable (R<sup>5</sup>)  | Because of the changes in software, others are unable to replicate the results.  | ![](no.png) |
-| Communications | | The authors decide to present their work at conferences. To increase attendance they promote their work through social media. They provide links to their paper as well.  | ![](caution.png) |
+![](open-fast.png)
 
-### Strengths of this approach
-- The authors thought about the paper, data, and code separately.
-- The data were stored somewhere and referenced in the publication.
-- The code were accessible.
+<a name="fig:open-fast"></a>_Figure 2. The OpenFAST wind turbine simulation tool is often seen as an excellent framework for scientific collaboration. Source:  [github.com/OpenFAST](https://github.com/OpenFAST)._
 
-### Weaknesses
-- The paper combines the methods, data processing, and results.
-- They wrote their code in a proprietary language.
-- They didn't make clear what data and code were used to create their published data.
-- The communications 
+One challenge that was discussed was the tendancy of scientists and engineers to wait to publish code until it is complete. It was noted by several people that **"done is better than perfect"**, i.e., there is a benefit to getting code out for people to use sooner, rather than later. Publishing code sooner makes it easier to find collaborators and allows the code to be modified to meet user needs.
 
-### Possible improvements
-- The data, tools, and results could have been separated out into diffferent publications, each with their own DOI.
-- They could have written their processing code using an open language like `Python` or `R`. 
-- They could have mitigated repeatability challenges by uing [GitHub's _releases_](https://docs.github.com/en/free-pro-team@latest/github/administering-a-repository/about-releases), which capture a repository status at a specific point in time.
-- They could have used better-suited data file formats, for example NetCDF. They should have also made sure they used the file type favored by their community.
+Open source code development was also often associated with **agile project management**, which can also be seen as goal-oriented development with short cycle times fo a few weeks to months (sprints). This focus on outcmes instead of process often leads to a more productive effort. Open-source code is well-suited to agile project management because it provides a way for groups to cooperate and collaborate, despite often being separated by significant distances and bringing different skill sets.
 
-## Publishing a paper that uses data that is partly or totally restricted
-As researchers continue through their career they will often start to work with data that is commercially sensitive or includes some kind of intellectual property. This data must be protected. However, researchers need to be recognised for their skills and given credit for their work. How can we reconcile the need for security with the need for visibility?
+In general it was noted that open source code would probably become more popular because it is easier to build upon, and shortens the time required for an experiement or reduces the time required for analysis.
 
-We'll assume
-- the authors are allowed to publish metadata about the data.
-- the results can be sanitised so that they cannot be used to reverse engineer anything.
+Open source software can now be "published", i.e., recieved a DOI and become citable. This can be done through Zenodo but also specific journals, such as _[The Journal of Open Source Science (JOSS)](https://joss.theoj.org/)_ which also have open review and allow open access.
 
-|               |              |   |   |
-|---------------|--------------|---|---|
-| Goal          |              | To advance their field of research despite working with restricted data  |
-| Concept       |              |  |
-| Approach      |              | Publish the data, methods, and results seperately.  |
+## Open access
+Everyone in our workshop had experience of using open access materials. For some participants this had been the only way they were able to access research before starting at a European university, as they did not have access to papers that were behind paywalls ([Figure 3](#fig:open-science-activities)).
 
-We now need to apply FAIR and R5 to each of the publications coming out of the project.
+![](nature.jpg)
+<a name="fig:open-science-activities"></a>_Figure 3: Oh, the irony! Behind a paywall until early 2020, this paper is now available at no cost. [DOI: 10.1038/356739a0](https://doi.org/10.1038/356739a0)_
 
-### A data publication
-|               |              |   |   |
-|---------------|--------------|---|---|
-| Data   | **F**indable | The data are checked in to a repository where they are assigned a DOI. The authors provide multiple keywords that include broad or generic terms and detailed terms. | ![](yes.png) |
-|               | **A**ccesible | The authors restrict access to the data, but the metadata describing it are kept open access. | ![](yes.png) |
-|               | **I**nteroperable | The authors provide metadata to the repository. The repository is using the [Dublin core](https://en.wikipedia.org/wiki/Dublin_Core), so the metadata are standardised. They choose keywords from a domain-specific list (see e.g. [the wind energy taxonomy of topics](http://data.windenergy.dtu.dk/ontologies/view/wtax/en/)).   | ![](yes.png) |
-|               | **R**eusable | The data repository includes a license and information about the origin of all data. | ![](yes.png) |
+Many funding agencies now require open acccess publishing. Although this can be more expensive than traditional publishing at a journal, these costs may be offset by funds available through the authors' organisations.
 
-R<sup>1</sup> through R<sup>5</sup> are not applicable at this point.
+Participants in the workshop expressed clear preference toward making their own material open access as far as possible. It is likely that an open access policy will become normal across STEM journals in the near future as paywall-protected journals lose readership and authors.
 
+## Open notebooks
+Digitalisation of lab notebooks is often overlooked but can be a vital part of ensuring that data can be reused. Notebooks can be scanned and saved as images, or converted into machine-readable data files. Notebooks can be saved in the same repositories as other data.
 
-### A methods publication
+One participant in the workshop noted that they still had the paper notes from experiments that they had carried out over a decade ago. However, these notes were not accessible and there was no metadata about their existance, making them essentially worthless.
 
-### A results publication
+Another participant, inspired by the course, had scanned their experiment notes as PDFs and uploaded them to a subject-matter repository.
 
+The recent COVID pandemic has demonstrated the value in having scanned notes that are available anywhere, anytime, to anyone. A Nature technology feature noted in September 2020 that:
 
-|               |              |   |   |
-|---------------|--------------|---|---|
-| Publication   | **F**indable | The paper is given a DOI by the journal. The authors provide multiple keywords that include broad or generic terms and detailed terms. The publisher allows the paper to be cross-referenced and indexed.| ![](yes.png) |
-|               | **A**ccesible | The authors pay for the paper to be open access. | ![](yes.png) |
-|               | **I**nteroperable | The authors provide all of the metadata the journal requests. The metadata are drawn from the [Dublin core](https://en.wikipedia.org/wiki/Dublin_Core). Keywords are drawn from a domain-specific list (see e.g. [the wind energy taxonomy of topics](http://data.windenergy.dtu.dk/ontologies/view/wtax/en/)).   | ![](yes.png) |
-|               | **R**eusable | The data repository includes metadata about the data used in the study, a license, and information about the origin of all data. The material in the data repository has already been published through Zenodo.org and has a DOI. | ![](yes.png) |
-| Code          | Re-runnable (R<sup>1</sup>) | The authors publish their python code on GitHub.com and store it in Zenodo.org. They provide the DOI of the code. |![](yes.png) |
-|               | Repeatable (R<sup>2</sup>)  | The authors provide a release that corresponds to the published data and paper. | ![](yes.png) |
-|               | Reproducible (R<sup>3</sup>) | The authors developed interfaces that convert proprietary or confidential data into a recognised, community-standard data format. Although the specific data set cannot be used again except by the authors, the authors included test data with passing criteria. Other users can therefore reproduce the research | ![](yes.png) |
-|               | Reusable (R<sup>4</sup>)    | The code is broken down in to main scripts and a few functions and builds on standard data formats  | ![](yes.png) |
-|               | Replicable (R<sup>5</sup>)  | The work can be replicated by other researchers (using their own data).  | ![](yes.png) |
-| Communications | | The authors promote their data, code, and results separately to different target audiences. They tailor their message and call-to-action to each audience. | ![](yes.png) |
+> For [a new researcher], scanning old lab notebooks has provided an unexpected benefit. He’s new to the group, having started in February, just before the pandemic closed his lab. Reading through them has revealed insights that he might not have got from the team’s papers.
 
-## Generating and publishing new data from an existing data set to target specific needs
+_Source: How to digitize your lab notebooks. Nature (28 September 2020). [DOI: 10.1038/d41586-020-02728-0](https://doi.org/10.1038/d41586-020-02728-0)_
 
-## Planning a PhD and the associated measurements and analysis
+## Open peer review
+A few journals have now adopted open review processes. Examples include the Wind Energy Science journal. Although few of the participants in the course have published papers so far, almost all said that they would be interested in contributing to a journal that used open peer review. Reasons varied, and included:
+- Alignment with their own values as authors
+- Constructive feedback instead of adversarial feedback
+- More balanced feedback instead of reviewers seeking to raise their own citations
+- Speed of reviews
+- Ability to learn by reading reviews of other papers.
 
-## Executing a PhD
+It would be possible to take the existing peer review process - whereby reviewers are selected by the editors - and have a psuedo-open review process where those reviews are published. Some journals have extended the open peer review concept to be an interactive, open discussion about the paper in question where potentiall reviewers are invited to review, but anyone who is interested may contribute ([Figure 4](#fig:open-review)).
 
-## Collaborating with others to create or update software.
+![](open-review.png)
+
+<a name="fig:open-review"></a>_Figure 4. The open review process enables transparent and constructive review. An example of the most recent paper published by the journal "Wind Energy Science". [DOI: 10.5194/wes-5-1743-2020](
+https://doi.org/10.5194/wes-5-1743-2020)_
+
+## Communications and social networks
+The participants in the workshop had taken a range of approaches to commuicating their science. They had adopted different and specific approaches to making people aware of their work and allowing them to act on it. Examples included:
+- promoting it through social media
+- conference presentations
+- internal presentations
+- developing websites
+- sharing links to repositories
+- deliberate "calls to action" designed to achieve a specific goal.
+
+Some of the participants noted that deliberately creating and executing a communications strategy (see [Seminar 4](../../07_seminar4/notes/readme.md)) did not require much time, but led to higher impact than they expected.
+
+Scientific social networks are [an essential part of communicating science]((../../07_seminar4/notes/readme.md)). They allow scientists to target each other and facilitate the exchange of information.
+
+Only one purely scientific social network was well known. [ResearchGate](http://www.researchgate.net) was founded in 2008 and has achieved some network effects, with around 20 million users in 2020. Although some participants found ResearchGate a useful resource, other participants said that they preferred to use larger social networks and leverage their tagging and community / group functionality to find and share material.
+
+The two most commonly mentioned networks were Twitter and LinkedIn. As was noted in [the first seminar in this course](../../01_seminar1/notes/readme.md), network adoption can vary depending on location and in some communities WhatsApp, WeChat and other apps or platforms might be more relevant.
+
+## Data management plans - helping plan it all out
+During the course the concept of a data management plan was introduced (see [seminar 5](../../10_seminar5/notes/readme.md).
+). They were felt to be a helpful tool for planning activities as they prompted thinking in advance about the products of the research, and how they could be used. It was also noted that they do not need to be complex or long to be useful.
+
+## What are the problems with Open Science?
+Although this course has focussed on the benefits of open science, it is clear that there remain some problems with open science.
+
+- It is a change from the established order and threatens business models.
+- It is a philosophy and not easy to teach in traditional settings.
+- Adopting it requires clear guidance. To support this we are developing a set of [use cases and case studies](../../99_resources/01_case_studies/readme.md) that we will add to over time.
+- The efforts that people put in to making their science may not be recognised by their employers.
+- It can take time for the results of adopting open science to be clear.
+
+However, these challenges were all felt to be small compared to the legal challenges, particularly:
+- choosing and using a license for data or publications,
+- the need to agree NDAs or other usage agreements to access restricted data,
+- and the lack of common understanding between legal experts and STEM experts.
+
+Some of these legal challenges arise because it is not always clear to a legal team that openness and open science is aligned with an organisation's interests. Therefore, these challenges may be mitigated as it becomes clearer that open science _is_ aligned with an organisation's interests. Legacy restrictions (i.e, not open science) may remain problematic, but will be rendered irrelevant by new developments that are open.
 
 ## Summary
+Adopting open science can bring many benefits to STEM researchers. It can be implemted using a few simple ideas, processes, and tools that are compatible with academic research and industry users and are applicable to open and restricted data. Because open science may be a change from typical behaviour it is easiest to implement when it is planned in from the start of a project. 
 
-## References
-<a name="R5"></a>2: Benureau and Rougier (2018). "Re-run, Repeat, Reproduce, Reuse, Replicate: Transforming Code into Scientific Contributions". Front. Neuroinform., 04 January 2018. DOI: [10.3389/fninf.2017.00069](https://doi.org/10.3389/fninf.2017.00069)
+Many of the challenges that are currently found in implementing open science approaches will be mitigated as organisations and people see the benefits of open science.
 
 ## License
 These notes are published under the [Creative Commons CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/)
@@ -162,7 +137,8 @@ These notes are published under the [Creative Commons CC BY 4.0 license](https:/
 - Seminar 3: [Open Science and Intellectual Property](../../05_seminar3/notes/readme.md).
 - Seminar 4: [Communications strategies](../../07_seminar4/notes/readme.md).
 - Seminar 5: [What are data management plans and why do they matter?](../../10_seminar5/notes/readme.md).
+- Workshop: [Case studies in open science](../../12_workshop1/notes/readme.md).
 
 ## Course progress
-| Previous: [Assignment 1: Implementation Case Study!](../../09_assignment1/readme.md) | You are here: [Seminar 5: What are data management plans and why do they matter?](../readme.md) | Next: [Self-study 5: Draft your data management plan](../../11_selfstudy5/readme.md) |
+| Previous: [Self study 5: Draft your data management plan](../../11_selfstudy5/readme.md) | You are here: [Workshop: Case studies in open science](../readme.md) | Next: [Self-study 6: Revise your data management plan](../../13_selfstudy6/readme.md) |
 | -- | -- | -- |

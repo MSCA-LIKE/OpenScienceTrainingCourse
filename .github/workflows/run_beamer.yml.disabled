@@ -41,7 +41,7 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run beamer script
         run: |
-          sh ./scripts/build_beamer.sh
+          sh ./.scripts/build_beamer.sh
 
       - name: Commit
         run: |

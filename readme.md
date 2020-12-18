@@ -6,7 +6,7 @@ This file provides a basic overview of the course. For more details, see [the co
 
 If you want to get an overview of the course:
 - check out the [course outline](#course-outline)
-- read [the notes from each seminar](tree/master/01_seminar1/notes/readme.md)
+- read [the notes from each seminar](01_seminar1/notes/readme.md).
 
 ## Audience
 This course is intended for early-stage researchers in STEM subjects and their supervisors.
@@ -22,8 +22,13 @@ Supervisors are strongly recommended to accompany the course.
 1. Students are able to recognize “open” and “closed” science and communicate the advantages of open science.
 2. Students can identify the main steps in the FOSTER diagram.
 3. Students are able to publish interconnected data objects, boosting their visibility and impact to the scientific community.
-4. Students are able to list the main tools for Open Science that enable them to achieve the FAIR and R5 goals. (e.g. F - DOIs, A - GitHub, I - modular software, R - ...).
+4. Students are able to list the main tools for open science that enable them to achieve the FAIR and R5 goals. (e.g. F - DOIs, A - GitHub, I - modular software, R - ...).
 5. Students create a data management plan for their projects.
+
+
+![](images/OpenScienceResearchInitiative-ResearchLifecycle.png)
+
+_Figure 1. Promoting openness at different stages of the research process ([Open Science and Research Initiative, 2014](https://www.fosteropenscience.eu/node/1431#osri2014))_
 
 ## Course plan
 
