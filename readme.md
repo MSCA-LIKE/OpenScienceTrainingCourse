@@ -73,7 +73,7 @@ You are welcome to reuse or remix the material in this repository under the term
 - The GitHub repository including e.g. `README.md` files is licensed under the MIT license (see the [license file](LICENSE) for details).
 - Presentations for each seminar may be separately licensed by their contributors. Please check those documents for license terms. Note that the license for the presentations should be considered to extend to the source material for compiled documents (i.e. LaTeX source code is covered under the license for the PDF). Please also contact the author(s) directly to discuss reuse of their materials.
 
-If you need help reusing the materials, or would like to check if you can use it, please [raise an issue](https://github.com/LIKE-ITN/OpenScienceTrainingCourse/issues).
+If you need help reusing the materials, or would like to check if you can use it, please [raise an issue](../../../issues).
 
 ## Authors
 - Andy Clifton, U. Stuttgart [![](https://orcid.org/sites/default/files/images/orcid_16x16.png) https://orcid.org/0000-0001-9698-5083](https://orcid.org/0000-0001-9698-5083)

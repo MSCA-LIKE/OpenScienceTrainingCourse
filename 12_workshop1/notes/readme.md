@@ -122,7 +122,7 @@ Although this course has focussed on the benefits of open science, it is clear t
 
 - It is a change from the established order and threatens business models.
 - It is a philosophy and not easy to teach in traditional settings.
-- Adopting it requires clear guidance. To support this we are developing a set of [use cases and case studies](../../99_resources/01_case_studies/readme.md) that we will add to over time.
+- Adopting it requires clear guidance. To support this we are developing a set of [use cases and case studies](../../99_resources/08_case_studies/readme.md) that we will add to over time.
 - The efforts that people put in to making their science may not be recognised by their employers.
 - It can take time for the results of adopting open science to be clear.
 

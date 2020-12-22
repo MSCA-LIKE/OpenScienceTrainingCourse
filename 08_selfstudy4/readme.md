@@ -26,18 +26,14 @@ The portfolio should be findable by an internet search engine.
 _4 hours of extra credit are available for this work_
 
 ## Resources
-- [PLOS SciComm blog](https://scicomm.plos.org/)
-- [Effective Science Communication (Second Edition)](https://iopscience.iop.org/book/978-0-7503-2520-2). IOP Science, 2020
+See [`../99_resources/06_communications_and_social_networks/readme.md`](../99_resources/06_communications_and_social_networks/readme.md).
 
 ## Further reading:
 - [What institutions can do to improve science communication](https://www.nature.com/articles/d41586-019-03869-7). Nature.com, 2020
 - [The Responsible Research and Innovation (RRI) toolkit](https://rri-tools.eu/research-community)
 
 ## Questions and feedback
-- General questions? Please use slack to ask.
-- Personal questions? Get in contact directly.
-- Feedback about the course materials? Please [raise an issue](https://github.com/LIKE-ITN/OpenScienceTrainingCourse/issues).
-
+- Please [raise an issue](../../../issues).
 
 ## Course progress
 | Previous: [Seminar 4: "If a tree falls in the forest … communicating your science"](../07_seminar4/readme.md) | [Course outline](../readme.md#course-outline) |Next: [Assignment 1: "Implementation case study"](../09_assignment1/readme.md) |

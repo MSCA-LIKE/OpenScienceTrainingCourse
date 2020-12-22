@@ -13,17 +13,11 @@ Publish your data management plan to your portfolio (see [self-study 4](../08_se
 
 _4 hours of extra credit are available for this work_
 
-
 ## Resources
-- [DMPonline](https://dmponline.dcc.ac.uk/), provided by the UK Digital Curation Centre (DCC)
-
-## Further reading
+See [`../99_resources/07_data_management_plans/readme`](../99_resources/07_data_management_plans/readme).
 
 ## Questions and feedback
-- General questions? Please use slack to ask.
-- Personal questions? Get in contact directly.
-- Feedback about the course materials? Please [raise an issue](https://github.com/LIKE-ITN/OpenScienceTrainingCourse/issues).
-
+- Please [raise an issue](../../../issues).
 
 ## Course progress
 | Previous: [Workshop 1: "Your experiences of implementing open science"](../12_workshop1/readme.md) | [Course outline](../readme.md#course-outline) | Next: [Assignment 2: "Your Data Management Plan"](../14_assignment2/readme.md) |

@@ -23,13 +23,13 @@ This seminar will be split into two, 30-minute-long parts.
 - Students can start writing their data management plans for their PhDs
 
 ## Resources
-See (`../99_resources/07_data_management_plans/readme`)[../99_resources/07_data_management_plans/readme].
+See [`../99_resources/07_data_management_plans/readme`](../99_resources/07_data_management_plans/readme).
 
 ## Further reading:
 - An example data management plan from Pedro Santos, DTU [on Zenodo](https://zenodo.org/record/4009127).
 
 ## Questions and feedback
-- Please [raise an issue](../../issues).
+- Please [raise an issue](../../../issues).
 
 ## Course progress
 | Previous: [Assignment 1: "Implementation Case Study"](../09_assignment1/readme.md) | [Course outline](../readme.md#course-outline) |Next: [Self-study 5: "Draft your data management plan"](../11_selfstudy5/readme.md) |

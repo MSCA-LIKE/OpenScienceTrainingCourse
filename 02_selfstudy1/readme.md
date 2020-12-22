@@ -29,10 +29,7 @@ See [the seminar presentation](beamer/main.pdf) for context.
 - [_Open Science against COVID-19: how Zenodo and OpenAIRE support the scientists_](https://home.cern/news/news/computing/open-science-against-covid-19-how-zenodo-and-openaire-support-scientists) CERN, 2020.
 
 ## Questions and feedback
-- General questions? Please use slack to ask.
-- Personal questions? Get in contact directly.
-- Feedback about the course materials? Please [raise an issue](https://github.com/LIKE-ITN/OpenScienceTrainingCourse/issues).
-
+- Please [raise an issue](../../../issues).
 
 ## Course progress
 | Previous: [Seminar 1: "Introducing open science"](../01_seminar1/readme.md) | [Course outline](../readme.md#course-outline) | Next: [Seminar 2: "Guiding Principles"](../03_seminar2/readme.md) |

@@ -14,8 +14,7 @@ __Passing criteria__: The data management plan should consider all of the data l
 No additional hours are available for this assignment.
 
 ## Resources
-- An example PhD Data Management Plan from Pedro Santos, DTU. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4009127.svg)](https://doi.org/10.5281/zenodo.4009127)
-
+See [`../99_resources/07_data_management_plans/readme`](../99_resources/07_data_management_plans/readme).
 
 ## Course progress
 | Previous: [Self-study 6: "Revise your data management plan"](../13_selfstudy6/readme.md) | [Course outline](../readme.md#course-outline) | Next: This is the last event in the course |

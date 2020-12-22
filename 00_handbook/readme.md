@@ -24,7 +24,7 @@ Some students may want to use the course as part of their studies.
 
 Suggestions for grading are given [here](#grading-and-recognition).
 
-The course is designed for use as [part of a STEM PhD study program](#Using-the-course-as-part-of-a-PhD-study-program) but could be adapted for different groups.
+The course is designed for use as [part of a STEM PhD study program](#Using-the-course-as-part-of-a-PhD-study-program) but could be adapted for different groups. The course may be a good introduction before going into more detail, for example the 1-2 hour courses available through the [FOSTER portal](https://www.fosteropenscience.eu/toolkit). 
 
 And, because the course is about open science, we wanted to make the course materials open as well. We have given the material a license that allows [reuse or remixing](#reuse-and-remixing).
 
@@ -161,7 +161,7 @@ You are welcome to reuse or remix the material in this repository under the term
 - The GitHub repository including e.g. `README.md` files is licensed under the MIT license (see the [license file](LICENSE) for details).
 - Presentations for each seminar may be separately licensed by their contributors. Please check those documents for license terms. Note that the license for the presentations should be considered to extend to the source material for compiled documents (i.e. LaTeX source code is covered under the license for the PDF). Please also contact the author(s) directly to discuss reuse of their materials.
 
-If you would like to check if you can use the materials, please [raise an issue](https://github.com/LIKE-ITN/OpenScienceTrainingCourse/issues).
+If you would like to check if you can use the materials, please [raise an issue](../../../issues).
 
 ### Use of LaTeX Beamer materials
 Some of the materials in this repository have been created using the LaTeX beamer package. This was used because beamer-based presentations can be adapted and reused quite easily by changing the underlying theme.
@@ -198,7 +198,7 @@ Please note that you should then
 4. Acknowledge the original authors as per the license terms.
 
 ### I found a mistake!
-You are not the first! Please [raise an issue](https://github.com/LIKE-ITN/OpenScienceTrainingCourse/issues). Thank you!
+You are not the first! Please [raise an issue](../../../issues). Thank you!
 
 ### I want to make a suggestion!
-Thank you! Please [raise an issue](https://github.com/LIKE-ITN/OpenScienceTrainingCourse/issues).
+Thank you! Please [raise an issue](../../../issues).

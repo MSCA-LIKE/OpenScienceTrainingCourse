@@ -16,15 +16,17 @@ Draft a short article about this. You'll use this later as part of your portfoli
 _4 hours of extra credit are available for this work_
 
 ## Resources
+See 
+- [`../99_resources/01_open_data/readme.md`](../99_resources/01_open_data/readme.md).
+- [`../99_resources/02_open_source/readme.md`](../99_resources/02_open_source/readme.md).
+- [`../99_resources/03_open_access/readme.md`](../99_resources/03_open_access/readme.md).
+- [`../99_resources/04_open_notebooks/readme.md`](../99_resources/04_open_notebooks/readme.md).
 
 ## Further reading
 None at this time.
 
 ## Questions and feedback
-- General questions? Please use slack to ask.
-- Personal questions? Get in contact directly.
-- Feedback about the course materials? Please [raise an issue](https://github.com/LIKE-ITN/OpenScienceTrainingCourse/issues).
-
+- Please [raise an issue](../../../issues).
 
 ## Course progress
 | Previous: [Seminar 3: "Open Science and Intellectual Property"](../05_seminar3/readme.md) | [Course outline](../readme.md#course-outline) | Next: [Seminar 4: "If a tree falls in the forest... Communicating your science"](../07_seminar4/readme.md) |

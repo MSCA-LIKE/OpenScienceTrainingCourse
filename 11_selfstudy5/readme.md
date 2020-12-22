@@ -17,13 +17,12 @@ Write up a short article about your research and publish it as part of your port
 _6 hours of extra credit are available for this work_
 
 ## Resources
+See [`../99_resources/07_data_management_plans/readme`](../99_resources/07_data_management_plans/readme).
 
 ## Further reading
 
 ## Questions and feedback
-- General questions? Please use slack to ask.
-- Personal questions? Get in contact directly.
-- Feedback about the course materials? Please [raise an issue](https://github.com/LIKE-ITN/OpenScienceTrainingCourse/issues).
+- Please [raise an issue](../../../issues).
 
 ## Course progress
 | Previous: [Seminar 5: "what are data management plans, and why do they matter?"](../10_seminar5/readme.md) | [Course outline](../readme.md#course-outline) | Next: [Workshop 1: "Your experiences of implementing open science"](../12_workshop1/readme.md) |

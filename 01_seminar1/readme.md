@@ -36,7 +36,7 @@ These themes will be explored in more detail in future seminars.
 - [_Digitalization and Open Science in LIKE_](https://like-itn-digitalization.readthedocs.io/en/latest/). Read The Docs, 2020.
 - [_The FOSTER Open Science Training Handbook_](https://github.com/Open-Science-Training-Handbook)
 
-### How open science principles are being used in the SARS-Cov-2 response
+### How open science principles are being used in the COVID-19 response
 - [_Open science takes on the coronavirus pandemic_](https://www.nature.com/articles/d41586-020-01246-3) Nature, 2020.
 - [_Data Sharing in a Time of Pandemic_](https://www.rd-alliance.org/data-sharing-time-pandemic-patterns-preview-rda-covid-19-group-results) Patterns, 2020.
 - [_Open Science against COVID-19: how Zenodo and OpenAIRE support the scientists_](https://home.cern/news/news/computing/open-science-against-covid-19-how-zenodo-and-openaire-support-scientists) CERN, 2020.
@@ -46,9 +46,7 @@ These themes will be explored in more detail in future seminars.
 - https://www.n95decon.org/
 
 ## Questions and feedback
-- General questions? Please use slack to ask.
-- Personal questions? Get in contact directly.
-- Feedback about the course materials? Please [raise an issue](https://github.com/LIKE-ITN/OpenScienceTrainingCourse/issues).
+- Please [raise an issue](../../../issues).
 
 ## Course Progress
 | Previous: This is the first event in the course. | [Course outline](../readme.md#course-outline) | Next: [Self-study 1: "Background reading"](../02_selfstudy1/readme.md) |

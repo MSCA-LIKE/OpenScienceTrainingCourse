@@ -28,9 +28,7 @@ See also [Self-study 3](../06_selfstudy3/readme.md) and [Assignment 1](../09_ass
 None at this time.
 
 ## Questions and feedback
-- General questions? Please use slack to ask.
-- Personal questions? Get in contact directly.
-- Feedback about the course materials? Please [raise an issue](https://github.com/LIKE-ITN/OpenScienceTrainingCourse/issues).
+- Please [raise an issue](../../../issues).
 
 
 ## Course progress

@@ -26,17 +26,14 @@ See the [notes from the seminar](/notes/readme.md) for more information.
 - Students know how to apply the R5 principles to data products
 
 ## Resources
-- [Howtofair.dk](http://howtofair.dk) _ideas on how to make data FAIR_
-- [Fairsharing.org](https://fairsharing.org/) _advice on metadata_
+See [`../99_resources/01_open_data/readme.md`](../99_resources/01_open_data/readme.md).
 
 ## Further reading
 - _Open Science and FAIR data principles (LIKE Deliverable 7.1)_. Available at https://like-itn-digitalization.readthedocs.io/en/latest/.
 - _Open Science: How do we make it more than just a buzzword? (Version pre-print)_. Zenodo. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3670410.svg)](https://doi.org/10.5281/zenodo.3670410)
 
 ## Questions and feedback
-- General questions? Please use slack to ask.
-- Personal questions? Get in contact directly.
-- Feedback about the course materials? Please [raise an issue](https://github.com/LIKE-ITN/OpenScienceTrainingCourse/issues).
+- Please [raise an issue](../../../issues).
 
 ## Course progress
 | Previous: [Self-study 1: "Background reading"](../02_selfstudy1/readme.md) | [Course outline](../readme.md#course-outline) | Next: [Self-study 2: "Is your Group's work FAIR?"](../04_selfstudy2/readme.md) |

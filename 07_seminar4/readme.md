@@ -34,9 +34,7 @@ A 55-minute online discussion based around [this PDF](beamer/main.pdf), covering
 - [The Responsible Research and Innovation (RRI) toolkit](https://rri-tools.eu/research-community)
 
 ## Questions and feedback
-- General questions? Please use slack to ask.
-- Personal questions? Get in contact directly.
-- Feedback about the course materials? Please [raise an issue](https://github.com/LIKE-ITN/OpenScienceTrainingCourse/issues).
+- Please [raise an issue](../../../issues).
 
 ## Course progress
 | Previous: [Assignment 1: "Implementation case study"](../09_assignment1/readme.md) | [Course outline](../readme.md#course-outline) | Next: [Self-study 4: "Communications Strategies"](../08_selfstudy4/readme.md) |
