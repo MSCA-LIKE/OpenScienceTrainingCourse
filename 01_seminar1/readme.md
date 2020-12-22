@@ -12,7 +12,7 @@ A 55-minute online discussion based around [this presentation](beamer/main.pdf),
 - What COVID-19 told us about open science
 - Next steps.
 
-See the [notes from the seminar](/notes/readme.md) for more information.
+See the [notes from the seminar](notes/readme.md) for more information.
 
 ## Learning
 
@@ -29,6 +29,9 @@ See the [notes from the seminar](/notes/readme.md) for more information.
 - Students have identified some of the tools that are available to help them implement open science in their own work
 
 These themes will be explored in more detail in future seminars.
+
+## Resources
+See [`../99_resources/00_introducing_open_science/readme.md`](../99_resources/00_introducing_open_science/readme.md).
 
 ## Further reading
 
