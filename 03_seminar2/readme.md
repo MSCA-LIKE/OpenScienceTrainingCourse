@@ -11,7 +11,7 @@ A 55-minute online discussion based around [this presentation](FAIR_R5.pdf), cov
 - FAIR data
 - The R5 principles.
 
-See the [notes from the seminar](/notes/readme.md) for more information.
+See the [notes from the seminar](notes/readme.md) for more information.
 
 ## Learning
 

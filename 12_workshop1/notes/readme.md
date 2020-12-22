@@ -1,6 +1,6 @@
 # Workshop on experiences with open science
 
-_These notes are based on the experiences of the students and leaders of the 2020 ITN LIKE open science course and may go beyond the material discussed in the workshop itself._
+_These notes are based on the experiences of the students and leaders of the 2020 ITN LIKE open science course and may go beyond the material discussed in the workshop itself. The notes were written by Andy Clifton, U. Stuttgart [![](https://orcid.org/sites/default/files/images/orcid_16x16.png) https://orcid.org/0000-0001-9698-5083](https://orcid.org/0000-0001-9698-5083)_
 
 This course has concentrated on the philosophy and mechanics of open science as they apply to early-stage STEM researchers involved in research projects ([Figure 1](#fig-open-science-activities)). We've discussed:
 - [Open data](#sec-open-data)

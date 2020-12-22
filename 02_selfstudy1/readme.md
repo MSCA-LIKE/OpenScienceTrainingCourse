@@ -15,9 +15,11 @@ _4 hours of extra credit are available for this work_
 
 
 ## Resources
+See [`../99_resources/00_introducing_open_science/readme.md`](../99_resources/00_introducing_open_science/readme.md).
+
 
 ## Further reading
-See [the seminar presentation](beamer/main.pdf) for context.
+See [the seminar presentation](../01_seminar1/beamer/main.pdf) for context.
 
 ### What is Open Science?
 - [_Digitalization and Open Science in LIKE_](https://like-itn-digitalization.readthedocs.io/en/latest/). Read The Docs, 2020.
