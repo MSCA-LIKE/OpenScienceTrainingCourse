@@ -7,11 +7,11 @@ _*What is intellectual property? A discussion of how to share science but protec
 | 1 | 1 | Andy Clifton|
 
 ## Format
-A 55-minute online discussion based around [this presentation](./beamer/main.pdf), covering:
+A 55-minute online discussion based around [this presentation](beamer/main.pdf), covering:
 - What is intellectual property?
 - How can we share IP but protect opportunities?
 
-See the [notes from the seminar](/notes/readme.md) for more information.
+See the [notes from the seminar](notes/readme.md) for more information.
 
 ## Learning
 
@@ -27,7 +27,7 @@ See the [notes from the seminar](/notes/readme.md) for more information.
 
 ## Resources
 See 
-- [`../99_resources/02_open_source/readme.md`](../99_resources/02_open_sources/readme.md).
+- [`../99_resources/02_open_source/readme.md`](../99_resources/02_open_source/readme.md).
 - [`../99_resources/03_open_access/readme.md`](../99_resources/03_open_access/readme.md).
 
 ## Further reading:
