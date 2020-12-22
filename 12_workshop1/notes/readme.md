@@ -24,8 +24,7 @@ Although these notes are based on the experiences of around 20 participants in o
 
 Projects use a mixture of new and old data. 
 
-Around half of the participants in the course in 2020 were actively creating new data sets that would be completely open and implement FAIR data principles (See notes from [Seminar 2](../../03_seminar2/notes/readme.md).
-). The rest of the participants were setting up data sets that would be restricted, but planning on publishing metadata for the data sets. Such steps will directly support their own science and also enable future research.
+Around half of the participants in the course in 2020 were actively creating new data sets that would be completely open and implement FAIR data principles (see notes from [Seminar 2](../../03_seminar2/notes/readme.md)). The rest of the participants were setting up data sets that would be restricted, but planning on publishing metadata for the data sets. Such steps will directly support their own science and also enable future research.
 
 Awareness of the challenges with data rights, and the need for clear licensing, was prompting participants to investigate and solve these challenges early in their projects. It was noted that in older projects, publishing was only considered at the end of the project and as result license concerns often prevented data collection; had this been considered earlier, the data might be available.
 
@@ -38,12 +37,12 @@ Even when data are completely restricted and metadata cannot be made open extern
 However, challenges remain in creating open data sets.
 - One challenge was the lack of a playground to test these repositories in advance. Zenodo has implemented a "sandbox", but this is not easy to find and similar spaces to learn by doing are not often found on other repositories.
 - Another problem was the lack of common keywords. This is being mitigated by the development of application-specific ontologies (e.g., [for wind energy](http://data.windenergy.dtu.dk/ontologies/view/wtax/en/) or [for wind lidar](http://data.windenergy.dtu.dk/ontologies/view/IEATask32Glossary/en/)), but these still need to be linked to the repositories so that users can choose from these lists.
-- In some STEM fields it is common to work with data that includes personal information. The [Amnesia](https://amnesia.openaire.eu/index.html) tool was developed to speed up the process of anonymization for such cases.
+- In some STEM fields it is common to work with data that includes personal information. The OpenAIRE [Amnesia](https://amnesia.openaire.eu/index.html) tool was developed to speed up the process of anonymization for such cases.
 
-<a name="sec-open-source"></a>
+<a name="sec-open-source"></a> 
 
 ## Open source
-Most of the participants in the workshop had some experience with writing or using open source code. This was often made available through GitHub, but others were developing code and publishing it through language-specific repositories such as [PyPi (for python)](https://pypi.org/) or CRAN [(for R)](https://cran.r-project.org/), allowing code to be used as packages.
+Most of the participants in the workshop had some experience with writing or using open source code. This was often made available through GitHub, but others were developing code and publishing it through language-specific repositories such as [PyPi](https://pypi.org/) (for python) or [CRAN](https://cran.r-project.org/) (for R), allowing code to be used as packages.
 
 It was noted that modular frameworks -- a set of modules connected together with clear inputs and outputs, potentially as part of a model chain or data analysis chain -- were very useful. The wind turbine simulation tool [OpenFAST](https://github.com/openfast) ([Figure 2](#figopen-fast)) was frequently mentioned as an example of this.
 
@@ -59,7 +58,9 @@ In general it was noted that open source code would probably become more popular
 
 Open source software can now be "published", i.e., received a DOI and become citable. This can be done through Zenodo but also specific journals, such as _[The Journal of Open Source Science (JOSS)](https://joss.theoj.org/)_ which also have open review and allow open access.
 
-<a name="sec-open-access"></a>## Open access 
+<a name="sec-open-access"></a>
+
+## Open access 
 
 Everyone in our workshop had experience of using open access materials. For some participants this had been the only way they were able to access research before starting at a European university, as they did not have access to papers that were behind paywalls ([Figure 3](#fig-open-science-activities)).
 
@@ -71,7 +72,9 @@ Many funding agencies now require open access publishing. Although this can be m
 
 Participants in the workshop expressed clear preference toward making their own material open access as far as possible. It is likely that an open access policy will become normal across STEM journals in the near future as paywall-protected journals lose readership and authors.
 
-<a name="sec-open-notebooks"></a>## Open notebooks
+<a name="sec-open-notebooks"></a>
+
+## Open notebooks
 Digitalisation of lab notebooks is often overlooked but can be a vital part of ensuring that data can be reused. Notebooks can be scanned and saved as images, or converted into machine-readable data files. Notebooks can be saved in the same repositories as other data.
 
 One participant in the workshop noted that they still had the paper notes from experiments that they had carried out over a decade ago. However, these notes were not accessible and there was no metadata about their existence, making them essentially worthless.
@@ -84,7 +87,9 @@ The recent COVID pandemic has demonstrated the value in having scanned notes tha
 
 _Source: How to digitize your lab notebooks. Nature (28 September 2020). [DOI: 10.1038/d41586-020-02728-0](https://doi.org/10.1038/d41586-020-02728-0)_
 
-<a name="sec-open-peer-review"></a>## Open peer review
+<a name="sec-open-peer-review"></a>
+
+## Open peer review
 A few journals have now adopted open review processes. Examples include the Wind Energy Science journal. Although few of the participants in the course have published papers so far, almost all said that they would be interested in contributing to a journal that used open peer review. Reasons varied, and included:
 - Alignment with their own values as authors
 - Constructive feedback instead of adversarial feedback
@@ -99,7 +104,9 @@ It would be possible to take the existing peer review process - whereby reviewer
 <a name="fig-open-review"></a>_Figure 4. The open review process enables transparent and constructive review. An example of the most recent paper published by the journal "Wind Energy Science". [DOI: 10.5194/wes-5-1743-2020](
 https://doi.org/10.5194/wes-5-1743-2020)_
 
-<a name="sec-communications"></a>## Communications and social networks
+<a name="sec-communications"></a>
+
+## Communications and social networks
 The participants in the workshop had taken a range of approaches to communicating their science. They had adopted different and specific approaches to making people aware of their work and allowing them to act on it. Examples included:
 - promoting it through social media
 - conference presentations
@@ -116,11 +123,15 @@ Only one purely scientific social network was well known. [ResearchGate](http://
 
 The two most commonly mentioned networks were Twitter and LinkedIn. As was noted in [the first seminar in this course](../../01_seminar1/notes/readme.md), network adoption can vary depending on location and in some communities WhatsApp, WeChat and other apps or platforms might be more relevant.
 
-<a name="sec-data-management-plans"></a>## Data management plans - helping think it through
+<a name="sec-data-management-plans"></a>
+
+## Data management plans - helping think it through
 During the course the concept of a data management plan was introduced (see [seminar 5](../../10_seminar5/notes/readme.md).
 ). They were felt to be a helpful tool for planning activities as they prompted thinking in advance about the products of the research, and how they could be used. It was also noted that they do not need to be complex or long to be useful.
 
-<a name="sec-problems"></a>## What are the problems with Open Science?
+<a name="sec-problems"></a>
+
+## What are the problems with Open Science?
 Although this course has focussed on the benefits of open science, it is clear that there remain some problems with open science.
 
 - It is a change from the established order and threatens business models.
