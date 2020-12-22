@@ -33,7 +33,7 @@ There are lots of ways to write a data management plan. We suggest using [DMPonl
 There are other services, for example [DataWiz](https://datawiz.leibniz-psychology.org/DataWiz/). You may be required to use this or another service by your funding agency.
 
 ### Metadata
-Most DMP include a lot of metadata about the researcher and project. This could include the researcher's organisation, ORCID id, and other identifying information, It could also include funding agency and grant number. The metadata would allow a well-constructed portal to pull other data using that information; for example, if the researcher gave their ORCID id, that information could be used to pull the researcher's name, organisation, etc.
+Most DMP include a lot of metadata about the researcher and project. This could include the researcher's organisation, ORCID ID, and other identifying information, It could also include funding agency and grant number. The metadata would allow a well-constructed portal to pull other data using that information; for example, if the researcher gave their ORCID ID, that information could be used to pull the researcher's name, organisation, etc.
 
 ### Allowing access
 Some online DMP tools allow you to give others access to a DMP so that they can provide feedback. You should probably give your supervisor access to it, but you should also give access to you colleagues as well so that they can provide feedback.
@@ -70,7 +70,7 @@ These notes are published under the [Creative Commons CC BY 4.0 license](https:/
 - Seminar 3: [Open Science and Intellectual Property](../../05_seminar3/notes/readme.md).
 - Seminar 4: [Communications strategies](../../07_seminar4/notes/readme.md).
 - Seminar 5: [What are data management plans and why do they matter?](../../10_seminar5/notes/readme.md).
-- Workshop: [Case studies in open science](../../12_workshop1/notes/readme.md).
+- Workshop: [Experiences of implementing open science](../../12_workshop1/notes/readme.md).
 
 ## Course progress
 | Previous: [Assignment 1: Implementation Case Study!](../../09_assignment1/readme.md) | You are here: [Seminar 5: What are data management plans and why do they matter?](../readme.md) | Next: [Self-study 5: Draft your data management plan](../../11_selfstudy5/readme.md) |

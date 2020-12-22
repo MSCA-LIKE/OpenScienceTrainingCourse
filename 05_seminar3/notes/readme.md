@@ -33,7 +33,7 @@ This relationship may change when the work that led to the data was funded by th
 Effectively, this means that very often an employee is not able to choose where, how, or under what terms they publish their data.
 
 ### Is open source free to use?
-As engineers or scientists who develop software, it is quite common to use information on websites like GitHub, Stackoverflow, or elsewhere to find solutions to problems.
+As engineers or scientists who develop software, it is quite common to use information on websites like GitHub, Stack Overflow, or elsewhere to find solutions to problems.
 
 Although this is "open source", it is not necessarily _free to use_; published material is automatically protected by copyright. This means that the code posted on such websites belongs to the person (or their employer) posting it.
 
@@ -42,13 +42,13 @@ You cannot use code from websites unless it is clearly stated under what license
 ![](../beamer/images/bermix-studio-F7DAQIDSk98-unsplash.jpg)
 _Using code or intellectual property without clear terms is not a good idea_
 
-Some websites avoid this risk by including a term in their legal pages. For example, [stackoverflow's terms and conditions](https://stackoverflow.com/legal/terms-of-service#licensing) include this statement, which explicitly applies a license to material contributed by users:
+Some websites avoid this risk by including a term in their legal pages. For example, [Stack Overflow's terms and conditions](https://stackoverflow.com/legal/terms-of-service#licensing) include this statement, which explicitly applies a license to material contributed by users:
 
 > **Subscriber Content**
 >
 > You agree that any and all content, including without limitation any and all text, graphics, logos, tools, photographs, images, illustrations, software or source code, audio and video, animations, and product feedback (collectively, “Content”) that you provide to the public Network (collectively, “Subscriber Content”), is perpetually and irrevocably licensed to Stack Overflow on a worldwide, royalty-free, non-exclusive basis pursuant to Creative Commons licensing terms (CC BY-SA 4.0)
 >
-> [source: stackoverflow](https://stackoverflow.com/legal/terms-of-service#licensing)
+> [source: Stack Overflow](https://stackoverflow.com/legal/terms-of-service#licensing)
 
 Open source code on other sites may be protected through other mechanisms. On GitHub, uploaded code still belongs to the person posting it:
 
@@ -58,7 +58,7 @@ Open source code on other sites may be protected through other mechanisms. On Gi
 >
 > [source: GitHub.com](https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-terms-of-service#d-user-generated-content)
 
-But, a person who has found the repository using their favorite search engine may not be aware that the open-source code is still protected by copyright.
+But, a person who has found the repository using their favourite search engine may not be aware that the open-source code is still protected by copyright.
 
 On GitHub, a publisher - the person making the data available - can give their data a [license which can grant further rights](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/licensing-a-repository#choosing-the-right-license).
 
@@ -132,6 +132,7 @@ These notes are published under the [Creative Commons CC BY 4.0 license](https:/
 - Seminar 3: [Open Science and Intellectual Property](../../05_seminar3/notes/readme.md).
 - Seminar 4: [Communications strategies](../../07_seminar4/notes/readme.md).
 - Seminar 5: [What are data management plans and why do they matter?](../../10_seminar5/notes/readme.md).
+- Workshop: [Experiences of implementing open science](../../12_workshop1/notes/readme.md).
 
 ## Course progress
 | Previous: [Self-study 2: "Is your Group's Work FAIR?"](../../04_selfstudy2/readme.md) | [Course outline](../../readme.md#course-outline) | Next: [Self-study 3: "Implementing Open Science"](../../06_selfstudy3/readme.md) |

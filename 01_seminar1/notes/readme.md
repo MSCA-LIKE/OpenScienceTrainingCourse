@@ -37,7 +37,7 @@ This part of the seminar started with a discussion of how we all learned about C
 - Twitter was also mentioned as a news source, but it was noted that here it was important to find reputable people or organisations to follow.
 - Baidu, wechat, and WhatsApp were also mentioned as news sources, particularly in China and Asia.
 
-The course participants all felt it important to crosscheck news sources against each other, or the original source. Some people noted that it was hard to find out what the source of information really was.
+The course participants all felt it important to check different news sources against each other, or the original source. Some people noted that it was hard to find out what the source of information really was.
 
 Almost everyone had seen information posted on social networks like Reddit or Facebook but felt that the information content was low and that they were not  good sources of reliable news.
 
@@ -45,11 +45,11 @@ Almost everyone had seen information posted on social networks like Reddit or Fa
 
 As the COVID-19 pandemic spread and affected more people, a lot of people volunteered their time and skills to respond. A lot of these initiatives were local, for example delivering food to patients in risk groups, but there were also virtual responses, such as the [COVID-19 tech handbook](https://coronavirustechhandbook.com/).
 
-In the discussion in our first seminar in October 2020, no-one reported getting directly involved with the reponse to COVID-19. Several people said that they would have liked to, but were unable to find out how they could contribute or what was needed.
+In the discussion in our first seminar in October 2020, no-one reported getting directly involved with the response to COVID-19. Several people said that they would have liked to, but were unable to find out how they could contribute or what was needed.
 
 It sometimes takes a lot of effort to find these initiatives. It is easier to find these initiatives if they do a bit of advertising, for example through social media.
 
-This challenge speaks to the need to make science discoverable, which is enabled by good communications, and repositories with good metadata. For some examples of solutions to this for COVID-19 see e.g. the [Crowdfight COVID-19 initiative](https://crowdfightcovid19.org/) or the COVID-19 community on Zenodo.org. We'll discuss some possible solutions to this in later seminars.
+This challenge speaks to the need to make science discoverable, which is enabled by good communications, and repositories with good metadata. For some examples of solutions to this for COVID-19 see e.g. the [Crowdfight COVID-19 initiative](https://crowdfightcovid19.org/) or the COVID-19 community on [zenodo.org](https://zenodo.org/communities/covid-19/?page=1&size=20). We'll discuss some possible solutions to this in later seminars.
 
 ### Did openness help?
 
@@ -75,6 +75,7 @@ These notes are published under the [Creative Commons CC BY 4.0 license](https:/
 - Seminar 3: [Open Science and Intellectual Property](../../05_seminar3/notes/readme.md).
 - Seminar 4: [Communications strategies](../../07_seminar4/notes/readme.md).
 - Seminar 5: [What are data management plans and why do they matter?](../../10_seminar5/notes/readme.md).
+- Workshop: [Experiences of implementing open science](../../12_workshop1/notes/readme.md).
 
 ## Course Progress
 | Previous: This is the first event in the course. | [Course outline](../../readme.md#course-outline) | Next: [Self-study 1: "Background reading"](../../02_selfstudy1/readme.md) |

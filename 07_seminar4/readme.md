@@ -22,7 +22,7 @@ A 55-minute online discussion based around [this PDF](beamer/main.pdf), covering
 ### Outcomes
 - The student understands the concepts of an audience, message, and channel
 - The student is aware of the different communications channels that are available to them
-- The student understands the difference between commnications for information and communications for actions
+- The student understands the difference between communications for information and communications for actions
 - The student understands the importance of an emotional response for triggering actions
 
 ## Resources

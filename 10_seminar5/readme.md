@@ -23,17 +23,14 @@ This seminar will be split into two, 30-minute-long parts.
 - Students can start writing their data management plans for their PhDs
 
 ## Resources
-- The UK Digital Curation Centre (DCC)'s [DMPonline](https://dmponline.dcc.ac.uk/) data management plan service.
-- [DataWiz](https://datawiz.leibniz-psychology.org/DataWiz/) at the University of Leibniz.
+See (`../99_resources/07_data_management_plans/readme`)[../99_resources/07_data_management_plans/readme].
 
 ## Further reading:
 - An example data management plan from Pedro Santos, DTU [on Zenodo](https://zenodo.org/record/4009127).
 
 ## Questions and feedback
-- General questions? Please use slack to ask.
-- Personal questions? Get in contact directly.
-- Feedback about the course materials? Please [raise an issue](https://github.com/LIKE-ITN/OpenScienceTrainingCourse/issues).
+- Please [raise an issue](../../issues).
 
 ## Course progress
-| Previous: [Assignment 1: "Implementation Case Study"](../09_assignment1/readme.md) | [Course outline](../readme.md#course-outline) |Next: [Self-study 5: "Draft your LIKE data management plan"](../11_selfstudy5/readme.md) |
+| Previous: [Assignment 1: "Implementation Case Study"](../09_assignment1/readme.md) | [Course outline](../readme.md#course-outline) |Next: [Self-study 5: "Draft your data management plan"](../11_selfstudy5/readme.md) |
 |--|--|--|

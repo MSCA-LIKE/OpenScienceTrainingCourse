@@ -184,6 +184,7 @@ These notes are published under the [Creative Commons CC BY 4.0 license](https:/
 - Seminar 3: [Open Science and Intellectual Property](../../05_seminar3/notes/readme.md).
 - Seminar 4: [Communications strategies](../../07_seminar4/notes/readme.md).
 - Seminar 5: [What are data management plans and why do they matter?](../../10_seminar5/notes/readme.md).
+- Workshop: [Experiences of implementing open science](../../12_workshop1/notes/readme.md).
 
 ## Course progress
 | Previous: [Self-study 3: "Implementing open science"](../../06_selfstudy4/readme.md) | [Course outline](../../readme.md#course-outline) | Next: [Selfstudy 4: "Communicate!"](../../08_selfstudy4/readme.md) |
