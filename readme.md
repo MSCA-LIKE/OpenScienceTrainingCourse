@@ -5,8 +5,9 @@ This repository contains the materials for a remote study course on **Open Scien
 This file provides a basic overview of the course. For more details, see [the course handbook](00_handbook/readme.md).
 
 If you want to get an overview of the course:
-- check out the [course outline](#course-outline)
-- read [the notes from each seminar](01_seminar1/notes/readme.md).
+- check out the [course outline](#course-outline),
+- read [the notes from each seminar](01_seminar1/notes/readme.md), or
+- read [the summary of our experience in implementing open science](12_workshop1/notes/readme.md).
 
 ## Audience
 This course is intended for early-stage researchers in STEM subjects and their supervisors.
