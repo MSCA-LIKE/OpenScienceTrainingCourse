@@ -26,8 +26,7 @@ A 55-minute online discussion based around [this PDF](beamer/main.pdf), covering
 - The student understands the importance of an emotional response for triggering actions
 
 ## Resources
-- [PLOS SciComm blog](https://scicomm.plos.org/)
-- [Effective Science Communication (Second Edition)](https://iopscience.iop.org/book/978-0-7503-2520-2). IOP Science, 2020
+- [`../99_resources/06_communications_and_social_networks/readme.md`](../99_resources/06_communications_and_social_networks/readme.md).
 
 ## Further reading:
 - [What institutions can do to improve science communication](https://www.nature.com/articles/d41586-019-03869-7). Nature.com, 2020
@@ -37,5 +36,5 @@ A 55-minute online discussion based around [this PDF](beamer/main.pdf), covering
 - Please [raise an issue](../../../issues).
 
 ## Course progress
-| Previous: [Assignment 1: "Implementation case study"](../09_assignment1/readme.md) | [Course outline](../readme.md#course-outline) | Next: [Self-study 4: "Communications Strategies"](../08_selfstudy4/readme.md) |
+| Previous: [Assignment 1: "Implementation case study"](../09_assignment1/readme.md) | [Course outline](../readme.md#course-outline) | Next: [Self-study 4: "Communicate!"](../08_selfstudy4/readme.md) |
 | -- | -- | -- |

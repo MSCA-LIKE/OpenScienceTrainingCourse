@@ -8,6 +8,8 @@ _What are data management plans, and why do they matter?_
 
 
 ## Format
+A 55-minute online discussion based around [this PDF](seminar_05_slides_draft.pdf), covering:
+
 This seminar will be split into two, 30-minute-long parts.
 - The first 30 minutes will be an introduction to data management plans.
 - The second part will be a question-and-answer session about the course so far and the workshop.
@@ -23,7 +25,7 @@ This seminar will be split into two, 30-minute-long parts.
 - Students can start writing their data management plans for their PhDs
 
 ## Resources
-See [`../99_resources/07_data_management_plans/readme`](../99_resources/07_data_management_plans/readme).
+See [`../99_resources/07_data_management_plans/readme.md`](../99_resources/07_data_management_plans/readme.md).
 
 ## Further reading:
 - An example data management plan from Pedro Santos, DTU [on Zenodo](https://zenodo.org/record/4009127).

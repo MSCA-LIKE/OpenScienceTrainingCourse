@@ -58,7 +58,7 @@ You may want to update your DMP in 6 months' time. You could do this by creating
 Data management plans are a tool to help you think about your data. They help you take a long-term, coordinated perspective and consider how your data will be useful in future.
 
 ## Resources
-See [`../../99_resources/07_data_management_plans/readme`](../../99_resources/07_data_management_plans/readme).
+See [`../../99_resources/07_data_management_plans/readme.md`](../../99_resources/07_data_management_plans/readme.md).
 
 ## License
 These notes are published under the [Creative Commons CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/)

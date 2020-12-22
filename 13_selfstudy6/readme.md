@@ -14,7 +14,7 @@ Publish your data management plan to your portfolio (see [self-study 4](../08_se
 _4 hours of extra credit are available for this work_
 
 ## Resources
-See [`../99_resources/07_data_management_plans/readme`](../99_resources/07_data_management_plans/readme).
+See [`../99_resources/07_data_management_plans/readme.md`](../99_resources/07_data_management_plans/readme.md).
 
 ## Questions and feedback
 - Please [raise an issue](../../../issues).
