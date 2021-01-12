@@ -31,6 +31,7 @@ See
 - [`../99_resources/03_open_access/readme.md`](../99_resources/03_open_access/readme.md).
 
 ## Further reading:
+- [Open Science and Innovation](https://www.fosteropenscience.eu/node/2334) on the FOSTER portal.
 - [Modular design](https://en.wikipedia.org/wiki/Modular_design) enables interaction. If the interfaces in a modular system are clear, modules can be swapped in and out with ease.
 - Modular design has also started to appear in wind lidar:
   - The e-WindLidar data formats (See [§4.3 in ](https://zenodo.org/record/2478051) and [Lidaco](https://github.com/e-WindLidar/Lidaco)) enable much simpler data exchange.

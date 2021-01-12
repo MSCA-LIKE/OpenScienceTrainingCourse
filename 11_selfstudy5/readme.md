@@ -17,7 +17,7 @@ Write up a short article about your research and publish it as part of your port
 _6 hours of extra credit are available for this work_
 
 ## Resources
-See [`../99_resources/07_data_management_plans/readme`](../99_resources/07_data_management_plans/readme).
+See [`../99_resources/07_data_management_plans/readme.md`](../99_resources/07_data_management_plans/readme.md).
 
 ## Further reading
 

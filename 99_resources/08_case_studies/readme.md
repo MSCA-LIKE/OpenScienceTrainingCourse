@@ -44,7 +44,9 @@ We'll assume:
 - The status of the data - restricted or open - is irrelevant, as the data underlying the paper are not made available.
 
 ### Weaknesses
-The work has limited impact because others cannot leverage the work. They cannot repeat it or reuse the knowledge for other projects. All of this means that the work loses its impact very quickly.
+- The work has limited impact because others cannot leverage the work. 
+- They cannot repeat it or reuse the knowledge for other projects. 
+These factors mean that the work loses its impact very quickly.
 
 ### Possible improvements
 - The paper could have been published as open access.
@@ -84,13 +86,13 @@ We'll assume
 - The paper combines the methods, data processing, and results.
 - They wrote their code in a proprietary language.
 - They didn't make clear what data and code were used to create their published data.
-- The communications 
+- The communications go a long way towards promoting the paper, but the lack of a "call to action" or actionable insights means that any buzz that they generate is wasted.
 
 ### Possible improvements
-- The data, tools, and results could have been separated out into diffferent publications, each with their own DOI.
+- The data, tools, and results could have been separated out into different publications, each with their own DOI.
 - They could have written their processing code using an open language like `Python` or `R`. 
-- They could have mitigated repeatability challenges by uing [GitHub's _releases_](https://docs.github.com/en/free-pro-team@latest/github/administering-a-repository/about-releases), which capture a repository status at a specific point in time.
-- They could have used better-suited data file formats, for example NetCDF. They should have also made sure they used the file type favored by their community.
+- They could have mitigated repeatability challenges by using [GitHub's _releases_](https://docs.github.com/en/free-pro-team@latest/github/administering-a-repository/about-releases), which capture a repository status at a specific point in time.
+- They could have used better-suited data file formats, for example NetCDF. They should have also made sure they used the file type favoured by their community.
 
 ## Publishing a paper that uses data that is partly or totally restricted
 As researchers continue through their career they will often start to work with data that is commercially sensitive or includes some kind of intellectual property. This data must be protected. However, researchers need to be recognised for their skills and given credit for their work. How can we reconcile the need for security with the need for visibility?
@@ -102,20 +104,28 @@ We'll assume
 |               |              |   |   |
 |---------------|--------------|---|---|
 | Goal          |              | To advance their field of research despite working with restricted data  |
-| Concept       |              |  |
-| Approach      |              | Publish the data, methods, and results seperately.  |
+| Concept       |              | Publish the data, methods, and results separately. |
+| Approach      |              | Publish the data, methods, and results separately.  |
 
 We now need to apply FAIR and R5 to each of the publications coming out of the project.
 
 ### A data publication
+
+The authors write a short paper about their data and check it in to Zenodo.org
+
 |               |              |   |   |
 |---------------|--------------|---|---|
 | Data   | **F**indable | The data are checked in to a repository where they are assigned a DOI. The authors provide multiple keywords that include broad or generic terms and detailed terms. | ![](yes.png) |
 |               | **A**ccesible | The authors restrict access to the data, but the metadata describing it are kept open access. | ![](yes.png) |
 |               | **I**nteroperable | The authors provide metadata to the repository. The repository is using the [Dublin core](https://en.wikipedia.org/wiki/Dublin_Core), so the metadata are standardised. They choose keywords from a domain-specific list (see e.g. [the wind energy taxonomy of topics](http://data.windenergy.dtu.dk/ontologies/view/wtax/en/)).   | ![](yes.png) |
 |               | **R**eusable | The data repository includes a license and information about the origin of all data. | ![](yes.png) |
+| Code | Re-runnable (R<sup>1</sup>) | The authors include short examples of how to extract data from the repository. |
+|               | Repeatable (R<sup>2</sup>)  | The authors provide a release that corresponds to the published data and paper. | ![](yes.png) |
+|               | Reproducible (R<sup>3</sup>) | The authors included test data with passing criteria. Other users can therefore check the data. | ![](yes.png) |
+|               | Reusable (R<sup>4</sup>)    | The data is stored using self-describing a standard data format (e.g. NetCDF)  | ![](yes.png) |
+|               | Replicable (R<sup>5</sup>)  | The work can be replicated by other researchers (using their own data).  | ![](yes.png) |
 
-R<sup>1</sup> through R<sup>5</sup> are not applicable at this point.
+| Communications | | The authors decide to present their work at conferences. To increase attendance they promote their work through social media. They provide links to their paper as well.  | ![](caution.png) |
 
 
 ### A methods publication
