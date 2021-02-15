@@ -44,6 +44,8 @@ The _basic course_ requires 61 hours of study time:
 - 11 contact hours, and
 - 50 self-study hours.
 
+Depending on the universities policies, this workload can be translated to 2.5 ECTS points.
+
 #### The extended course
 The _extended course_ adds 30 hours of self-study to the _basic course_. It is designed for students who need to add hours for ECTS points requirements.
 
